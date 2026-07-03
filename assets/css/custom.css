@@ -46,8 +46,9 @@
 }
 
 .article-list--tile article:not(.has-image) .article-details {
-    justify-content: flex-start;
-    padding-top: 1rem;
+    justify-content: center;
+    padding: 1rem;
+    text-align: center;
 }
 
 /* A-Z index on taxonomy pages (categories, tags) */
