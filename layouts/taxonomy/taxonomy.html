@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <header>
+        <h3 class="section-title">{{ .Title }}</h3>
+    </header>
+
+    {{- $pages := .Pages.ByTitle -}}
+
+    {{/* Collect unique first letters */}}
+    {{- $letters := slice -}}
+    {{- range $pages -}}
+        {{- $letter := upper (substr .Title 0 1) -}}
+        {{- if not (in $letters $letter) -}}
+            {{- $letters = $letters | append $letter -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{/* A-Z nav bar */}}
+    <nav class="az-index">
+        {{- range $letters -}}
+            <a href="#az-{{ . }}" class="az-letter-link">{{ . }}</a>
+        {{- end -}}
+    </nav>
+
+    {{/* Grouped list */}}
+    <div class="az-groups">
+        {{- range $letters -}}
+            {{- $letter := . -}}
+            <div class="az-group">
+                <h2 id="az-{{ $letter }}" class="az-heading">{{ $letter }}</h2>
+                <ul class="az-terms-list">
+                    {{- range $pages -}}
+                        {{- if eq (upper (substr .Title 0 1)) $letter -}}
+                            <li>
+                                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                                <span class="az-count">{{ len .Pages }}</span>
+                            </li>
+                        {{- end -}}
+                    {{- end -}}
+                </ul>
+            </div>
+        {{- end -}}
+    </div>
+
+    {{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
