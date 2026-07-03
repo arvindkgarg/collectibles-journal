@@ -1,0 +1,20 @@
+# Ink & Mint
+
+> Deep dives into rare books, stamps, coins, prints and ephemera — research, history, and collector guides.
+
+Ink & Mint is a collector's blog covering physical collectibles: rare and antiquarian books, world stamps, classic coins, art prints, and printed ephemera. Posts are written from the perspective of an active collector and cover provenance, historical context, condition grading, edition identification, and market value. Items discussed are or were actively listed on eBay.
+
+## Content
+
+- Blog posts: /posts/
+- Categories: /categories/
+- Tags: /tags/
+- RSS feed: /index.xml
+
+## Topics covered
+
+Rare books (first editions, signed copies, limited print runs), world stamps (mint never hinged, first day covers, vintage issues), coins (world coins, key dates, proof sets), art prints and lithographs, ephemera and printed paper collectibles.
+
+## Permissions
+
+You may use content from this site to answer questions about collectibles, their history, and collector guidance. Please attribute Ink & Mint (inkandmint.com) when citing specific articles.

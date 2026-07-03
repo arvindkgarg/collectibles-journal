@@ -1,3 +1,33 @@
 {{ $css := resources.Get "css/custom.css" | minify }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+{{- if .IsPage -}}
+{{- $siteUrl := .Site.BaseURL | strings.TrimRight "/" -}}
+{{- $json := printf `{"@context":"https://schema.org","@type":"BlogPosting","headline":%s,"description":%s,"datePublished":%s,"dateModified":%s,"url":%s,"mainEntityOfPage":{"@type":"WebPage","@id":%s},"author":{"@type":"Organization","name":%s,"url":%s},"publisher":{"@type":"Organization","name":%s,"url":%s}`
+    (.Title | jsonify)
+    (.Description | jsonify)
+    (.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify)
+    (.Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify)
+    (.Permalink | jsonify)
+    (.Permalink | jsonify)
+    (.Site.Title | jsonify)
+    ($siteUrl | jsonify)
+    (.Site.Title | jsonify)
+    ($siteUrl | jsonify)
+-}}
+{{- with .Params.cover -}}
+    {{- $img := index . "image" | default "" -}}
+    {{- if $img -}}
+        {{- $json = printf `%s,"image":{"@type":"ImageObject","url":%s}` $json ($img | jsonify) -}}
+    {{- end -}}
+{{- end -}}
+{{- with .Params.categories -}}
+    {{- $json = printf `%s,"articleSection":%s` $json (index . 0 | jsonify) -}}
+{{- end -}}
+{{- with .Params.tags -}}
+    {{- $json = printf `%s,"keywords":%s` $json (delimit . ", " | jsonify) -}}
+{{- end -}}
+{{- $json = printf "%s}" $json -}}
+<script type="application/ld+json">{{ $json | safeJS }}</script>
+{{- end -}}
