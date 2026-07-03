@@ -141,6 +141,17 @@
     background: var(--card-background);
 }
 
+/* Mobile blog post layout: right sidebar first, then article, left sidebar last */
+@media (max-width: 767px) {
+    .article-page .right-sidebar {
+        display: flex;
+        order: -3;
+    }
+    .article-page .left-sidebar {
+        order: -1;
+    }
+}
+
 /* Inline post images — constrain both width and height so spine/edge shots don't dominate */
 .article-content img,
 .article-content img.gallery-image {
