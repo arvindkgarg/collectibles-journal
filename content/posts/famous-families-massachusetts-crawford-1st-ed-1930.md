@@ -17,7 +17,7 @@ categories:
   - 'Rare Books'
   - 'Genealogy'
 slug: 'famous-families-massachusetts-crawford-1st-ed-1930'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389669389680?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 79.0
 
@@ -45,7 +45,7 @@ This two-volume set provides an invaluable window into the social structures and
 For genealogists, *Famous Families of Massachusetts* is nothing short of a definitive resource. It compiles data that would require years of painstaking individual research, presenting it in an organized, accessible format. Beyond mere lists of names and dates, Crawford's narrative breathes life into these figures, illustrating their challenges, triumphs, and the societal context in which they lived. It is through such works that we gain a deeper appreciation for the complex interplay of individuals and events that forged early American society, making it an indispensable tool for anyone tracing their family tree or simply seeking to understand the socio-historical fabric of the early United States. The book's publication reinforced the importance of preserving and understanding local history as an integral part of the broader American narrative.
 
 
-![Famous Families of Massachusetts — image 3](https://i.ebayimg.com/00/s/MTE4N1gxNjAw/z/MkYAAeSwc9xpn0aA/$_57.PNG?set_id=880000500F)
+![Famous Families of Massachusetts — image 3](https://i.ebayimg.com/00/s/MTI0N1gxNjAw/z/6lEAAeSwtEZpnzjP/$_57.JPG?set_id=880000500F)
 
 ## The Allure for Collectors: Why *Famous Families* Stands Out
 
@@ -75,7 +75,7 @@ Through her writings, Crawford established herself as a significant interpreter 
 The fact that Little, Brown, and Company, a notable and reputable publishing firm, chose to publish this extensive work further underscores Crawford's standing as a respected author and the perceived importance of her subject matter. Publishers of their caliber were discerning, and their investment in a two-volume set suggests confidence in Crawford's expertise and the market's demand for such a definitive genealogical and historical resource. Mary Caroline Crawford's meticulous research and narrative skill ensured that *Famous Families of Massachusetts* would not only be a historical record but also a captivating journey into the heart of American ancestry.
 
 
-![Famous Families of Massachusetts — image 5](https://i.ebayimg.com/00/s/MTI1MFgxNjAw/z/PYgAAeSwDRBpn0aR/$_57.PNG?set_id=880000500F)
+![Famous Families of Massachusetts — image 5](https://i.ebayimg.com/00/s/OTU2WDE2MDA=/z/6iEAAeSwuhJpnzjP/$_57.JPG?set_id=880000500F)
 
 ## Decoding the Details: Identifying a True First Edition
 

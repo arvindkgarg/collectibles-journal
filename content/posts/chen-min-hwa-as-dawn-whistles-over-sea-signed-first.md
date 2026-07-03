@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Literature & Poetry"
 slug: "chen-min-hwa-as-dawn-whistles-over-sea-signed-first"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389744131666?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 290.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTMz/z/upsAAeSwZAFptLn0/$_57.JPG?set_id=880000500F"
-  alt: "As Dawn Whistles Over the Sea"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTMz/z/upsAAeSwZAFptLn0/$_57.JPG?set_id=880000500F'
+  alt: 'As Dawn Whistles Over the Sea'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ In the hushed world of rare books, certain titles don't just tell a story within
 > **Currently available:** A copy of this item is in our collection — listed at $290. [View listing on eBay →](https://www.ebay.com/itm/389744131666?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![As Dawn Whistles Over the Sea — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTMw/z/8JIAAeSwgvFptLn0/$_57.JPG?set_id=880000500F)
+![As Dawn Whistles Over the Sea — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTMz/z/0OQAAeSwG55ptLn1/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Voice of Taiwan's "Localist Turn"
 
@@ -44,7 +44,7 @@ Central to the collection's enduring legacy is the renowned seven-part "Yeh-Liu 
 The broader impact of Chen Min-hwa's work, and particularly "As Dawn Whistles Over the Sea," cannot be overstated. It helped to redefine what Taiwanese poetry could be, paving the way for future generations of poets to explore their own unique heritage and surroundings. The collection’s availability to a wider English-speaking audience was also significantly aided by the efforts of translator John M. McLellan, whose dedication helped bridge cultural and linguistic divides, ensuring Chen Min-hwa's powerful voice reached beyond the shores of Taiwan.
 
 
-![As Dawn Whistles Over the Sea — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDQx/z/4EEAAeSwciBptLn0/$_57.JPG?set_id=880000500F)
+![As Dawn Whistles Over the Sea — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTMw/z/8JIAAeSwgvFptLn0/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Landmark Work
 

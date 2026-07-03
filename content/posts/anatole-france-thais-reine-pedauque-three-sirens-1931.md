@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Illustrated Editions'
 slug: 'anatole-france-thais-reine-pedauque-three-sirens-1931'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389860660432?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -60,7 +60,7 @@ For serious collectors and enthusiasts of French literature and early 20th-centu
 **Historical and Cultural Significance:** This edition isn't just a book; it's an artifact from a specific moment in cultural history. It captures the intersection of high literature, a celebrated art movement (Art Deco), and a particular publishing philosophy. For collectors of **collectible French literature** or 20th-century illustrated books, it offers a window into the past, showcasing how classics were presented and appreciated during a vibrant era of design. The combination of a Nobel Prize-winning author with the distinctive Art Deco visuals makes it a highly desirable piece for both literary and art history enthusiasts.
 
 
-![Thais & At the Sign of the Reine Pédauque — image 4](https://i.ebayimg.com/00/s/MTYwMFg5NjQ=/z/pS4AAeSwsQ5p1cGl/$_57.JPG?set_id=880000500F)
+![Thais & At the Sign of the Reine Pédauque — image 4](https://i.ebayimg.com/00/s/MTU5OVg5MTA=/z/lkEAAeSwo55p1cGl/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Assessing Condition
 
@@ -73,7 +73,7 @@ The condition of such an item significantly impacts its desirability and value. 
 The accompanying original red slipcase, while protective, often bears the brunt of handling over the decades. The research notes indicate that the slipcase for this edition typically shows "moderate shelf wear and scuffing." This is common and expected for a slipcase of this age, as its primary function is to shield the book from damage. The crucial aspect is that it remains "structurally sound," meaning it still effectively houses and protects the book, despite cosmetic imperfections. A complete set, with both book and its original, structurally sound slipcase, is always more desirable than a loose copy. This combination of a near-fine book and a well-preserved, albeit worn, slipcase makes the set highly attractive to discerning collectors seeking a prime example of a **Thais illustrated edition**.
 
 
-![Thais & At the Sign of the Reine Pédauque — image 5](https://i.ebayimg.com/00/s/MTYwMFg5MjM=/z/qpkAAeSw9pNp1cGl/$_57.JPG?set_id=880000500F)
+![Thais & At the Sign of the Reine Pédauque — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDQ4/z/raUAAeSw~LJp1cGl/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Its Distinctive Place
 

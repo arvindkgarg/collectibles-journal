@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Natural History"
 slug: "1932-birds-minnesota-vol1-first-edition-grace-lee-nute"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389754994183?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 125.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMjMy/z/BtsAAeSwUappt4Ox/$_57.JPG?set_id=880000500F"
-  alt: "The Birds of Minnesota (Volume I)"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMjMy/z/BtsAAeSwUappt4Ox/$_57.JPG?set_id=880000500F'
+  alt: 'The Birds of Minnesota (Volume I)'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ The world of rare books often holds more than just printed words; it offers a ta
 > **Currently available:** A copy of this item is in our collection — listed at $125. [View listing on eBay →](https://www.ebay.com/itm/389754994183?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Birds of Minnesota (Volume I) — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/j5QAAeSw-olpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota (Volume I) — image 2](https://i.ebayimg.com/00/s/MTU5OVgxMjIy/z/PokAAeSwUoRpt4Ox/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: A Landmark in the Depression Era
 
@@ -42,7 +42,7 @@ The early 20th century was a period of burgeoning interest in natural sciences, 
 The very act of publishing such a comprehensive and richly illustrated work during the depths of the Great Depression speaks volumes about its perceived importance and the dedication of all involved. The University of Minnesota, which published the work, demonstrated a remarkable commitment to scholarship even amidst severe economic hardship. The local printing and lithography by the McGill Lithograph Company in Minneapolis further underscore its regional significance, highlighting the craftsmanship and intellectual vibrancy present within Minnesota during a challenging era. This context imbues the book with a unique historical weight, reflecting a dedication to knowledge and cultural enrichment that transcended immediate economic concerns. It’s a powerful reminder that even in the darkest times, the pursuit of understanding and the appreciation of the natural world continue to inspire and uplift.
 
 
-![The Birds of Minnesota (Volume I) — image 3](https://i.ebayimg.com/00/s/MTYwMFgyOTI=/z/HPsAAeSwRbRpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota (Volume I) — image 3](https://i.ebayimg.com/00/s/MTAzMlgxNjAw/z/rccAAeSwPqFpt4Ox/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Exceptional Work
 
@@ -66,7 +66,7 @@ What truly elevates this particular copy, beyond its status as a **1932 first ed
 The physical condition of a book from the 1930s is also a critical factor. *The Birds of Minnesota* is a substantial work, reportedly weighing nearly 5 pounds, which naturally puts stress on its binding over time. Therefore, finding a copy where the text block remains remarkably tight and square is a strong indicator of robust original construction and careful handling throughout its life. This structural integrity is a testament to the quality of materials and craftsmanship employed by the McGill Lithograph Company in Minneapolis. Intact pages, crisp illustrations (especially the full-color frontispiece of the Wood Duck), and minimal foxing or internal damage are all signs of a well-preserved copy. Minor shelf wear or superficial marks on the exterior might be acceptable given the book's age and size, but a clean, unblemished interior is highly prized. Collectors often seek out copies with original cloth bindings that are largely intact, with lettering and decorative elements still clear. This specific copy’s excellent internal condition, despite its age and significant weight, ensures that the scientific content and artistic plates can be appreciated as originally intended.
 
 
-![The Birds of Minnesota (Volume I) — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTIx/z/PooAAeSwnahpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota (Volume I) — image 5](https://i.ebayimg.com/00/s/MTYwMFgyOTI=/z/HPsAAeSwRbRpt4Ow/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: Why the First Edition Reigns Supreme
 

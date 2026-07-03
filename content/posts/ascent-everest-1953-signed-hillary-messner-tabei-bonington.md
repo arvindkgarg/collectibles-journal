@@ -17,7 +17,7 @@ categories:
   - "Rare Books"
   - "Exploration & Adventure"
 slug: "ascent-everest-1953-signed-hillary-messner-tabei-bonington"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389907970843?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 4500.0
 

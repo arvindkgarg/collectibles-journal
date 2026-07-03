@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Science History"
 slug: "rare-1922-wind-weather-mcadie-haskins-association"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389755169443?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 275.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMDUw/z/~NkAAeSwMHlpt42j/$_57.JPG?set_id=880000500F"
-  alt: "Wind and Weather"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMDUw/z/~NkAAeSwMHlpt42j/$_57.JPG?set_id=880000500F'
+  alt: 'Wind and Weather'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ In the vast and fascinating world of rare books, some items transcend their text
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389755169443?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Wind and Weather — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTUy/z/wYUAAeSwJ21pt42k/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/W1YAAeSwvxZpt42j/$_57.JPG?set_id=880000500F)
 
 ## Historical Currents: McAdie, Haskins, and the Pursuit of Knowledge at Harvard
 
@@ -44,7 +44,7 @@ Across the quad, in a different but equally profound academic domain, resided **
 The inscription within this particular copy of "Wind and Weather" – "Professor C. H. Haskins with warm regards of Alexander McAdie" – creates a tangible link between these two eminent Harvard scholars. It's a snapshot of a moment when the intellectual worlds of science and history, though distinct, could intersect through personal friendship and mutual respect. This unique intersection of scientific and academic history from the 1920s speaks volumes about the collegial atmosphere that characterized Harvard during its golden age. It paints a picture of a university where profound thinkers, irrespective of their primary discipline, engaged with and supported one another's intellectual endeavors.
 
 
-![Wind and Weather — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDU2/z/O1oAAeSwcKNpt42k/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDQ3/z/OAwAAeSwJe1pt42k/$_57.JPG?set_id=880000500F)
 
 ## Why This Copy of "Wind and Weather" is a Collector's Rarity
 
@@ -61,7 +61,7 @@ Finally, the book features **Illustrations**, notably 'The Tower of the Winds' i
 In summary, the confluence of a first edition, a personal author inscription, its status as an association copy between two Harvard luminaries, and the rare survival of its original pictorial dust jacket makes this particular copy of "Wind and Weather" an exceedingly rare and highly valuable collectible. It's a multi-layered historical artifact that speaks volumes about science, history, and human connection in the early 20th century.
 
 
-![Wind and Weather — image 4](https://i.ebayimg.com/00/s/MTYwMFg5Mg==/z/3jwAAeSwle9pt42j/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 4](https://i.ebayimg.com/00/s/MTI0MVgxNjAw/z/0ksAAeSwlYJpt42k/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Assessing Condition for "Wind and Weather"
 
@@ -78,7 +78,7 @@ Crucially, this copy retains its **original 1922 pictorial dust jacket**. As not
 The combination of these factors – its confirmed status as a first edition, the direct author inscription to Charles Homer Haskins, its illustrative content, and the presence of the original, albeit damaged, dust jacket – paints a clear picture of a historically significant and exceptionally rare item that stands out in the landscape of early 20th-century scientific literature.
 
 
-![Wind and Weather — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/W1YAAeSwvxZpt42j/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDcw/z/9yAAAeSwchFpt42j/$_57.JPG?set_id=880000500F)
 
 ## Understanding Value: Comparable Editions and Their Distinctions
 

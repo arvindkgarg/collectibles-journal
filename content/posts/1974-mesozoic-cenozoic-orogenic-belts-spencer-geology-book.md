@@ -16,13 +16,13 @@ categories:
   - "Books"
   - "Science"
 slug: "1974-mesozoic-cenozoic-orogenic-belts-spencer-geology-book"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389759308866?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 135.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgzODk=/z/bv8AAeSwi~JpuKtw/$_57.JPG?set_id=880000500F"
-  alt: "Mesozoic-Cenozoic Orogenic Belts"
+  image: 'https://i.ebayimg.com/00/s/MTM2MlgxNjAw/z/MSUAAeSwJNBpuKtv/$_57.JPG?set_id=880000500F'
+  alt: 'Mesozoic-Cenozoic Orogenic Belts'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ The Earth beneath our feet is a dynamic canvas, constantly reshaping itself thro
 > **Currently available:** A copy of this item is in our collection — listed at $135. [View listing on eBay →](https://www.ebay.com/itm/389759308866?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Mesozoic-Cenozoic Orogenic Belts — image 2](https://i.ebayimg.com/00/s/MTM2MlgxNjAw/z/MSUAAeSwJNBpuKtv/$_57.JPG?set_id=880000500F)
+![Mesozoic-Cenozoic Orogenic Belts — image 2](https://i.ebayimg.com/00/s/MTYwMFgzODk=/z/bv8AAeSwi~JpuKtw/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Earth in Motion
 
@@ -64,7 +64,7 @@ Finally, the presence of its **original slipcase** adds another layer of value. 
 In essence, *Mesozoic-Cenozoic Orogenic Belts* is a confluence of historical significance, academic depth, and physical preservation. It offers collectors not just a book, but a tangible connection to a critical juncture in Earth science, presented in a condition that belies its age and specialized nature.
 
 
-![Mesozoic-Cenozoic Orogenic Belts — image 4](https://i.ebayimg.com/00/s/Njc1WDE1OTk=/z/TwAAAeSwdUVpuKtw/$_57.JPG?set_id=880000500F)
+![Mesozoic-Cenozoic Orogenic Belts — image 4](https://i.ebayimg.com/00/s/Njg0WDE2MDA=/z/YWoAAeSw5nxpuKt-/$_57.PNG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Insight
 
@@ -82,7 +82,7 @@ A deeper dive into the description reveals the specifics:
 The most notable factor contributing to this exceptional internal condition is the presence and protective function of its **slipcase**. A slipcase is a box-like enclosure, open on one side, designed to hold and protect a book. While this particular slipcase shows "minor shelf-soiling" – small marks or discoloration from sitting on a shelf over decades – its primary role was successfully fulfilled. It shielded the book from dust, environmental fluctuations, and minor physical abrasions that would otherwise degrade the covers and edges, ensuring that the substantial 809-page volume remained in its remarkable 'Fine' state. This combination of a well-preserved text and its original, protective housing makes it a highly desirable example for any collector of rare science books.
 
 
-![Mesozoic-Cenozoic Orogenic Belts — image 5](https://i.ebayimg.com/00/s/Njg5WDE2MDA=/z/QyUAAeSwKnlpuKtw/$_57.JPG?set_id=880000500F)
+![Mesozoic-Cenozoic Orogenic Belts — image 5](https://i.ebayimg.com/00/s/Njg4WDE2MDA=/z/SywAAeSwFAlpuKtw/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions
 

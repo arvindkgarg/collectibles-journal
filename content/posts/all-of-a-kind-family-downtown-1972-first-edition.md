@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Children''s Books'
 slug: 'all-of-a-kind-family-downtown-1972-first-edition'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389883352155?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 145.0
 
@@ -30,7 +30,7 @@ In the vibrant tapestry of children's literature, some threads shine brighter th
 > **Currently available:** A copy of this item is in our collection — listed at $145. [View listing on eBay →](https://www.ebay.com/itm/389883352155?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![All-of-a-Kind Family Downtown — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTgz/z/kvMAAeSwqBVp3G2Y/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 2](https://i.ebayimg.com/00/s/MTE1NlgxNjAw/z/KUsAAeSwPw9p3G2Z/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Enduring Charm of the All-of-a-Kind Family
 
@@ -45,7 +45,7 @@ The series is celebrated for its groundbreaking depiction of a Jewish family, ma
 A distinctive feature of the entire "All-of-a-Kind Family" series is the charming black-and-white illustrations by the talented duo, Beth and Joe Krush. Their artwork perfectly complements Taylor’s prose, capturing the spirit of the era and the personalities of the characters with a delicate touch. These illustrations are integral to the reading experience, adding another layer of nostalgia and authenticity that collectors and readers highly value. Taylor’s initial motivation for writing the first book was reportedly to share stories of her youth with her own children, a personal endeavor that blossomed into a literary legacy impacting countless others. The continued success of the series through the 1970s, with new installments like *All-of-a-Kind Family Downtown*, underscored its timeless appeal and its crucial role in shaping children's literature.
 
 
-![All-of-a-Kind Family Downtown — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjk=/z/CBsAAeSwjkxp3G2Y/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 3](https://i.ebayimg.com/00/s/MTA2OVgxNjAw/z/5toAAeSwNBlp3G2Z/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Enduring Classic
 
@@ -58,7 +58,7 @@ The emotional connection readers develop with the "All-of-a-Kind Family" also pl
 Furthermore, the "investment grade" description of such a copy underscores its long-term value. Books that combine historical significance, literary impact, and cultural relevance, especially when they are part of a beloved series, tend to appreciate over time. When these factors are paired with exceptional physical condition—such as being unread and retaining its original dust jacket—the item becomes even more desirable. Collectors understand that a rare book in exceptional condition isn't just a book; it's an asset, a piece of art, and a carefully preserved fragment of our collective past. The enduring popularity of Sydney Taylor and the "All-of-a-Kind Family" ensures that interest in high-quality first editions will remain strong for years to come.
 
 
-![All-of-a-Kind Family Downtown — image 4](https://i.ebayimg.com/00/s/MTE1NlgxNjAw/z/KUsAAeSwPw9p3G2Z/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 4](https://i.ebayimg.com/00/s/MTE1OFgxNjAw/z/72kAAeSwzp1p3G2Z/$_57.JPG?set_id=880000500F)
 
 ## Identifying a True First Edition and Pristine Condition
 
@@ -71,7 +71,7 @@ The presence and condition of the original dust jacket are also critical. For co
 Finding a 1972 stated first printing of *All-of-a-Kind Family Downtown* in truly unread condition with an excellent, unclipped dust jacket is, according to collectors, quite scarce. The combination of its stated first printing status, its "unread" and "Gift Quality" condition, and the perfectly preserved, unclipped dust jacket makes this a particularly desirable and rare specimen for enthusiasts of classic children's literature, Jewish-American cultural history, and rare book collectors alike. It represents the pinnacle of preservation for a book that holds such significant historical and emotional weight.
 
 
-![All-of-a-Kind Family Downtown — image 5](https://i.ebayimg.com/00/s/MTA2OVgxNjAw/z/5toAAeSwNBlp3G2Z/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTc0/z/Gc4AAeSw6wJp3G2Z/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions
 

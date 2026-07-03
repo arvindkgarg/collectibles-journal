@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Regional History'
 slug: 'rare-review-copy-1948-california-landmarks-mcclure'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389511354056?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 85.0
 
@@ -45,7 +45,7 @@ The book's content reflected this dual purpose. Featuring over 100 striking blac
 "California Landmarks" thus became more than just a guidebook; it became a cultural touchstone, helping to shape the collective understanding of California's identity in the mid-20th century. It provided a framework for appreciating the state's historical depth at a time when its future seemed limitless, solidifying its place as an early and important contribution to the documentation and preservation of California's unique heritage.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTA1/z/IvMAAeSwQqRpbYQK/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTY3/z/5WkAAeSwUxxpbYQK/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This: The Unseen Story of a Review Copy
 
@@ -64,7 +64,7 @@ The author, James D. McClure (or Jim McClure), also contributes to the book's en
 In essence, this "California Landmarks review copy" is more than just a book; it's a historical document, a window into mid-20th century publishing practices, and a tangible piece of California's storied past. Its rarity, underscored by the unique and dated complimentary slip, makes it a truly exceptional find for any serious collector looking to add depth, provenance, and a rich narrative to their collection.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTI3/z/rywAAeSwJIxpbYQJ/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 4](https://i.ebayimg.com/00/s/MTI1M1gxNjAw/z/rMIAAeSwAkppbYQK/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Guide
 
@@ -85,7 +85,7 @@ Finally, the **complimentary slip** itself is noted to be in excellent condition
 In summation, the combination of a confirmed First Edition, First Printing status, reinforced by the dated publisher's review slip, and the excellent condition of both the book and its original dust jacket, makes this "California Landmarks" a truly exceptional and well-preserved specimen for collectors of regional history and rare books.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTAz/z/HggAAeSw3IlpbYQK/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTI3/z/rywAAeSwJIxpbYQJ/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: The Unique Stand of a Review Copy
 

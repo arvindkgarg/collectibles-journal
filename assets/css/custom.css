@@ -40,11 +40,21 @@
     }
 }
 
-/* Inline post images at 90% width, centered */
+/* From the Collection sidebar cover image */
+.listing-callout img {
+    max-height: 280px;
+    width: 100%;
+    object-fit: contain;
+    background: var(--card-background);
+}
+
+/* Inline post images — constrain both width and height so spine/edge shots don't dominate */
 .article-content img,
 .article-content img.gallery-image {
     max-width: 80% !important;
-    width: 80% !important;
+    max-height: 520px !important;
+    width: auto !important;
+    height: auto !important;
     display: block !important;
     margin: 1rem auto !important;
 }

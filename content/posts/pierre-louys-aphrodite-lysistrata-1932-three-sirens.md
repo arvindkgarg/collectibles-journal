@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "Illustrated Editions"
 slug: "pierre-louys-aphrodite-lysistrata-1932-three-sirens"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389860731028?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 85.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTIxN1gxNjAw/z/wVwAAeSwHqBp1cLs/$_57.JPG?set_id=880000500F"
-  alt: "Pierre Louys: Aphrodite & Lysistrata"
+  image: 'https://i.ebayimg.com/00/s/MTIxN1gxNjAw/z/wVwAAeSwHqBp1cLs/$_57.JPG?set_id=880000500F'
+  alt: 'Pierre Louys: Aphrodite & Lysistrata'
   relative: false
 ---
 
@@ -62,7 +62,7 @@ Thirdly, the **reputation of Three Sirens Press** adds another layer of desirabi
 Finally, and crucially for its rarity and market value, is the **inclusion of the original red slipcase in structurally sound condition**. While the book itself, the 1932 Three Sirens Press edition of *Aphrodite & Lysistrata*, might be available in various states, copies complete with their original slipcases are considered significantly rarer and highly desirable. Slipcases were designed to protect the book, but they were often discarded or damaged over time. To find one still present and in good structural condition speaks volumes about how well the book has been preserved over nearly a century. A slipcase transforms a standalone book into a complete, pristine package, enhancing its visual appeal and protecting its longevity. It signifies a collector's item in its most ideal form, representing a level of completeness that commands a premium in the rare book market. The overall excellent condition of the book itself further contributes to its scarcity, ensuring that collectors are acquiring a truly exceptional piece of literary and artistic history.
 
 
-![Pierre Louys: Aphrodite & Lysistrata — image 4](https://i.ebayimg.com/00/s/MTYwMFg5OTc=/z/wbIAAeSwxwFp1cLq/$_57.JPG?set_id=880000500F)
+![Pierre Louys: Aphrodite & Lysistrata — image 4](https://i.ebayimg.com/00/s/MTI3NVgxNjAw/z/xWIAAeSw7-pp1cLq/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Guide
 
@@ -89,7 +89,7 @@ The condition of the book itself, beyond the slipcase, also factors heavily into
 Collectors understand that "excellent condition" for a book from 1932 is relative to its age. A few minor imperfections are almost inevitable. However, the combination of a well-preserved book and its rare, original, structurally sound slipcase distinguishes this particular offering as a truly exceptional and highly sought-after collectible.
 
 
-![Pierre Louys: Aphrodite & Lysistrata — image 5](https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/vDcAAeSwiWxp1cMa/$_57.PNG?set_id=880000500F)
+![Pierre Louys: Aphrodite & Lysistrata — image 5](https://i.ebayimg.com/00/s/MTI4NFgxNjAw/z/pNYAAeSw5Shp1cLq/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: What Makes This One Unique
 

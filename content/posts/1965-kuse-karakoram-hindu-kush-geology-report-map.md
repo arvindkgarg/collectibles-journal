@@ -15,13 +15,13 @@ categories:
   - "Science"
   - "Rare Books"
 slug: "1965-kuse-karakoram-hindu-kush-geology-report-map"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389755090925?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 275.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTI4/z/Ux4AAeSwOn9pt4li/$_57.JPG?set_id=880000500F"
-  alt: "Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTI4/z/Ux4AAeSwOn9pt4li/$_57.JPG?set_id=880000500F'
+  alt: 'Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map'
   relative: false
 ---
 
@@ -30,7 +30,7 @@ The allure of the world's highest mountains has captivated humanity for centurie
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389755090925?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTI4/z/yxkAAeSwSxxpt4li/$_57.JPG?set_id=880000500F)
+![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDc0/z/nT8AAeSwZAFpt4li/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: Unveiling the Earth's Architecture in the 1960s
 
@@ -45,7 +45,7 @@ The KUSE team faced a landscape that was—and in many parts, still is—one of 
 This report, published in 1965, provides a unique snapshot of geological understanding at a specific point in time. It predates much of the advanced satellite mapping and seismic imaging techniques available today, relying heavily on direct observation, field measurements, and traditional cartographic methods. As such, it offers an invaluable historical record of how geological science was conducted in challenging environments during the mid-20th century. It’s not just about the rocks; it’s about the human endeavor to understand our planet, documented in raw, firsthand detail. The fact that Kyoto University, a leading academic institution in Japan, spearheaded and published this work underscores its academic rigor and the significant investment in scientific research that characterized the era.
 
 
-![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 3](https://i.ebayimg.com/00/s/MTYwMFg2NA==/z/yv8AAeSwQ6Rpt4lh/$_57.JPG?set_id=880000500F)
+![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 3](https://i.ebayimg.com/00/s/MTA2M1gxNjAw/z/Fa0AAeSwGSRpt4li/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Landmark Scientific Expedition Report
 
@@ -64,7 +64,7 @@ Furthermore, the volume contains multiple internal fold-out scientific maps and 
 Finally, for specialists in **scientific expedition books** and **vintage geology maps**, this report is a cornerstone piece. It represents a significant academic endeavor from a respected institution (Kyoto University) in a geographically critical and challenging domain. It documents a period when much of the Earth's surface was still being charted and understood. Collecting such items is not just about acquiring books; it’s about preserving a tangible link to human ingenuity, exploration, and the relentless pursuit of knowledge.
 
 
-![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDc0/z/nT8AAeSwZAFpt4li/$_57.JPG?set_id=880000500F)
+![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDky/z/y6gAAeSwt4xpt4lh/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Singular Original Publication
 
@@ -83,7 +83,7 @@ Regarding its condition and specific features, the report is celebrated for seve
 Given its original publication status and the specialized nature of its content, any collector seeking this item would prioritize a copy that retains all its stated components, especially the oversized map and panoramic photographs, in as pristine a condition as possible. Such a comprehensive and well-preserved copy stands as a direct, untarnished artifact of the KUSE's groundbreaking work.
 
 
-![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 5](https://i.ebayimg.com/00/s/MTYwMFg5ODU=/z/NxUAAeSwRbRpt4li/$_57.JPG?set_id=880000500F)
+![Scientific Report: Geology of the Karakoram and Hindu Kush (Kyoto University Scientific Expedition - KUSE) with Map — image 5](https://i.ebayimg.com/00/s/OTQ0WDE2MDA=/z/gcoAAeSwtZdpt4lh/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: A Singular Presentation of Data
 

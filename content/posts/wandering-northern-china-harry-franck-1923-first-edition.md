@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "Travel & Exploration"
 slug: "wandering-northern-china-harry-franck-1923-first-edition"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389917716618?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 95.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMDc5/z/m6YAAeSwAFFp5wff/$_57.JPG?set_id=880000500F"
-  alt: "Wandering in Northern China"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMDc5/z/m6YAAeSwAFFp5wff/$_57.JPG?set_id=880000500F'
+  alt: 'Wandering in Northern China'
   relative: false
 ---
 
@@ -50,7 +50,7 @@ At the time, China was in the midst of its Republican era, a period marked by po
 Franck's narrative vividly captures these historical nuances. He describes landscapes that have undergone profound changes, from burgeoning urban centers to untouched steppes, and encounters cultures that, while retaining ancient customs, were undeniably influenced by external forces. His observations provide invaluable firsthand accounts of daily life, political undercurrents, and the social fabric of these regions during a critical juncture. For historians, sociologists, and anyone interested in the pre-WWII dynamics of East Asia, *Wandering in Northern China* serves as an indispensable primary source, offering a detailed and accessible snapshot of a bygone era. It's a testament to the fact that vintage East Asia books can offer far more than just nostalgia; they provide concrete historical data.
 
 
-![Wandering in Northern China — image 4](https://i.ebayimg.com/00/s/MTIyNFgxNjAw/z/6LoAAeSwrmRp5wfg/$_57.JPG?set_id=880000500F)
+![Wandering in Northern China — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/jisAAeSwJSpp5wfg/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Cherish This Edition
 
@@ -63,7 +63,7 @@ However, the value of this particular edition extends far beyond its author's fa
 The physical presentation of the book also contributes significantly to its allure. *Wandering in Northern China* is copiously illustrated with 171 "unusual photographs" taken by Franck himself, presented on 44 unnumbered plates. These aren't merely decorative additions; they are rare visual documents, offering compelling photographic evidence of the regions and peoples Franck encountered. In an era before widespread photography, these images provide an invaluable visual archive of Korea, Manchuria, Mongolia, and the Gobi Desert in the early 1920s, greatly enhancing the book's historical and collectible appeal.
 
 
-![Wandering in Northern China — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/jisAAeSwJSpp5wfg/$_57.JPG?set_id=880000500F)
+![Wandering in Northern China — image 5](https://i.ebayimg.com/00/s/MTIzOVgxNjAw/z/5AcAAeSwRZlp5wff/$_57.JPG?set_id=880000500F)
 
 ## The Folding Map: A Collector's Grail
 

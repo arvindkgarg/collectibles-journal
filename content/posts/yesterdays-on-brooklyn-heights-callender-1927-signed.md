@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "American History"
 slug: "yesterdays-on-brooklyn-heights-callender-1927-signed"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389846860498?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 145.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTIz/z/UVwAAeSwOh5p0Z4m/$_57.JPG?set_id=880000500F"
-  alt: "Yesterdays on Brooklyn Heights"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTIz/z/UVwAAeSwOh5p0Z4m/$_57.JPG?set_id=880000500F'
+  alt: 'Yesterdays on Brooklyn Heights'
   relative: false
 ---
 
@@ -87,7 +87,7 @@ Assessing the **condition as "Near Fine"** for a book approaching its centenary 
 The combination of these specific textual and physical attributes, all meticulously preserved, provides unequivocal evidence that this is indeed the coveted 1927 signed, limited first edition of *Yesterdays on Brooklyn Heights* in exceptional condition, making it a truly rare book and an invaluable piece of Brooklyn history.
 
 
-![Yesterdays on Brooklyn Heights — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/E0kAAeSwaWlp0Z4l/$_57.JPG?set_id=880000500F)
+![Yesterdays on Brooklyn Heights — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDcz/z/344AAeSwU4Jp0Z4l/$_57.JPG?set_id=880000500F)
 
 ## Contrasting Editions: Why Rarity Matters
 

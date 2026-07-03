@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Scientific History'
 slug: '1877-geological-society-journal-shropshire-map'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389749750085?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 79.0
 
@@ -30,7 +30,7 @@ Step back in time to an era of groundbreaking scientific discovery, where intrep
 > **Currently available:** A copy of this item is in our collection — listed at $79. [View listing on eBay →](https://www.ebay.com/itm/389749750085?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Quarterly Journal of the Geological Society, No. 129 — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDI3/z/3GsAAeSw9KNptjyj/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society, No. 129 — image 2](https://i.ebayimg.com/00/s/MTI3NVgxNjAw/z/HvUAAeSwSEFptjyj/$_57.JPG?set_id=880000500F)
 
 ## Unearthing the Past: A Glimpse into Victorian Earth Science
 
@@ -47,7 +47,7 @@ Beyond the British Isles, the journal transports us to other frontiers of scient
 This particular volume of *The Quarterly Journal of the Geological Society* encapsulates a pivotal moment in the history of science. It showcases the rigorous methods, the breadth of intellectual curiosity, and the collaborative spirit that defined Victorian earth science. Holding an original copy is not just holding a book; it's holding a piece of that scientific legacy, a direct link to the minds that pondered and pieced together the Earth's story.
 
 
-![The Quarterly Journal of the Geological Society, No. 129 — image 3](https://i.ebayimg.com/00/s/MTEzWDE2MDA=/z/i9sAAeSwVZdptjyh/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society, No. 129 — image 3](https://i.ebayimg.com/00/s/OTY2WDE2MDA=/z/B0QAAeSwI0Fptjyi/$_57.JPG?set_id=880000500F)
 
 ## Why This Original Issue Commands Collector Interest
 
@@ -62,7 +62,7 @@ The age of the item itself—over 140 years old—further contributes to its all
 Moreover, the increasing scarcity of such original issues, particularly those from prestigious scientific bodies like The Geological Society, cannot be overstated. While the intellectual content may now be available digitally or in reprints, the original physical format—with its unique tactile qualities, historical wear, and the sheer effort involved in its creation—is becoming ever more difficult to acquire. Complete issues, especially those with all their plates and intricate fold-outs intact, are increasingly rare finds. This scarcity, combined with the growing interest in **earth science history** and **Victorian paleontology**, ensures that these items remain highly sought after by a dedicated community of collectors. It's an investment in history, in science, and in the enduring legacy of human curiosity.
 
 
-![The Quarterly Journal of the Geological Society, No. 129 — image 4](https://i.ebayimg.com/00/s/MTI4WDE2MDA=/z/5-AAAeSwt4xptjyh/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society, No. 129 — image 4](https://i.ebayimg.com/00/s/MTI1OFgxNjAw/z/P5sAAeSwNC1ptjyj/$_57.JPG?set_id=880000500F)
 
 ## The Intricacies of Issue No. 129: Unpacking Its Contents
 
@@ -77,7 +77,7 @@ Beyond this visual centerpiece, the textual content of the journal is equally co
 The condition of this specific item is noted as "Very Good for a 140+ year-old scientific document." This assessment is critical for collectors, as it indicates a degree of preservation that is increasingly rare for materials of this age and format. To have all text, plates, diagrams, and especially the extensive and intact fold-out correlation chart present and legible is a significant advantage. Age-related wear is, of course, expected and indeed desired as part of its historical patina, but its completeness and legibility mean that the item remains fully functional as both a historical artifact and a readable scientific record. This excellent state of preservation ensures that the insights and visual data contained within this **Quarterly Journal Geological Society** issue can still be appreciated and studied today, just as they were by Victorian scientists.
 
 
-![The Quarterly Journal of the Geological Society, No. 129 — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDI2/z/7z8AAeSw52Vptjyj/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society, No. 129 — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDMx/z/DFcAAeSwzORptjyi/$_57.JPG?set_id=880000500F)
 
 ## The Value of Authenticity: Original vs. Digital & Reprints
 

@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "California History"
 slug: "off-for-california-dougal-gold-rush-sketches"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389908108426?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 275.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTE4NlgxNjAw/z/XXIAAeSwx-Bp5Dsx/$_57.JPG?set_id=880000500F"
-  alt: "Off for California"
+  image: 'https://i.ebayimg.com/00/s/MTE4NlgxNjAw/z/XXIAAeSwx-Bp5Dsx/$_57.JPG?set_id=880000500F'
+  alt: 'Off for California'
   relative: false
 ---
 
@@ -30,7 +30,7 @@ Dive into the heart of a transformative era with a rare literary treasure that b
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389908108426?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Off for California — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDI=/z/uf0AAeSw9G5p5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 2](https://i.ebayimg.com/00/s/MTE5NFgxNjAw/z/YF8AAeSwU0pp5Dsx/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: A Century's Echo of Gold and Grit
 
@@ -47,7 +47,7 @@ Furthermore, Dougal's artistic journey took him to areas now known as Menlo Park
 Biobooks' decision to publish this volume as part of their Centennial Edition was a testament to its profound historical significance. It served not just as a commemorative artifact but as a scholarly contribution, making available a vital piece of the historical record that had previously been inaccessible. The meticulous transcription of Dougal's log and letters, coupled with the high-quality reproduction of his artwork, ensures that the original voice and vision of a Gold Rush participant are preserved for future generations, continuing to enrich our understanding of California Gold Rush history.
 
 
-![Off for California — image 3](https://i.ebayimg.com/00/s/MTE5NFgxNjAw/z/YF8AAeSwU0pp5Dsx/$_57.JPG?set_id=880000500F)
+![Off for California — image 3](https://i.ebayimg.com/00/s/MTE5N1gxNjAw/z/pCkAAeSwyXBp5Dsx/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This: A Confluence of Rarity, Art, and History
 
@@ -66,7 +66,7 @@ The **specific regional focus** on early California sites, particularly Menlo Pa
 In summary, collectors value "William H. Dougal Off for California" because it is a multifaceted collectible. It combines the thrill of a rare limited edition, the academic weight of a primary historical document, the aesthetic pleasure of fine press printing, and the unique cultural importance of early American historical art and regional Californian history. It is a testament to the power of a single individual's observations to illuminate an entire historical epoch.
 
 
-![Off for California — image 4](https://i.ebayimg.com/00/s/MTE3NFgxNjAw/z/Lk0AAeSw0Plp5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 4](https://i.ebayimg.com/00/s/MTE5M1gxNjAw/z/tEwAAeSwqBVp5Dsw/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Guide
 
@@ -94,7 +94,7 @@ When assessing condition, as with all rare books, key factors include:
 A well-preserved copy of this scarce limited edition will retain its original structural integrity, exhibit minimal signs of wear consistent with its age, and present the lithographs in crisp, clear detail. The oblong folio format, the Biobooks imprint from 1949, the explicit limited first edition statement, and the inclusion of Dougal's unique primary accounts and sketches are the definitive markers of this collectible masterpiece.
 
 
-![Off for California — image 5](https://i.ebayimg.com/00/s/MTE4MlgxNjAw/z/LKYAAeSwz9pp5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 5](https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/JwoAAeSw3Wlp5Dsw/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: A Unique Artistic Record
 

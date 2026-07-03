@@ -17,7 +17,7 @@ categories:
   - 'Historical Memorabilia'
   - 'Rare Books'
 slug: 'autographed-boy-scout-handbook-brunton-1967-rare'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/388172637292?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 79.0
 

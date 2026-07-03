@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "American History"
 slug: "george-washington-woodrow-wilson-harper-pyle-1896"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/800051452319?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 95.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTU5OVgxMDcz/z/fKEAAeSw6wJqD7Ww/$_57.JPG?set_id=880000500F"
-  alt: "George Washington"
+  image: 'https://i.ebayimg.com/00/s/MTU5OVgxMDcz/z/fKEAAeSw6wJqD7Ww/$_57.JPG?set_id=880000500F'
+  alt: 'George Washington'
   relative: false
 ---
 
@@ -30,7 +30,7 @@ In the world of rare books, some volumes transcend their textual content, becomi
 > **Currently available:** A copy of this item is in our collection — listed at $95. [View listing on eBay →](https://www.ebay.com/itm/800051452319?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![George Washington — image 2](https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/YlIAAeSwJSpqD7Ww/$_57.JPG?set_id=880000500F)
+![George Washington — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDAy/z/t7wAAeSwNylqD7Ww/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: A Future President's Vision of the First
 
@@ -39,7 +39,7 @@ Long before he navigated the complexities of global diplomacy or shaped domestic
 Published at the turn of the 20th century, a period often referred to as the late Victorian or Gilded Era in America, Wilson's "George Washington" offered a sophisticated perspective on the foundational leader. It was crafted for an educated elite, reflecting the prevailing academic and literary tastes of the time. The book positioned Washington not merely as a military hero, but as a statesman, a character study rooted in Wilson's analytical approach to history and governance. This context is crucial for understanding the book's initial reception and its enduring appeal. It allows us to view Washington through the lens of a future President, offering unique insights that perhaps only a scholar destined for the highest office could articulate. Wilson’s work here is not merely a recounting of facts but an interpretation, a shaping of narrative that prefigures his own leadership philosophy. It’s a remarkable opportunity to witness a future president engaging with the legacy of the first, a direct bridge between two monumental figures in American history.
 
 
-![George Washington — image 3](https://i.ebayimg.com/00/s/MTYwMFg5ODc=/z/qf0AAeSwm5BqD7Wv/$_57.JPG?set_id=880000500F)
+![George Washington — image 3](https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/YlIAAeSwJSpqD7Ww/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Exceptional Volume
 
@@ -73,7 +73,7 @@ For any serious collector, understanding the specific edition and assessing its 
 While copies of Woodrow Wilson’s "George Washington" certainly exist, this specific copy stands out due to the combination of its exceptional condition, the intact and vibrant Howard Pyle illustrations with their original tissue guards, and especially its unique dual-layered provenance from S. H. G. Hoover and O. Ralph Michael. These factors converge to create a truly rare and highly collectible item, far surpassing the value of a standard first edition.
 
 
-![George Washington — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDU4/z/LMIAAeSwWxpqD7Ww/$_57.JPG?set_id=880000500F)
+![George Washington — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDQ3/z/l1cAAeSwPeFqD7Wv/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions
 

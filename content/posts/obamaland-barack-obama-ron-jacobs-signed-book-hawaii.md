@@ -15,7 +15,7 @@ categories:
   - 'Books'
   - 'Political Memorabilia'
 slug: 'obamaland-barack-obama-ron-jacobs-signed-book-hawaii'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389078577684?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -45,7 +45,7 @@ The book extensively details Obama's education at Punahou School, an elite priva
 Furthermore, *Obamaland* isn't solely Jacobs' voice. It's a mosaic of perspectives, enriched by essays and poetry from a diverse list of contributors, individuals from Washington to Hollywood who crossed paths with Obama during his early life or felt a profound connection to his story. This polyphonic approach adds layers of depth and authenticity, creating a collective portrait that transcends a single biographical account. It captures the initial public fascination and the pervasive desire to understand the extraordinary journey of the nation's first African American president, providing insights that remain relevant for understanding his legacy today.
 
 
-![Obamaland: Who Is Barack Obama? — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTI2/z/oUgAAeSwWhto6cD6/$_57.JPG?set_id=880000500F)
+![Obamaland: Who Is Barack Obama? — image 3](https://i.ebayimg.com/00/s/MTEyNlgxNjAw/z/EzgAAeSwr89o6cD7/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Unique Biographical Gem
 
@@ -62,7 +62,7 @@ Furthermore, the "contemporary insights" aspect from its 2011 publication date a
 For these reasons—the author's signature, its unique focus on Hawaiian culture and Obama's early life, its limited print run from a smaller press, and its publication during a pivotal historical moment—a signed copy of *Obamaland* is a highly desirable item for serious collectors of **political memorabilia**, **Obama biography book**, and those keen on **Barack Obama Hawaii** connections.
 
 
-![Obamaland: Who Is Barack Obama? — image 4](https://i.ebayimg.com/00/s/MTEyNlgxNjAw/z/EzgAAeSwr89o6cD7/$_57.JPG?set_id=880000500F)
+![Obamaland: Who Is Barack Obama? — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTA3/z/tJoAAeSw245o6cD7/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Authenticating Condition
 

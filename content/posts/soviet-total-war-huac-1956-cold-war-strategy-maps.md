@@ -15,12 +15,12 @@ categories:
   - "Rare Books"
   - "Political History"
 slug: "soviet-total-war-huac-1956-cold-war-strategy-maps"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389795727088?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 275.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTIzNlgxNjAw/z/YvkAAeSw4itpw2vn/$_57.JPG?set_id=880000500F"
+  image: 'https://i.ebayimg.com/00/s/MTIzNlgxNjAw/z/YvkAAeSw4itpw2vn/$_57.JPG?set_id=880000500F'
   alt: 'Soviet Total War: "Historic Mission" of Violence and Deceit'
   relative: false
 ---
@@ -30,7 +30,7 @@ The shadow of the Cold War stretched long and wide across the mid-20th century, 
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389795727088?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 2](https://i.ebayimg.com/00/s/MTI1M1gxNjAw/z/63wAAeSwt~9pw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMzE3/z/gswAAeSw6HJpw2vn/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Crucible of the Cold War
 
@@ -43,7 +43,7 @@ In publishing *Soviet Total War*, HUAC aimed to do more than just investigate; i
 The publication served a critical function in explaining the U.S. strategy of containment, which aimed to prevent the spread of communism beyond its existing borders. It dissected Soviet methods of subversion, propaganda, and infiltration, presenting them as components of a "total war" strategy that encompassed not just military might, but also economic, political, and psychological dimensions. For a nation grappling with an ideological adversary unlike any it had faced before, *Soviet Total War* offered a framework for understanding and responding to the complex challenges of the era. It epitomizes the strategic anxieties and intellectual efforts undertaken to navigate a world teetering on the brink of global conflict.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 3](https://i.ebayimg.com/00/s/MTYwMFg5Njg=/z/5dkAAeSw5Dhpw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 3](https://i.ebayimg.com/00/s/MTYwMFgxNDA3/z/gcsAAeSwnLRpw2vn/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Primary Source
 
@@ -58,7 +58,7 @@ Furthermore, Volume II of the set is particularly renowned for its **detailed ca
 Finally, as an artifact, *Soviet Total War* resonates deeply with those specializing in **'Red Scare' memorabilia**. It embodies the fear, vigilance, and strategic thought that characterized an era defined by ideological confrontation. Its comprehensive analysis of global geopolitical maneuvering, guerrilla tactics, and ideological warfare makes it, as described in the research, "one of the most comprehensive snapshots of American Cold War strategy ever compiled." This depth, combined with its unique provenance and significant contributors, solidifies its position as an essential piece for any serious collection focused on the Cold War or 20th-century political history.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MzI=/z/gb0AAeSwXBNpw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MjU=/z/~IIAAeSwlK5pw2vn/$_57.JPG?set_id=880000500F)
 
 ## Unpacking the "Historic Mission": Strategy, Subversion, and Psychological Warfare
 
@@ -71,7 +71,7 @@ Beyond psychological operations, the volumes outline the broader strategies of *
 The publication provides a detailed dissection of communist doctrine, organizational structures, and the methods used to establish and maintain control in occupied territories or sympathetic states. It paints a picture of a relentless, multi-pronged effort by the Soviet Union to reshape the global order, using every tool at its disposal—from direct military threat to covert intelligence operations, economic coercion, and sophisticated propaganda. For historians and collectors, *Soviet Total War* thus offers an invaluable understanding of how American policymakers at the time interpreted these complex, global challenges and formulated their responses, making it a critical text for anyone studying the strategic and ideological dimensions of the Cold War.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 5](https://i.ebayimg.com/00/s/MTYwMFg5Mjc=/z/2v0AAeSw3~5pw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 5](https://i.ebayimg.com/00/s/MTU5OVg4ODQ=/z/52QAAeSwu~dpw2vn/$_57.JPG?set_id=880000500F)
 
 ## Rarity and Enduring Appeal
 

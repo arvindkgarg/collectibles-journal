@@ -15,7 +15,7 @@ categories:
   - 'Books'
   - 'Numismatics'
 slug: 'robert-friedberg-paper-money-us-1955-2nd-edition'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -30,7 +30,7 @@ When you delve into the intricate world of U.S. currency collecting, one name st
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjI0/z/CB0AAeSwntxp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Genesis of a System
 
@@ -41,7 +41,7 @@ In 1953, Friedberg published the first edition of *Paper Money of the United Sta
 Just two years later, in 1955, Friedberg released the Second Edition, a significantly "Expanded and Revised" version of his original work. This 1955 edition wasn't just a reprint; it was a substantial refinement and enlargement, incorporating new research, additional varieties, and enhanced illustrations that built upon the strong foundation of the 1953 publication. Published by The Coin and Currency Publishing Institute, it covered U.S. currency issued from 1861 right up to 1955, offering a panoramic view of the nation's paper money history. This revised *Robert Friedberg Paper Money* guide quickly cemented its position as the definitive reference for U.S. paper money collectors and dealers. Its release marked a crucial step in formalizing the hobby, providing an indispensable tool that, nearly seven decades later, remains the bedrock of U.S. paper money identification. The evolution from the 1953 original to the 1955 expanded version demonstrates Friedberg's commitment to creating the most accurate and comprehensive guide possible, a testament to his enduring legacy.
 
 
-![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFg3Mw==/z/FxQAAeSwQMdp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTcz/z/1YIAAeSw9fpp5w~J/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Pivotal 2nd Edition
 
@@ -56,7 +56,7 @@ Beyond its informational value, the provenance and physical characteristics of a
 Lastly, the aesthetic qualities of a well-preserved 1955 edition contribute to its collectibility. The original binding, often in gilt cloth, with bright, untarnished stamping, presents a handsome appearance on any numismatic library shelf. Finding copies in "Near Fine" to "Fine" condition, showing minimal handling wear and retaining their original luster, is increasingly uncommon. This scarcity, combined with its profound historical and practical significance, ensures that the 1955 Second Edition of *Paper Money of the United States* remains a highly sought-after volume for serious collectors.
 
 
-![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTkx/z/BwMAAeSwI29p5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/2qIAAeSw93Np5w~J/$_57.JPG?set_id=880000500F)
 
 ## Identifying the 1955 Expanded & Revised Edition and Condition
 
@@ -72,7 +72,7 @@ Beyond the edition, the condition of a vintage numismatic book significantly imp
 In contrast, copies described as "Good" or "Very Good" will show more noticeable signs of age and use, such as heavier rubbing, faded gilt, internal staining, loose bindings, or significant previous owner's marks. While these copies can still serve as functional references, they typically lack the collector appeal of Near Fine or Fine examples. The scarcity of these older, key numismatic references in exceptional condition contributes directly to their market value and makes a well-preserved 1955 *Robert Friedberg Paper Money* a particularly attractive acquisition for a discerning collector.
 
 
-![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjA4/z/H4UAAeSwh5Vp5w~J/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: A Legacy Unfolds
 

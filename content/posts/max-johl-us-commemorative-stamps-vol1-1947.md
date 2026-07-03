@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Philately"
 slug: "max-johl-us-commemorative-stamps-vol1-1947"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389917799554?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 165.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTM5/z/wo0AAeSw5M9p5w3w/$_57.JPG?set_id=880000500F"
-  alt: "U.S. Commemorative Stamps of the 20th Century, Volume I"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTM5/z/wo0AAeSw5M9p5w3w/$_57.JPG?set_id=880000500F'
+  alt: 'U.S. Commemorative Stamps of the 20th Century, Volume I'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ In the intricate world of philately, certain names resonate with an almost legen
 > **Currently available:** A copy of this item is in our collection — listed at $165. [View listing on eBay →](https://www.ebay.com/itm/389917799554?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![U.S. Commemorative Stamps of the 20th Century, Volume I — image 2](https://i.ebayimg.com/00/s/MTYwMFgxNTE=/z/xKUAAeSw3uFp5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps of the 20th Century, Volume I — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTAx/z/nAIAAeSwJyRp5w3v/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: The Genesis of a Philatelic Masterpiece
 
@@ -40,7 +40,7 @@ Max G. Johl's journey into philately began with a passion for collecting that qu
 This initial volume of *Max Johl U.S. Commemorative Stamps* primarily covers U.S. commemorative stamps issued from the iconic 1893 Columbian Issue through the 1901–1935 period. This epoch-making span includes some of the most beautiful and historically significant stamps ever produced by the United States Post Office Department. Within its pages, collectors find exhaustive studies of legendary series such as the Pan-American Exposition Issue of 1901, the Louisiana Purchase Exposition Issue of 1904, and the revered National Parks Issue of 1934. Each series is dissected with an exacting precision, detailing not just the historical context of the stamp's subject, but the technical specifics of its creation. Johl's approach transformed philatelic literature, elevating it from mere cataloging to a genuine technical study. He laid the groundwork for how future generations would research and appreciate the nuances of U.S. philately, making his work an indispensable historical document for understanding the evolution of both stamps and the collecting hobby itself.
 
 
-![U.S. Commemorative Stamps of the 20th Century, Volume I — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTAx/z/nAIAAeSwJyRp5w3v/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps of the 20th Century, Volume I — image 3](https://i.ebayimg.com/00/s/MTU5OVgxMDIz/z/nRMAAeSwph5p5w3v/$_57.JPG?set_id=880000500F)
 
 ## Why Collectors Value This Philatelic Reference Book
 
@@ -55,7 +55,7 @@ What sets this **rare stamp collecting book** apart is its pioneering **technica
 Beyond the content, the physical attributes of a First Edition copy significantly enhance its appeal. A pristine **1947 first edition** in its original publisher's dark blue linen cloth binding, featuring exceptionally bright silver/gold gilt Art Deco stamping, is a beautiful object in itself. The design elements of the binding reflect the era of its publication, adding another layer of historical charm. However, the most significant aspect of this particular item is the presence of its original pictorial/descriptive **dust jacket**. For a technical reference book of this age, designed for utilitarian study rather than display, the dust jacket was often discarded or damaged through heavy use. To find a copy with its dust jacket intact, and in good condition, is a clear indicator of careful preservation over three-quarters of a century, making it a highly desirable collectible book. This combination of unparalleled content, historical significance, and physical rarity ensures that Johl's Volume I remains a prized possession for any serious philatelist or collector of rare books.
 
 
-![U.S. Commemorative Stamps of the 20th Century, Volume I — image 4](https://i.ebayimg.com/00/s/MTYwMFgxNTE=/z/sW8AAeSwPIZp5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps of the 20th Century, Volume I — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDQ2/z/fAYAAeSw8P5p5w3v/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Guide
 
@@ -68,7 +68,7 @@ Physically, the book itself is a testament to quality craftsmanship of the era. 
 However, the most significant aspect of this specific copy's condition and rarity is the presence of its **original pictorial/descriptive dust jacket**. Dust jackets, especially on utilitarian reference books from the mid-20th century, were often considered ephemeral. They were designed to protect the binding and provide marketing information, not necessarily to be preserved indefinitely. Consequently, many copies of Johl's work, having been subjected to heavy use by eager collectors, lost their dust jackets or suffered significant damage. To find a copy with its dust jacket intact and in good condition – often described as "Near Fine" or "Very Good" – is genuinely uncommon. This original dust jacket not only protects the underlying gilt binding but also adds significantly to the item's collector value and aesthetic appeal. It provides a complete historical package, allowing one to appreciate the book as it was originally presented to the public, underscoring careful preservation over 75+ years. For any serious collector, a First Edition with its original dust jacket in such condition represents the pinnacle of desirability for this pivotal philatelic reference book.
 
 
-![U.S. Commemorative Stamps of the 20th Century, Volume I — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDUy/z/VF8AAeSwQW9p5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps of the 20th Century, Volume I — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDMw/z/ye4AAeSwPN5p5w3v/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: The Uniqueness of the 1947 First Edition
 

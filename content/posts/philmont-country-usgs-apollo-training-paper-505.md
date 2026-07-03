@@ -16,13 +16,13 @@ categories:
   - "Books"
   - "Collectibles"
 slug: "philmont-country-usgs-apollo-training-paper-505"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389908134231?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 195.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMzA3/z/kusAAeSwTFBp5ERD/$_57.JPG?set_id=880000500F"
-  alt: "Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMzA3/z/kusAAeSwTFBp5ERD/$_57.JPG?set_id=880000500F'
+  alt: 'Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ The vastness of space beckoned, but humanity's journey to the moon began not amo
 > **Currently available:** A copy of this item is in our collection — listed at $195. [View listing on eBay →](https://www.ebay.com/itm/389908134231?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 2](https://i.ebayimg.com/00/s/MTYwMFg5Nzk=/z/a9UAAeSwAFFp5ERD/$_57.JPG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMzE4/z/V~sAAeSwCbZp5EZH/$_57.PNG?set_id=880000500F)
 
 ## Historical Background: Earth as a Stepping Stone to the Moon
 
@@ -48,7 +48,7 @@ The paper quickly transcended its initial purpose as a regional geological study
 Beyond its scientific rigor, the report also features iconic pen-and-ink sketches by renowned scientific illustrator John R. Stacy. Stacy's detailed and artistic renderings not only enhance the geological explanations but also add an aesthetic dimension, capturing the rugged beauty and scientific intricacies of the Philmont landscape. These illustrations, alongside the precise maps, transformed a scientific document into a highly effective training aid, bridging the gap between theoretical knowledge and practical application for the future explorers of the Moon.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMzE4/z/V~sAAeSwCbZp5EZH/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 3](https://i.ebayimg.com/00/s/OTg5WDE1OTk=/z/Q2EAAeSw9cNp5EY-/$_57.PNG?set_id=880000500F)
 
 ## Why Collectors Value This Unique Artifact of the Space Race
 
@@ -65,7 +65,7 @@ Furthermore, the publication appeals to a broad spectrum of enthusiasts. Geology
 This report isn't just a book; it's a tangible portal to a moment in time when science and exploration converged in an unprecedented manner. It represents the meticulous, often overlooked, terrestrial preparation that made extraterrestrial achievement possible. Its rarity, completeness, and undeniable historical provenance make it a highly desirable piece for anyone passionate about space history, geology, or the meticulous science behind humanity's greatest adventures.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 4](https://i.ebayimg.com/00/s/ODc3WDE1OTk=/z/SlkAAeSw3Hxp5EYv/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 4](https://i.ebayimg.com/00/s/MTA3OFgxNjAw/z/msQAAeSwkxNp5EYk/$_57.PNG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: What Collectors Look For
 
@@ -83,7 +83,7 @@ When evaluating a copy, collectors must diligently check for:
 The combination of a verified First Edition with its complete, original set of well-preserved maps dramatically elevates *USGS Professional Paper 505* from a common scientific paper to a rare and valuable collectible. This completeness ensures the historical integrity of the item as it was intended to be used by the very individuals who prepared for lunar exploration.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 5](https://i.ebayimg.com/00/s/ODcyWDE2MDA=/z/euIAAeSwPL5p5EY6/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjQ5/z/euoAAeSwWxpp5ERD/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: The Uniqueness of Completeness
 

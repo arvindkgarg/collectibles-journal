@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Illustrated Editions'
 slug: 'hajji-baba-ispahan-1937-baldridge-illustrated-rare'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389908462427?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 85.0
 
@@ -31,7 +31,7 @@ Embark on a literary journey back to the captivating world of 19th-century Persi
 > **Currently available:** A copy of this item is in our collection — listed at $85. [View listing on eBay →](https://www.ebay.com/itm/389908462427?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Hajji Baba of Ispahan — image 2](https://i.ebayimg.com/00/s/MTYwMFgyMzk=/z/5oMAAeSwU9Bp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 2](https://i.ebayimg.com/00/s/MTMwMFgxNjAw/z/VX4AAeSwETJp5F5C/$_57.JPG?set_id=880000500F)
 
 ## Unveiling Persia: Historical Context of a Literary Masterpiece
 
@@ -40,7 +40,7 @@ James Morier’s *The Adventures of Hajji Baba of Ispahan*, first published in 1
 However, the 1937 Random House edition transcends its literary origins through a magnificent artistic collaboration. What makes this particular printing truly stand out, earning it the distinction of a "First Edition Thus," are the extraordinary illustrations by Cyrus Leroy Baldridge. Baldridge was not merely an artist tasked with decorating a text; he was an adventurer who embarked on a personal odyssey to ensure the authenticity of his vision. In the 1930s, a time when global travel was still a significant undertaking, Baldridge journeyed through Persia (modern-day Iran) and Baghdad (Iraq). His purpose was clear: to immerse himself in the very landscapes, architectures, and cultures that Morier depicted, allowing him to render the costumes, settings, and facial types with unparalleled accuracy. This commitment to detail transformed the book from a simple narrative into a visually rich cultural artifact. Baldridge's work brought a layer of visual realism and empathetic understanding that previous editions, often relying on artistic conjecture, simply could not achieve. His illustrations are not just decorative; they are ethnographic records, captured with the sensitivity of an artist and the precision of an anthropologist. This deep historical and artistic context is a cornerstone of this edition's appeal, marking it as a significant contribution to both Orientalist literature and the art of book illustration.
 
 
-![Hajji Baba of Ispahan — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTAz/z/KJEAAeSwv2hp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 3](https://i.ebayimg.com/00/s/MTI5MVgxNTk5/z/6eEAAeSwlIVp5F5C/$_57.JPG?set_id=880000500F)
 
 ## Why This Edition Captivates Collectors: The Double-Pictorial Masterpiece
 
@@ -53,7 +53,7 @@ Beyond the binding, the true star of this edition is Cyrus Leroy Baldridge's ext
 Furthermore, the physical production quality of the 1937 Random House edition contributes significantly to its collector interest. It is printed as a large-format quarto, a substantial size that lends itself to the grand scale of Baldridge’s illustrations. The choice of heavy, archival-quality paper for the interior ensures both a luxurious tactile feel and remarkable durability, allowing the vibrant colors of the lithographs to endure without fading or bleed-through. The overall pristine internal condition, free from common issues like foxing (age-related spotting), previous owner marks, or any forms of marginalia, is another critical factor. Collectors value a "clean" copy immensely, as it indicates a book that has been cherished and protected from the ravages of time and casual use. Finally, the presence of the original price—$3.50, unclipped—on the dust jacket is a detail often specifically sought by collectors. An unclipped price signifies that the book and jacket are in their original, unmodified state, offering a tangible link to its initial release and adding to its historical integrity. These combined elements — the rare "Double-Pictorial" design, the dedication of Cyrus Leroy Baldridge's illustrations, and the superior production quality — solidify this edition's place as a cornerstone for collectors of Orientalist literature, fine illustrated books, and historical artifacts.
 
 
-![Hajji Baba of Ispahan — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDky/z/dzcAAeSwBb1p5F5D/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 4](https://i.ebayimg.com/00/s/MTE2MFgxNjAw/z/oJMAAeSwKOdp5F5C/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Assessing Condition
 
@@ -68,7 +68,7 @@ The dust jacket, often the most fragile component, is typically rated as "Very G
 Internally, the condition of this edition often reaches the pinnacle of "pristine." This means the pages are clean, crisp, and free from any signs of foxing – the age-related brown spots that commonly afflict older paper. There are no previous owner marks, such as inscriptions, bookplates, or marginalia, ensuring that the reader's experience is unadulterated by past annotations. The magnificent 28 full-page, multi-color lithographic plates, along with the numerous integrated drawings, retain their original vibrancy and detail, printed on heavy, archival-quality paper that has prevented deterioration. This exceptional internal condition complements the external beauty, confirming that the book has been meticulously cared for throughout its history. Finding a copy that combines such pristine interior with a bright, unfaded exterior and a high-grade dust jacket is, as collectors often note, a significant rarity, underscoring its desirability in the collectible market.
 
 
-![Hajji Baba of Ispahan — image 5](https://i.ebayimg.com/00/s/MTYwMFgyNDM=/z/5AEAAeSw6oxp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 5](https://i.ebayimg.com/00/s/MTI5N1gxNjAw/z/DAwAAeSwFO1p5F5D/$_57.JPG?set_id=880000500F)
 
 ## Beyond the First: Comparable Editions and Their Distinctions
 

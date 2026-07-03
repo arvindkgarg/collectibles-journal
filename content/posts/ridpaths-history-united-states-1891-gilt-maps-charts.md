@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Americana"
 slug: "ridpaths-history-united-states-1891-gilt-maps-charts"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389838578464?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 105.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTEx/z/5ToAAeSwLM5pzyW3/$_57.JPG?set_id=880000500F"
-  alt: "A Popular History of the United States of America"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTEx/z/5ToAAeSwLM5pzyW3/$_57.JPG?set_id=880000500F'
+  alt: 'A Popular History of the United States of America'
   relative: false
 ---
 
@@ -31,7 +31,7 @@ In the annals of American history, few periods pulsate with the same dynamic ene
 > **Currently available:** A copy of this item is in our collection — listed at $105. [View listing on eBay →](https://www.ebay.com/itm/389838578464?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![A Popular History of the United States of America — image 2](https://i.ebayimg.com/00/s/MTYwMFg0MDU=/z/8n8AAeSwjStpzyW2/$_57.JPG?set_id=880000500F)
+![A Popular History of the United States of America — image 2](https://i.ebayimg.com/00/s/MTI4NlgxNjAw/z/MRIAAeSwaWlpzyXf/$_57.PNG?set_id=880000500F)
 
 ## Unpacking the Late 19th-Century American Narrative
 
@@ -44,7 +44,7 @@ John Clark Ridpath himself was a towering figure in American education and lette
 This particular edition, reaching up to 1890, captures the essence of an America transitioning from its post-Civil War identity into the global industrial powerhouse it would become in the 20th century. It covers pivotal events such as the Gilded Age, the rise of powerful industrial trusts, labor movements, and the ongoing saga of Native American conflicts and federal policies. For historians and enthusiasts alike, it offers an invaluable primary source for understanding how these monumental shifts were documented and presented to the reading public during their immediate aftermath.
 
 
-![A Popular History of the United States of America — image 3](https://i.ebayimg.com/00/s/MTIwNVgxNjAw/z/8f0AAeSw8tFpzyW2/$_57.JPG?set_id=880000500F)
+![A Popular History of the United States of America — image 3](https://i.ebayimg.com/00/s/MTMwNVgxNjAw/z/9fAAAeSw~rFpzyXl/$_57.PNG?set_id=880000500F)
 
 ## Why This Victorian History Book Captures the Collector's Eye
 
@@ -61,7 +61,7 @@ Perhaps one of the most distinctive features, and a significant draw for history
 The comprehensive nature of the historical narrative, extending through 1890, coupled with these rich visual elements, elevates this specific edition from a mere history book to a prized collectible. It offers a holistic experience, appealing to both the intellect and the aesthetic senses, embodying the spirit of discovery and scholarship that defined the Victorian age.
 
 
-![A Popular History of the United States of America — image 4](https://i.ebayimg.com/00/s/MTI4NlgxNjAw/z/MRIAAeSwaWlpzyXf/$_57.PNG?set_id=880000500F)
+![A Popular History of the United States of America — image 4](https://i.ebayimg.com/00/s/MTI0OFgxNjAw/z/~5sAAeSwajlpzyXz/$_57.PNG?set_id=880000500F)
 
 ## Identifying and Appreciating the 1891 Hunt & Eaton Edition
 

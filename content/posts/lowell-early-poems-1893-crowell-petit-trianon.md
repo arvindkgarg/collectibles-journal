@@ -15,12 +15,12 @@ categories:
   - 'Rare Books'
   - 'Poetry'
 slug: 'lowell-early-poems-1893-crowell-petit-trianon'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389865071023?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
 cover:
-  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMzU5/z/zxsAAeSw3Wlp1yp-/$_57.JPG?set_id=880000500F'
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMDQ1/z/h98AAeSwKnpp1yla/$_57.JPG?set_id=880000500F'
   alt: 'Early Poems by James Russell Lowell'
   relative: false
 ---
@@ -30,7 +30,7 @@ In the hallowed halls of literature, certain names resonate with an enduring pow
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389865071023?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Early Poems by James Russell Lowell — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDQ1/z/h98AAeSwKnpp1yla/$_57.JPG?set_id=880000500F)
+![Early Poems by James Russell Lowell — image 2](https://i.ebayimg.com/00/s/MTYwMFg5MTY=/z/tQ0AAeSwfqVp1ylZ/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: Lowell, The Gilded Age, and Crowell's Vision
 
@@ -54,7 +54,7 @@ What makes this edition particularly coveted is its visual impact, especially wh
 While James Russell Lowell's literary works are widely available, and his *Early Poems* is not inherently rare as a text, this specific 'First Crowell 'Petit Trianon' Edition' certainly is. Its scarcity lies not in the content, but in the scarcity of this particular, highly decorative presentation, especially in a condition that truly showcases its beauty. For collectors focused on specific publisher-series bindings, or those who specialize in Victorian decorative bindings, this edition stands out. It embodies a significant trend in late 19th-century book production where the physical form of the book was elevated to an art object, making it a cornerstone for anyone building a collection that celebrates the artistry of the printed word and the elegance of its presentation. The fusion of Lowell’s enduring poetry with Crowell’s masterful binding creates an item of profound collectible interest, symbolizing both literary heritage and artistic innovation.
 
 
-![Early Poems by James Russell Lowell — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MTY=/z/tQ0AAeSwfqVp1ylZ/$_57.JPG?set_id=880000500F)
+![Early Poems by James Russell Lowell — image 4](https://i.ebayimg.com/00/s/MTIyNFgxNjAw/z/bi8AAeSwwUlp1yla/$_57.JPG?set_id=880000500F)
 
 ## Identifying the First Crowell 'Petit Trianon' Edition
 

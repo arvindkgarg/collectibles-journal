@@ -16,13 +16,13 @@ categories:
   - "Rare Books"
   - "Literature"
 slug: "jock-bushveld-1907-third-imp-transition-beetle-error"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389744193761?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 290.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMTQ2/z/Q~gAAeSwwPRptL5g/$_57.JPG?set_id=880000500F"
-  alt: "Jock of the Bushveld"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMTQ2/z/Q~gAAeSwwPRptL5g/$_57.JPG?set_id=880000500F'
+  alt: 'Jock of the Bushveld'
   relative: false
 ---
 
@@ -88,7 +88,7 @@ Beyond these specific identifiers, assessing the overall condition is paramount 
 A well-preserved **Jock of the Bushveld 1907** edition, especially a rare transition copy with its unique bibliographical errors, represents a tangible connection to the book's publishing history and the era it depicts. It is these details that make the hunt for such a copy so rewarding for collectors.
 
 
-![Jock of the Bushveld — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTQ5/z/GQ0AAeSwojBptL5h/$_57.JPG?set_id=880000500F)
+![Jock of the Bushveld — image 5](https://i.ebayimg.com/00/s/MTA3M1gxNjAw/z/DtAAAeSwSFlptL5i/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: Distinguishing the Unique
 

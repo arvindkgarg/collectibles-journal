@@ -15,7 +15,7 @@ categories:
   - 'Books'
   - 'Maps & Atlases'
 slug: 'the-spell-of-its-hills-and-glens-andrew-mccormick-1932-map'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389749927816?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -30,7 +30,7 @@ The rugged, romantic landscapes of Scotland have long held a mystical allure, in
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389749927816?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Spell of its Hills and Glens — image 2](https://i.ebayimg.com/00/s/MTYwMFgyODE=/z/WLoAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 2](https://i.ebayimg.com/00/s/MTI2NVgxNjAw/z/WLwAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
 
 ## Unearthing Galloway: Historical Context of a 1930s Masterpiece
 
@@ -41,7 +41,7 @@ McCormick's motivations stretched beyond mere tourism; he sought to immortalize 
 What makes this particular historical context even more intriguing is the subtle nod to technological advancement embedded within a book largely dedicated to traditional walking and exploration. The inclusion of an "Aeroplane route" on the accompanying map reflects a fascinating blend of the old and the new. While hiking and walking guides had long been staples for adventurers, the burgeoning field of aviation was transforming perceptions of travel and geography. To see an early 20th-century publication bridge these two seemingly disparate modes of exploration—footpaths through ancient hills alongside routes for aerial navigation—offers a unique snapshot of the era's evolving relationship with the landscape. It speaks to a moment when the thrill of discovering hidden corners of Scotland was amplified by the dawning age of flight, even if only in conceptual terms for most readers. This nuanced reflection of its time elevates *The Spell of its Hills and Glens* from a simple regional guide to a significant historical artifact.
 
 
-![The Spell of its Hills and Glens — image 3](https://i.ebayimg.com/00/s/MTI2NVgxNjAw/z/WLwAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/tRIAAeSww-Vptkhq/$_57.JPG?set_id=880000500F)
 
 ## Why *The Spell of its Hills and Glens* Commands Collector Interest
 
@@ -73,7 +73,7 @@ Beyond the textual integrity, the map is arguably the book's most significant fe
 Crucially, the condition of this map is described as superb and un-foxed. This is an extraordinary distinction. Original maps from the 1930s, especially large folding ones, are highly susceptible to wear and tear from handling, environmental damage, and the natural degradation of paper. Foxing, tears along folds, creases, or even complete detachment are common issues. To find the map in such pristine condition speaks volumes about how well this particular copy has been preserved over the decades. This exceptional state of the map not only enhances its aesthetic appeal but significantly bolsters the book's overall value and rarity, making it a standout example of early 20th-century cartography and a premier collectible regional history piece.
 
 
-![The Spell of its Hills and Glens — image 5](https://i.ebayimg.com/00/s/MTI4MlgxNjAw/z/jFoAAeSwtwtptkhq/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 5](https://i.ebayimg.com/00/s/MTAxN1gxNjAw/z/zTcAAeSwPvlptkhq/$_57.JPG?set_id=880000500F)
 
 ## Navigating the Terrain: Comparable Editions and Versions
 

@@ -16,7 +16,7 @@ categories:
   - 'Militaria'
   - 'Maps & Atlases'
 slug: 'wwii-geographia-atlas-giant-war-map-alexander-gross'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389772388870?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 80.0
 
@@ -59,7 +59,7 @@ Furthermore, the inclusion of special features adds another layer of collectibil
 Finally, the aesthetic qualities contribute to its appeal. The Geographia Map Co. was known for its vivid, high-saturation printing, resulting in visually striking maps with clear color-coding. This not only made the maps more readable at the time but also makes them visually appealing display pieces today, merging historical documentation with artistic quality. For collectors of WWII militaria maps, this combination of historical depth, cartographic pedigree, exceptional condition, and unique features makes the *Geographia Ideal World Atlas* a highly prized possession.
 
 
-![Rare WWII Giant War Map of the World & Ideal World Atlas — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMjA3/z/9kEAAeSwXERpvKfo/$_57.JPG?set_id=880000500F)
+![Rare WWII Giant War Map of the World & Ideal World Atlas — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTkx/z/0v0AAeSw6zhpvKfo/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition: A Collector's Guide
 
@@ -74,7 +74,7 @@ Another defining characteristic and a hallmark of its originality is the "Wartim
 The overall presentation, characterized by the Geographia Map Co.'s vibrant, high-saturation printing, further enhances the visual appeal and readability of the atlas. The colors remain distinct and lively, which is not only aesthetically pleasing but also allows for a clearer understanding of the cartographic details, making it a powerful testament to the quality of vintage war cartography.
 
 
-![Rare WWII Giant War Map of the World & Ideal World Atlas — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTgw/z/6NwAAeSwH~dpvKfo/$_57.JPG?set_id=880000500F)
+![Rare WWII Giant War Map of the World & Ideal World Atlas — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTg5/z/1EYAAeSwWu5pvKfo/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: The Geographia Distinction
 

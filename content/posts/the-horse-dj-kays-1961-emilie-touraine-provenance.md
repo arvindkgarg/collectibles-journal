@@ -16,7 +16,7 @@ categories:
   - 'Books'
   - 'Collectibles'
 slug: 'the-horse-dj-kays-1961-emilie-touraine-provenance'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389829004476?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -44,7 +44,7 @@ The early 1960s marked a dynamic period for equestrianism. Horse sports were gai
 Beyond its academic rigor, the book is notable for its extensive and detailed illustrations. Within its pages, readers find a wealth of technical diagrams explaining everything from equine anatomy and conformation to stable design and tack specifics. These are complemented by anatomical sketches that visually demystify the horse's physiological structure, and perhaps most captivatingly for enthusiasts, portraits of famous champion horses. Iconic figures like the legendary thoroughbred Man O' War, often considered one of the greatest racehorses of all time, and Citation, the eighth American Triple Crown winner, are immortalized within its pages. These illustrations not only enhance the book's instructional value but also connect the reader to the broader history and celebrated champions of the equestrian world, making it a valuable addition to any collection of 1961 horse breeding books or vintage horse management guides.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjgw/z/8hAAAeSwaO1pzIgS/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 3](https://i.ebayimg.com/00/s/MTE2NFgxNjAw/z/rzkAAeSwwetpzIgU/$_57.JPG?set_id=880000500F)
 
 ## Why This Specific Copy Commands Collector Interest
 
@@ -75,7 +75,7 @@ The Woodside Junior Riders, likely a prominent equestrian club in the Woodside, 
 Collectively, these three layers of provenance – the renowned artist, the heartfelt gift, and the concrete historical documents of a specific horse – transform *The Horse* from a valuable academic text into a unique historical artifact, telling a rich, personal story that resonates deeply with collectors and history enthusiasts alike.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 4](https://i.ebayimg.com/00/s/MTE2NFgxNjAw/z/rzkAAeSwwetpzIgU/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 4](https://i.ebayimg.com/00/s/MTI5NlgxNjAw/z/ArgAAeSw1VppzIgV/$_57.JPG?set_id=880000500F)
 
 ## Identifying the Edition and Condition
 
@@ -93,7 +93,7 @@ For *this specific copy*, its condition extends beyond the physical state of the
 In essence, while the physical state of the 1961 first printing is important, the "condition" of *this collectible* is holistic, encompassing the pristine nature of its documented historical narrative and the integrity of its accompanying unique elements.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDA4/z/SZUAAeSwwaxpzIgS/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 5](https://i.ebayimg.com/00/s/MTIxNlgxNTk5/z/iAsAAeSw63BpzIgV/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions
 

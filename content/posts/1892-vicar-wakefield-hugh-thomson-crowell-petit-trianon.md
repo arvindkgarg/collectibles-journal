@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "Literary Classics"
 slug: "1892-vicar-wakefield-hugh-thomson-crowell-petit-trianon"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389865062007?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 85.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTU1MlgxMzYw/z/yJ4AAeSwlIVp1ykz/$_57.JPG?set_id=880000500F"
-  alt: "The Vicar of Wakefield"
+  image: 'https://i.ebayimg.com/00/s/MTU1MlgxMDI0/z/e9kAAeSwGTJp1yaw/$_57.JPG?set_id=880000500F'
+  alt: 'The Vicar of Wakefield'
   relative: false
 ---
 
@@ -30,7 +30,7 @@ Step into the enchanting world where literature meets artistry, where a beloved 
 > **Currently available:** A copy of this item is in our collection — listed at $85. [View listing on eBay →](https://www.ebay.com/itm/389865062007?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Vicar of Wakefield — image 2](https://i.ebayimg.com/00/s/MTU1MlgxMDI0/z/e9kAAeSwGTJp1yaw/$_57.JPG?set_id=880000500F)
+![The Vicar of Wakefield — image 2](https://i.ebayimg.com/00/s/MTYwMFg5Njc=/z/gEYAAeSwzLlp1yaw/$_57.JPG?set_id=880000500F)
 
 ## Historical Background: From 18th-Century Wit to Victorian Splendor
 
@@ -69,7 +69,7 @@ Adding to its distinctiveness is the renowned 'Petit Trianon Series' binding. Th
 What truly elevates this particular copy, however, is its remarkable state of preservation. As noted, books from Crowell’s 1890s productions are frequently plagued by "acid-burn" or "tanning." This refers to the discoloration and degradation of paper due to the acidic content in the wood pulp used in papermaking during that period. Over time, this acidity causes the paper to yellow, become brittle, and sometimes even emanate a distinct odor. The fact that this specific 1892 edition of *The Vicar of Wakefield* lacks these typical signs of degradation makes it an exceptionally rare "top-tier" survivor. Its interior preservation, including the clarity of the paper and the vibrancy of the illustrations, is quite unusual and speaks to either superior paper stock being used for this particular printing run or extraordinary care taken throughout its 130+ years of existence. This superior condition is a critical factor in its high collectibility and desirability, distinguishing it from the vast majority of its contemporaries. Further adding to its scholarly appeal is the preface penned by Austin Dobson, a highly regarded English man of letters, whose contributions provide additional literary context and insight.
 
 
-![The Vicar of Wakefield — image 5](https://i.ebayimg.com/00/s/MTYwMFg5OTc=/z/m98AAeSw0Ylp1yav/$_57.JPG?set_id=880000500F)
+![The Vicar of Wakefield — image 5](https://i.ebayimg.com/00/s/MTYwMFg5Njc=/z/qRsAAeSwILhp1yaw/$_57.JPG?set_id=880000500F)
 
 ## Comparable Editions and Versions: Standing Apart from the Crowd
 

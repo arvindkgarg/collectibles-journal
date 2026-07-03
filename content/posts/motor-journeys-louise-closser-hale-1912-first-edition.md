@@ -15,18 +15,18 @@ categories:
   - "Rare Books"
   - "Travel Literature"
 slug: "motor-journeys-louise-closser-hale-1912-first-edition"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389904236299?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 145.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTYwMFgxMDcw/z/39QAAeSwmR5p4vSP/$_57.JPG?set_id=880000500F"
-  alt: "Motor Journeys"
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMDcw/z/39QAAeSwmR5p4vSP/$_57.JPG?set_id=880000500F'
+  alt: 'Motor Journeys'
   relative: false
 ---
 
 
-![Motor Journeys — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDcw/z/5CoAAeSwN~xp4vSO/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 2](https://i.ebayimg.com/00/s/MTYwMFg5ODM=/z/DRIAAeSw1rlp4vSO/$_57.JPG?set_id=880000500F)
 
 ## Hitting the Open Road, 1912 Style: Unearthing a Pristine First Edition of Louise Closser Hale's *Motor Journeys*
 
@@ -35,7 +35,7 @@ Imagine a world where the automobile was less a utility and more a symbol of exh
 > **Currently available:** A copy of this item is in our collection — listed at $145. [View listing on eBay →](https://www.ebay.com/itm/389904236299?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Motor Journeys — image 3](https://i.ebayimg.com/00/s/MTYwMFgyMzM=/z/lHwAAeSwDgxp4vSN/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 3](https://i.ebayimg.com/00/s/MTEwNVgxNjAw/z/M~UAAeSwI3Zp4vSN/$_57.JPG?set_id=880000500F)
 
 ## Pioneering the Paved Path: The Dawn of Automotive Travel
 

@@ -15,7 +15,7 @@ categories:
   - "Rare Books"
   - "Science"
 slug: "alpheus-hyatt-phylogeny-acquired-characteristic-1894"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389732022956?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 85.0
 

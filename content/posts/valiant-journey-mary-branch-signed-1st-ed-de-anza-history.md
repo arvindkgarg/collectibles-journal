@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'American History'
 slug: 'valiant-journey-mary-branch-signed-1st-ed-de-anza-history'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389908502847?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 75.0
 
@@ -41,7 +41,7 @@ Before De Anza's trailblazing efforts, supply lines and communication with Alta 
 Mary Branch's narrative provides more than just a chronological account; it delves into the human element of this grand adventure. Readers gain insight into the challenges faced by the Spanish colonists, the interactions with indigenous peoples, and the sheer grit required to traverse vast, uncharted territories. For anyone seeking to understand the deep roots of California's unique cultural and geographical identity, books like *Valiant Journey* are indispensable. They don't just tell a story; they offer a window into the formative years when the wild frontier began to yield to the ambitions of explorers and empire-builders. This era of exploration and adventure, so meticulously documented by Branch, laid the groundwork for the modern state, making the De Anza expedition not just a historical event, but a powerful symbol of enduring human endeavor. Its detailed exploration of this period solidifies *Valiant Journey* as one of the essential California history books for scholars and general readers alike.
 
 
-![Valiant Journey — image 3](https://i.ebayimg.com/00/s/MTYwMFgxNTM=/z/K1sAAeSw-Bhp5GNE/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 3](https://i.ebayimg.com/00/s/MTM3N1gxNjAw/z/588AAeSwMCZp5GNF/$_57.JPG?set_id=880000500F)
 
 ## Beyond the Text: Why "Valiant Journey" is a Collector's Dream
 
@@ -54,7 +54,7 @@ Secondly, and perhaps most compellingly, this copy functions as an **association
 Finally, the inclusion of the original pictorial dust jacket, despite its imperfections, further cements its status as a collector's item. Dust jackets are notoriously fragile and often lost over time, making their presence, particularly on a 1966 rare book, a significant asset. Even with wear—which we will detail further—the jacket preserves the book's original aesthetic and provides crucial information, including front and rear flap descriptions. The combination of these elements—a signed first edition, an association copy, and its original jacket—creates a highly scarce and distinct artifact that resonates deeply with those who appreciate not just the content within, but the story of the book itself.
 
 
-![Valiant Journey — image 4](https://i.ebayimg.com/00/s/MTYwMFg5ODQ=/z/NdcAAeSwuzJp5GNG/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDA1/z/Nc4AAeSwU0pp5GNF/$_57.JPG?set_id=880000500F)
 
 ## A Closer Look: Identifying a True First Edition and Its Unique Features
 
@@ -67,7 +67,7 @@ Inside, the book continues to impress. As noted, the title page bears the bold s
 While the book itself is in superb condition, the original pictorial dust jacket, a rare survivor for a 1966 publication, does show signs of its age and journey. It is described as being in fair condition, exhibiting significant paper loss and heavy chipping along the top edges and spine head. The rear panel shows noticeable soiling and foxing, a common occurrence with older paper exposed to elements over time. Furthermore, the flaps are price-clipped, a detail often found in association with books that were given as gifts or handled within the secondhand market decades ago. Despite these imperfections, the very presence of the original dust jacket, which is often missing from copies of this age, significantly increases its desirability and rarity. It is a testament to its survival, preserving the book's original presentation and providing valuable context through its descriptive flaps.
 
 
-![Valiant Journey — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDA1/z/Nc4AAeSwU0pp5GNF/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 5](https://i.ebayimg.com/00/s/MTM0MVgxNjAw/z/4JIAAeSwcY5p5GNG/$_57.JPG?set_id=880000500F)
 
 ## The Spectrum of Value: Distinguishing This Edition from Others
 

@@ -15,13 +15,13 @@ categories:
   - "Rare Books"
   - "Science & Technology"
 slug: "1883-vienna-electrical-exhibition-report-1885"
-draft: true
+draft: false
 ebay_url: "https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
 ebay_price: 490.0
 
 cover:
-  image: "https://i.ebayimg.com/00/s/MTIxOFgxNjAw/z/1SAAAeSwlXFpu1UU/$_57.JPG?set_id=880000500F"
-  alt: "Bericht Internationale Elektrische Ausstellung Wien 1883"
+  image: 'https://i.ebayimg.com/00/s/MTIxOFgxNjAw/z/1SAAAeSwlXFpu1UU/$_57.JPG?set_id=880000500F'
+  alt: 'Bericht Internationale Elektrische Ausstellung Wien 1883'
   relative: false
 ---
 
