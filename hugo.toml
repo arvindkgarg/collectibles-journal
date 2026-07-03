@@ -1,6 +1,6 @@
 baseURL = "https://inkandmint.com/"
 locale  = "en-us"
-title   = "The Collectibles Journal"
+title   = "Ink & Mint"
 theme   = "stack"
 
 paginate       = 10
