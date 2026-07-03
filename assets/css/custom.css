@@ -40,6 +40,12 @@
     }
 }
 
+/* Related content tiles without cover images — title at top, no wasted space */
+.article-list--tile article:not(.has-image) .article-details {
+    justify-content: flex-start;
+    padding-top: 1rem;
+}
+
 /* A-Z index on taxonomy pages (categories, tags) */
 .az-index {
     display: flex;
