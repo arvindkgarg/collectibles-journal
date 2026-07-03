@@ -1,22 +1,23 @@
 ---
-title: "1885 Vienna Electrical Exhibition Report | Early Electricity History"
-date: 2026-07-02
-description: "Explore the rare 1885 official report (7/8 vols) of the 1883 Vienna Electrical Exhibition. Rich with engravings, early electrical science, and industrial ads."
+title: '1883 Vienna Electrical Exhibition Report 7-Vol Set (1885)'
+date: 2026-07-03
+description: 'Discover the definitive 1885 report of the 1883 Vienna Electrical Exhibition. This rare 7-volume set features detailed engravings, early industrial ads, and chronicles the birth of modern electrical engineering.'
 tags:
-  - "Electrical Exhibition"
-  - "Vienna 1883"
-  - "Franz Klein"
-  - "Industrial History"
-  - "Victorian Science"
-  - "Technical Illustrations"
-  - "Antique Books"
-  - "Electricity History"
+  - 'Vienna 1883'
+  - 'Electrical Exhibition'
+  - 'Industrial Revolution'
+  - 'Early Electricity'
+  - 'Scientific Report'
+  - '19th Century Science'
+  - 'Technical Engravings'
+  - 'L.W. Seidel & Sohn'
+  - 'Franz Klein'
 categories:
-  - "Rare Books"
-  - "Science & Technology"
-slug: "1883-vienna-electrical-exhibition-report-1885"
+  - 'Science & Technology'
+  - 'Rare Books'
+slug: '1883-vienna-electrical-exhibition-report-1885'
 draft: false
-ebay_url: "https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
+ebay_url: 'https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 490.0
 
 cover:
@@ -25,97 +26,77 @@ cover:
   relative: false
 ---
 
-The late 19th century crackled with the promise of a new era, an age where darkness would yield to electric light and communication would transcend distance. At the heart of this electrifying transformation stood grand exhibitions, showcases of human ingenuity and scientific marvel. Among these, the 1883 International Electrical Exhibition in Vienna shone brightest, a pivotal moment that cemented electricity's role in shaping the modern world. Now, imagine holding a tangible piece of that history, a meticulously documented account published in the wake of the exhibition that captures the very pulse of Victorian innovation. We're talking about the rare and profoundly significant **1883 Vienna Electrical Exhibition Report**, a multi-volume official scientific record that offers an unparalleled window into the birth of the electrical age. Edited by Franz Klein and published in 1885 by L.W. Seidel & Sohn, this extraordinary set is more than just a book; it's a time capsule filled with groundbreaking designs, burgeoning technologies, and the vibrant commercial spirit that drove the second industrial revolution. For collectors and historians alike, this report represents a foundational text, a primary source illuminating a period when the impossible became reality.
+There are some books that don't just sit on a shelf; they hum with the energy of another time. This multi-volume set, the `Bericht Internationale Elektrische Ausstellung Wien 1883`, is one of those. When I first encountered it, I wasn't just holding paper and ink; I was holding a lightning rod to the very birth of our electric age. It's a first edition, published in 1885 by L.W. Seidel & Sohn, and it lays out, in excruciating detail, the wonders displayed at the International Electrical Exhibition in Vienna. This wasn't just any fair; this was a spectacle that forever altered how the world worked, and this report is its definitive witness. For anyone who loves the grit and glory of the Second Industrial Revolution, or just marvels at how quickly our world changed, this set offers a portal back to that incredible spark of discovery.
 
 > **Currently available:** A copy of this item is in our collection — listed at $490. [View listing on eBay →](https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 2](https://i.ibb.co/5gtMhbDw/538610af82b2.jpg)
+![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 2](https://i.ebayimg.com/00/s/MTIxNlgxNjAw/z/iywAAeSwCGppu1UV/$_57.JPG?set_id=880000500F)
 
-## The Spark of a New Era: Historical Background of the 1883 Vienna Exhibition
+## The Grand Spark: Vienna, 1883
 
-The 19th century was a crucible of scientific discovery, but few advancements captured the public imagination and transformed daily life quite like electricity. From the flickering gaslight of city streets to the laborious processes of industrial production, the world stood on the precipice of an immense change. It was against this backdrop of burgeoning potential that Vienna, a cultural and scientific hub of the Austro-Hungarian Empire, hosted the Internationale Elektrische Ausstellung in 1883.
+Imagine a world on the cusp. It's 1883. Steam power has been king, but something new, something *invisible* yet potent, is beginning to flicker in the public imagination: electricity. The International Electrical Exhibition in Vienna wasn't just a place to see cool gadgets; it was a battleground of ideas, a proving ground for technologies that would electrify cities, power factories, and ultimately light up homes. This wasn't just a tech demo; it was a cultural shift, an invitation to a future many couldn't yet fully grasp.
 
-This exhibition was not merely a local fair; it was an international gathering of the world's leading minds and most innovative companies in the nascent field of electrical engineering. Scientists, inventors, and industrialists converged to present their latest creations, demonstrating the practical applications of electricity in a way that had never been seen before. Imagine the awe of visitors witnessing the incandescent light bulb, a relatively new invention, illuminating entire halls with a soft, steady glow, a stark contrast to the harsh, smoky gas lamps they were accustomed to. They saw early dynamos generating power, motors turning machinery, and telegraphic and telephonic systems hinting at a future of instant global communication.
+For me, what makes this 1883 Vienna Electrical Exhibition Report so compelling is its immediacy. Franz Klein, as the editor for the Niederösterreichischer Gewerbe-Verein, wasn't just compiling dry facts; he was curating a living record of a revolution. This was when electric light was still a novelty, when transmitting power over distances was a marvel, when the very concept of an 'electrical grid' was being formed in engineers' minds. You feel the excitement, the ambition, the sheer *will* to harness this wild, new force.
 
-The 1883 Vienna Electrical Exhibition was, in essence, a grand declaration that the electrical age had arrived. It showcased the rapid advancements in a field that was still largely experimental just a few decades prior. The exhibits ranged from theoretical apparatus to fully operational industrial machinery, illustrating how electricity was poised to transform not just domestic life, but also manufacturing, transportation, and communication networks. It was a catalyst for widespread adoption of electrical technology across Europe and beyond, setting the crucial groundwork for the modern electrical grids we rely on today.
-
-The exhibition wasn't just about marvels; it was about measurement, standardization, and the scientific rigor required to harness this powerful new force. Experts debated best practices, shared research, and laid the foundations for the electrical engineering standards that would govern future development. In short, it was a landmark event that presented the cutting edge of electrical technology, demonstrating the practical applications of electricity and inspiring widespread adoption globally.
+I often pick up these volumes and just flip through them, thinking about the crowds of Victorians, dressed in their finest, marveling at Edison's incandescent lamps or the thrum of a newly designed dynamo. It wasn't just about the science; it was about the spectacle, the promise of a brighter, faster, more efficient world. This exhibition wasn't just important for Austria; it was a global showcase, influencing industrial development and public policy across Europe and beyond. It played a massive part in moving electricity from a laboratory curiosity to a practical, everyday utility. Think of it: just a few decades earlier, candlelight was the norm. Then, suddenly, cities could glow. This report is the instruction manual for that transition.
 
 
 ![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDMy/z/x2IAAeSwUztpu1UU/$_57.JPG?set_id=880000500F)
 
-## A Glimpse into the Electrical Age: The Report's Contents and Significance
+## Engines of Wonder: Technical Art and Industrial Grit
 
-To fully appreciate the scope and detail of the 1883 Vienna Electrical Exhibition, one needs to delve into its official scientific record: the "Bericht Internationale Elektrische Ausstellung Wien 1883," edited by Franz Klein. Published in 1885 by L.W. Seidel & Sohn, this monumental 7-volume set (of an originally 8-volume complete report) stands as a comprehensive primary source for understanding early electrical engineering and the state of technology at the height of the Victorian era.
+Now, let's talk about the real visual feast: the illustrations. When I say 'illustrations,' I don't mean little sketches tucked away. I mean hundreds of high-detail technical engravings, many of them full-page plates, that are works of art in themselves. These aren't just diagrams; they're portraits of raw, mechanical power and ingenious design.
 
-Franz Klein, working under the auspices of the Niederösterreichischer Gewerbe-Verein, meticulously compiled and edited this vast compendium, ensuring that every significant innovation and scientific discussion from the exhibition was preserved for posterity. The volumes cover an astonishing breadth of topics, reflecting the multidisciplinary nature of early electrical science:
+You get everything from the complex internal workings of early dynamos – those marvelous machines that convert mechanical energy into electrical energy – to the imposing grandeur of steam engines. I'm talking about specific examples like Mordey's Victoria Dynamos, which were cutting-edge for their time, or the massive prime movers from companies like Robey & Co. You can almost hear the hiss of steam, the clatter of gears, the hum of the dynamos themselves just by looking at these prints.
 
-*   **Generators and Motors**: Detailed descriptions and schematics of the groundbreaking machines that converted mechanical energy into electrical power and vice versa. This includes early dynamos, the forerunners of modern power plants.
-*   **Steam Engines**: The exhibition didn't just showcase electrical advancements; it also highlighted the power sources that drove them. Early steam engines, crucial for running the dynamos, are meticulously documented.
-*   **Electrical Lighting**: A significant portion is dedicated to the revolution in illumination, featuring discussions and illustrations of incandescent lighting, including early designs from pioneers like Thomas Edison. This section provides invaluable insights into the development and early commercialization of the light bulb.
-*   **Telegraphy and Telephony**: The report details the cutting-edge of electrical communication, exploring the intricate mechanisms and systems that allowed messages to travel across vast distances, laying the groundwork for telecommunications.
-*   **Electrotechnical Measurements**: Beyond practical applications, the report delves into the scientific principles and methodologies for measuring electrical phenomena, underscoring the rigorous scientific approach to this new field.
-
-What makes this report indispensable for historians and collectors of 19th century science books is its role as a direct, unfiltered account. It’s not a modern interpretation but a contemporary record, capturing the terminology, perspectives, and even the nascent understanding of electricity as it was being developed. It offers a tangible connection to the early days of electrification, allowing researchers to trace the origins of concepts and technologies that underpin our modern world. Each volume contributes to a comprehensive scientific record of early electrical engineering, making it an unparalleled historical document.
+What I love about these illustrations is their dual nature. Yes, they are incredibly technical, designed to convey precise information to engineers and industrialists. You can trace every pipe, every lever, every coil. But they also possess a powerful aesthetic. There's a certain beauty in the functional form, the intricate lines, the sheer ambition captured by these 19th-century engravers. For me, they transcend mere technical drawings and become something more akin to industrial art. They tell a story of human ingenuity, of problem-solving on a grand scale, of shaping the very fabric of the modern world. Collectors often seek out these plates as standalone pieces because they are just so striking. They are a window into the mind of a Victorian engineer, showing not just *what* was built, but *how* it was imagined and constructed.
 
 
-![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 4](https://i.ibb.co/gb4cg7zt/6649e4a566a3.jpg)
+![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDEx/z/e-EAAeSw4JZpu1UU/$_57.JPG?set_id=880000500F)
 
-## Beyond the Text: The Allure of Victorian Illustrations and Industrial Advertising
+## The Unseen Sales Pitch: Advertising Through Time
 
-While the scientific reports are invaluable, the "Bericht Internationale Elektrische Ausstellung Wien 1883" offers a feast for the eyes and a unique historical artifact in its own right through its hundreds of high-detail technical illustrations and fascinating industrial advertisements. These elements elevate the set beyond a mere technical manual, transforming it into a vibrant piece of industrial history ephemera.
+One of the quirks I absolutely adore about this set, something that often gets overlooked, is the back covers. This might sound strange, but bear with me. These aren't just blank pages or generic publisher ads. Instead, many of the original paper wrappers uniquely display full-page industrial advertisements from leading 19th-century engineering firms.
 
-The **high-detail technical engravings** are a testament to Victorian-era craftsmanship and the precision required to document complex machinery. These aren't crude sketches but elaborate, often full-page plates that provide intricate cross-sections, exploded views, and detailed diagrams of electrical apparatus, engines, and other mechanical innovations. Imagine studying a full-page illustration of a Robey & Co. Steam Engine, its gears and pistons rendered with remarkable clarity, or examining the delicate coils and connections of Mordey's Victoria Dynamos. These antique technology prints are more than just visual aids; they are artworks in themselves, capturing the aesthetic and functional design principles of a bygone industrial age. For those interested in the visual history of engineering, these engravings are an absolute treasure, offering insights into construction, operation, and the general technological sophistication of the period. They allow us to visualize the physical reality of the innovations described in the text, providing a deeper understanding of how these early electrical systems were conceived and built.
+Think about that for a moment. This isn't just a dry scientific report; it's a historical snapshot of technological marketing. You see ads from companies like Ganz & Co., a Hungarian electrical engineering firm that was a major player in the early days of electrification, particularly in AC technology. You might also find ads from firms like Brückner & Ross. These weren't just local outfits; these were industrial giants, shaping infrastructure across Central Europe and beyond.
 
-Perhaps even more unique and captivating are the **full-page original advertisements** found on the back covers of the volumes. These are not merely decorative; they are a rare glimpse into the commercial landscape of 19th-century engineering firms. These ads provide invaluable historical context, showcasing the key players, the marketing strategies, and the technological offerings of companies like Ganz & Co. and Brückner & Ross, prominent names in the burgeoning electrical and mechanical industries.
-
-Consider the significance: these advertisements are not modern reproductions but original artifacts from 1885, printed alongside the scientific reports they were intended to support. They tell a story of competition, innovation, and the ambitious drive to commercialize a revolutionary technology. What services or products did these pioneering firms highlight? How did they present themselves to potential clients? These advertisements offer a unique perspective on the economics and marketing of early industrial enterprise, complementing the scientific data with a rich layer of social and commercial history. For collectors, these advertisements are a window into the consumer culture and industrial promotion of the late 19th century, making each volume a miniature archive of historical advertising and design.
+For me, these ads are pure gold. They show not just the products these companies were selling – dynamos, motors, lighting systems – but also how they presented themselves, what they emphasized in their marketing, the visual language they used to appeal to potential buyers in a burgeoning industrial economy. It’s a fascinating glimpse into the commercial side of the Second Industrial Revolution, a reminder that even cutting-edge science needed to be sold, adopted, and integrated into the practical world. It’s a small detail, but it speaks volumes about the ecosystem of innovation at the time. It adds another layer of contextual richness to an already dense historical document, making it not just a record of technology, but a record of commerce, aspiration, and industrial self-promotion.
 
 
 ![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 5](https://i.ebayimg.com/00/s/MTYwMFg5ODc=/z/psQAAeSwSINpu1UU/$_57.JPG?set_id=880000500F)
 
-## Why Collectors Electrify Their Collections with This Set
+## Hunting This Unicorn: Rarity and What We Hold
 
-For serious collectors of rare books, particularly those with a focus on science, technology, and industrial history, the "Bericht Internationale Elektrische Ausstellung Wien 1883" by Franz Klein represents a highly desirable acquisition. Its appeal stems from a powerful combination of historical significance, scientific depth, and aesthetic value.
+In the world of rare books, finding something truly unique and well-preserved is a thrill. And let me tell you, finding an extensive, original multi-volume record like this 1883 Vienna Electrical Exhibition Report is uncommon. I've seen incomplete sets, I've seen later reproductions, but to hold the actual 1885 first printing, a primary source of this depth and scope, is something else entirely.
 
-Firstly, its **historical significance** cannot be overstated. As the official and definitive record of one of the most important international exhibitions in electrical history, this set is a primary source par excellence. It documents not just inventions, but the very process of scientific and technological dissemination and adoption that defined the Victorian era. Owning this set is owning a piece of the narrative of how the world transitioned into the electrical age. It's a tangible link to the pioneers of electricity, to the very moment when incandescent lighting and electric power began to transform homes and factories worldwide.
+This isn't just a book about history; it *is* history. It’s the official record, the definitive account. There aren't comparable "editions" in the traditional sense, because this *is* the record. Any comparison you'd make would be to a partial set – maybe just one or two volumes – or to a more recent, less authentic reproduction. That's why this collection holds such value for collectors. It's not just about owning old paper; it's about owning a tangible piece of a foundational moment in human progress.
 
-Secondly, the **comprehensive scientific record** it provides is unparalleled. For researchers and enthusiasts of early electrical engineering, the detailed reports on dynamos, generators, lighting systems (including Edison's early bulbs), telegraphy, and electrotechnical measurements offer an extraordinary depth of information. It’s a foundational text for understanding the origins and evolution of modern electrical systems, presenting the science as it was understood and developed by its creators.
+For me, the appeal is multi-layered. If you're into electrical engineering, it's a deep dive into the roots of your field. If you're an industrial historian, it's a treasure trove of technical detail and commercial context. If you're a lover of industrial art, the illustrations alone make it a worthy acquisition. It’s the kind of item that sparks conversations, that teaches you something new every time you open it. It’s a statement piece, yes, but more importantly, it's an educational tool, a portal to a time when electricity was still a wild, untamed beast, just beginning to be harnessed.
 
-Thirdly, the **high-detail technical engravings and unique 19th-century industrial advertisements** add immense value. The visual richness of the set appeals to collectors who appreciate antique technology prints and the artistry of historical illustration. These images bring the dry technical descriptions to life, offering visual clarity and a powerful sense of connection to the machinery and design ethos of the period. The advertisements, as discussed, are rare pieces of industrial history ephemera, providing unique insights into the commercial world of Victorian science and engineering.
+## A Glimpse into the Set
 
-Finally, and perhaps most importantly for collectors, is the **rarity** of this 7-volume set. Due to its age (published in 1885), its comprehensive nature, and its specialized subject matter, complete sets are incredibly scarce. Many copies have been lost, damaged, or split over the past 140 years. Finding a substantial portion, such as this 7-volume offering, makes it a truly significant find. The demand for such seminal works of Victorian science and technology continues to grow, as these books offer not just information, but a unique aesthetic and historical experience. For a collector, acquiring a part of this definitive record is a chance to preserve a crucial fragment of human ingenuity and progress.
+Let's get specific about what's actually here. This listing comprises the first seven volumes, Parts 1 through 7, of what was originally an eight-volume set. The absent final volume would have covered industrial applications, which, while certainly interesting, doesn't diminish the immense value and depth of the seven volumes we *do* have. These seven volumes chronicle the exhibition itself, the apparatus, the theories, the machines, the very heart of the electrical revolution.
 
-## Navigating the Collector's Market: Identifying a First Edition
+Each volume is a testament to the meticulous record-keeping of the era. Edited by Franz Klein for the Niederösterreichischer Gewerbe-Verein, it carries the weight of official endorsement and scholarly rigor. The publisher, L.W. Seidel & Sohn, was a reputable name, and their choice of heavy-stock paper for the internal pages was a wise one, contributing to the remarkable preservation of the text and illustrations over nearly a century and a half.
 
-When collecting historical scientific reports like the "Bericht Internationale Elektrische Ausstellung Wien 1883," identifying the correct edition is paramount. Our item is clearly identified as a **First Edition**, published in 1885 by L.W. Seidel & Sohn. This is crucial for collectors, as the first printing often holds the most value and authenticity.
-
-For this specific report, the 1885 publication date is the key indicator of a first edition. While later scholarly works may reference or analyze the exhibition, no other contemporary publication offers the same depth and original detail as this official report. Any subsequent editions or reprints would typically be identified as such, or would be modern facsimiles. The publisher, L.W. Seidel & Sohn, based in Vienna, further confirms its authenticity as the original printer associated with the Niederösterreichischer Gewerbe-Verein that commissioned the report.
-
-Collectors should always verify the title page and publication details to ensure they are acquiring the original 1885 printing. The condition of such an old, multi-volume set is also a critical factor. While exact condition details vary from copy to copy, a first edition in relatively good, complete (or near-complete) condition will always be highly desirable. The presence of all original plates and advertisements significantly enhances its value, as these are often the first elements to be lost or damaged over time.
-
-## The Definitive Record: Comparing Editions and Versions
-
-When it comes to the "Bericht Internationale Elektrische Ausstellung Wien 1883," the 1885 publication edited by Franz Klein stands alone as the definitive and most authoritative historical document of the exhibition. Unlike many popular books that undergo multiple printings or revised editions, this work was conceived as the comprehensive, official scientific record.
-
-Therefore, "comparable editions" in the traditional sense are scarce or non-existent. There isn't an "alternate" first edition, nor are there major contemporary competing reports of the same depth and official standing. While other, perhaps smaller, contemporary accounts or summaries of the exhibition might have been published, none achieved the scope, detail, and scientific rigor of Klein's 7- (originally 8-) volume set.
-
-This makes the 1885 L.W. Seidel & Sohn printing the *sine qua non* for anyone seriously studying the 1883 Vienna Electrical Exhibition or early electrical engineering. Later scholarly works and historical analyses of the exhibition invariably draw heavily from, and reference, this very report. It serves as the primary source material, the well from which subsequent interpretations flow.
-
-For a collector, this singular status is a significant aspect of its appeal. You aren't chasing the "best" version among many; you are seeking *the* version, the original and official record that holds unique authority and historical weight. This definitive nature solidifies its place as an essential acquisition for any serious library of rare books in science and technology.
+What always amazes me is the sheer scale of the undertaking. To document an exhibition of this magnitude, with such precision and detail, and then to publish it in such a comprehensive multi-volume format, speaks to the immense importance placed on this event at the time. It wasn't just a temporary show; it was understood, even then, that it was a moment of profound change, deserving of an equally profound historical record. And that's exactly what this 1885 first edition provides.
 
 ## Frequently Asked Questions
 
-### What is the historical significance of the 1883 Vienna Electrical Exhibition?
-It was a landmark event that presented the cutting edge of electrical technology, demonstrating the practical applications of electricity and inspiring widespread adoption globally. It played a pivotal role in ushering in the modern electrical age.
+When I talk about items like this, I often get questions that dig a bit deeper. Here are a few I anticipate for this incredible set:
 
-### Are the illustrations original to the period?
-Yes, the hundreds of technical engravings and full-page plates are original 19th-century illustrations, depicting early electrical and mechanical innovations as they were presented and understood at the time of the exhibition.
+**What was the historical importance of the 1883 Vienna Electrical Exhibition?**
+It was a landmark international exhibition. It showcased the cutting-edge electrical and mechanical innovations of the time, really putting them on display for the public and for industry. It played a major role in getting people to accept and adopt electricity, not just in Vienna, but across Europe and beyond. It effectively moved electricity from a theoretical concept to a practical, commercially viable technology.
 
-### Why are the industrial advertisements notable?
-They offer a rare glimpse into the marketing and key players of 19th-century engineering firms, providing valuable historical context beyond the scientific reports themselves. These original ads are unique pieces of industrial history ephemera.
+**Are the illustrations in this set purely technical, or do they have artistic merit?**
+That's a great question, and it's something I touched on earlier. While these illustrations are undeniably technical – precise engravings of machinery and apparatus – they absolutely possess artistic merit. The detailed craftsmanship, the way the engineers and artists rendered these complex machines, captures the aesthetic and the ingenuity of 19th-century engineering. I consider them significant examples of industrial art. They're beautiful in their functionality.
+
+**Why is the condition described differently for internal pages and wrappers?**
+This is a common characteristic of books from this period, especially those with original paper wrappers. The heavy-stock paper used for the internal text blocks and illustrations was of high quality and has proven incredibly durable over the years. That's why you often find those internal pages in near-fine condition. The original paper wrappers, on the other hand, were designed as a temporary binding. They are inherently more fragile and were always going to be more susceptible to the wear and tear of time. So, it's very typical for them to show signs of age, like chipping, fraying, or some light staining. It's not a flaw, really, but an honest sign of nearly 140 years of existence.
 
 ## About This Copy
 
-We are thrilled to present a rare and substantial part of this monumental historical work: a 7-volume set of the "Bericht Internationale Elektrische Ausstellung Wien 1883," published in 1885. This First Edition, edited by Franz Klein, is a remarkable survivor from the dawn of the electrical age, rich with detailed scientific reports, hundreds of high-quality technical engravings, and unique period advertisements. This is a singular opportunity to acquire a significant piece of Victorian science and industrial history. [View listing on eBay](https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
+This is an original 1885 first edition, comprising seven volumes (Parts 1-7) of the definitive `Bericht Internationale Elektrische Ausstellung Wien 1883`, edited by Franz Klein. The internal pages and the hundreds of detailed plates are in exceptional, near-fine condition, a testament to the quality of the original paper stock. The illustrations, from early dynamos to steam engines, are crisp and vibrant. As is typical for 19th-century publications bound in original paper wrappers, the external covers show expected signs of age and handling, including some chipping, light wear to the spines, and occasional fraying at the edges. These are honest signs of over a century of life, and do not detract from the content. The binding remains solid across the set.
+
+[View listing on eBay](https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)

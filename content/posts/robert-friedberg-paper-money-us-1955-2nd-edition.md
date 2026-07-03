@@ -1,19 +1,20 @@
 ---
-title: 'Friedberg Paper Money of US 1955 2nd Ed. Numismatic Guide'
-date: 2026-07-02
-description: 'Explore the foundational 1955 2nd edition of Robert Friedberg''s ''Paper Money of the United States,'' the essential guide for numismatists. Discover the origin of the Friedberg Numbering System. A rare find in Near Fine condition.'
+title: 'Robert Friedberg Paper Money US 1955 2nd Edition Guidebook'
+date: 2026-07-03
+description: 'Explore the 1955 Robert Friedberg Paper Money of the United States, 2nd Edition. This foundational guide established the Friedberg Numbering System, essential for US currency collectors.'
 tags:
-  - 'Numismatics'
+  - 'Friedberg'
   - 'Paper Money'
-  - 'Robert Friedberg'
+  - 'Numismatics'
   - 'US Currency'
   - 'Collectible Books'
-  - 'Vintage Reference'
-  - 'Friedberg Numbers'
-  - '1950s'
+  - '1955'
+  - 'Second Edition'
+  - 'Reference Guide'
+  - 'Robert Friedberg'
 categories:
-  - 'Books'
-  - 'Numismatics'
+  - 'Rare Books'
+  - 'Numismatic Books'
 slug: 'robert-friedberg-paper-money-us-1955-2nd-edition'
 draft: false
 ebay_url: 'https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
@@ -25,78 +26,75 @@ cover:
   relative: false
 ---
 
-When you delve into the intricate world of U.S. currency collecting, one name stands above the rest as the architect of modern numismatic identification: Robert Friedberg. His seminal work, *Paper Money of the United States*, fundamentally changed how collectors, dealers, and historians classify and appreciate American banknotes. For many, owning a copy of this foundational text is not just about having a reference guide; it's about holding a piece of numismatic history. Among its many printings, the 1955 Second Edition holds a particularly revered status, marking a pivotal moment in the evolution of this indispensable guide. This edition is not merely an updated version; it’s an expanded and revised volume that solidified the Friedberg Numbering System as the industry standard, a system still universally employed by major grading services and enthusiasts alike. For those seeking a truly significant artifact of U.S. paper money scholarship, an original 1955 *Robert Friedberg Paper Money* guide is an acquisition that speaks volumes about their dedication to the hobby.
+Sometimes, you pick up a book and you just *know* it’s more than ink on paper. It’s a touchstone, a moment caught in time, a tool that literally shaped a collecting field. That’s exactly how I feel about this copy of Robert Friedberg’s *Paper Money of the United States*, the Second Edition, published way back in 1955. For anyone serious about US currency, the phrase "Friedberg Paper Money" instantly conjures images of the ultimate reference, and holding one of its earliest iterations is like holding a piece of numismatic history in your hands. This isn't just *a* book; it’s *the* book that codified how we identify, discuss, and value our nation’s paper currency, and it did so in a time when the hobby was just starting to truly formalize itself. The maroon buckram, the bright gilt stamping – it all speaks to an era when serious scholarship met sturdy presentation.
 
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjI0/z/CB0AAeSwntxp5w~J/$_57.JPG?set_id=880000500F)
 
-## Historical Background: The Genesis of a System
+## The Alphabet of Paper Money: Birth of the Friedberg Numbering System
 
-Before Robert Friedberg’s groundbreaking work, the field of U.S. paper money collecting was, to put it mildly, less systematized. While collectors certainly appreciated the beauty and historical significance of American banknotes, there was no universally accepted, comprehensive cataloging system to identify specific varieties, printings, and issues. This lack of standardization made communication challenging, hindered accurate valuations, and complicated the process of building a truly comprehensive collection. Enter Robert Friedberg, a visionary numismatist who recognized this critical void.
+Let’s get right to the heart of why this book, and this specific 1955 edition, is such a big deal. Before Friedberg, while collectors certainly valued US paper money, there wasn't a universally accepted system for identifying and categorizing every single note. Imagine trying to talk about a specific type of large-size note from the 1890s, only to find that everyone uses a different set of descriptors or internal cataloging methods. It would be chaos. Robert Friedberg, with this very work, changed all that.
 
-In 1953, Friedberg published the first edition of *Paper Money of the United States*, a book that would forever alter the landscape of U.S. paper money numismatics. It introduced the revolutionary Friedberg Numbering System, an ingenious method for assigning a unique "F-number" to virtually every known variety of U.S. paper currency. This system provided a clear, concise, and consistent way to identify notes, from fractional currency and large-size legal tender to small-size Federal Reserve Notes. The impact was immediate and profound, offering a common language that transformed collecting from a disparate pursuit into a cohesive, organized field.
+This 1955 Second Edition of *Paper Money of the United States* is where the legendary Friedberg Numbering System truly cemented itself as the industry standard. It wasn't just a suggestion; it became the language of US paper money collecting. When you look at any major grading service today – think PMG or PCGS – and you see a Friedberg (or "Fr.") number on their holder, that system traces directly back to this book. It's a universal identifier, a common tongue that allows collectors, dealers, and researchers across the globe to discuss specific notes with absolute clarity. "I've got an Fr. 212d," for example, immediately tells anyone in the know exactly which note you're talking about, down to the series, signature combination, and sometimes even the specific plate.
 
-Just two years later, in 1955, Friedberg released the Second Edition, a significantly "Expanded and Revised" version of his original work. This 1955 edition wasn't just a reprint; it was a substantial refinement and enlargement, incorporating new research, additional varieties, and enhanced illustrations that built upon the strong foundation of the 1953 publication. Published by The Coin and Currency Publishing Institute, it covered U.S. currency issued from 1861 right up to 1955, offering a panoramic view of the nation's paper money history. This revised *Robert Friedberg Paper Money* guide quickly cemented its position as the definitive reference for U.S. paper money collectors and dealers. Its release marked a crucial step in formalizing the hobby, providing an indispensable tool that, nearly seven decades later, remains the bedrock of U.S. paper money identification. The evolution from the 1953 original to the 1955 expanded version demonstrates Friedberg's commitment to creating the most accurate and comprehensive guide possible, a testament to his enduring legacy.
-
-
-![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTcz/z/1YIAAeSw9fpp5w~J/$_57.JPG?set_id=880000500F)
-
-## Why Collectors Value This Pivotal 2nd Edition
-
-For serious numismatists and collectors of U.S. paper money, the 1955 Second Edition of *Paper Money of the United States* is far more than just another book; it's a prized artifact. Its value stems from several critical factors that elevate it beyond a mere reference text into a significant collectible in its own right.
-
-Firstly, and perhaps most importantly, this 1955 edition represents a crucial early refinement of the Friedberg Numbering System. While the 1953 first edition introduced the system, the 1955 "Expanded and Revised" version solidified its accuracy and comprehensiveness. It became the definitive guide for its era, setting the standard that would influence all subsequent editions. Collectors recognize this edition as a foundational source, offering an authentic glimpse into the system's early development. Major grading services, such as PMG (Paper Money Guaranty) and PCGS (Professional Coin Grading Service), still universally employ Friedberg Numbers, underscoring the enduring relevance of the system this book helped to perfect. Owning this specific edition connects a collector directly to the origins of this industry-standard cataloging method.
-
-Secondly, the book's content itself is a treasure trove for enthusiasts. It features meticulously detailed descriptions and illustrations of U.S. paper money from 1861 to 1955. These illustrations are not just functional; they often depict extremely rare and historically significant notes, such as the elusive 1863 Gold Certificates and complex Compound Interest Treasury Notes. For many collectors, these images provide their only opportunity to view such high-tier rarities, making the book a vital visual archive. The inclusion of data and illustrations contributed by renowned numismatists of the era, such as Arthur M. Kagin, further enhances its scholarly weight and historical credibility.
-
-Beyond its informational value, the provenance and physical characteristics of a vintage copy add substantial appeal. A prime example is the inclusion of a vintage dealer stamp. Many copies, especially those that passed through the hands of prominent dealers, bear the mark of their history. The presence of a dealer stamp from the historic Century Stamp Co. of Los Angeles on the half-title page, for instance, adds a layer of verifiable provenance, connecting the book to the rich tapestry of numismatic commerce and scholarship of the mid-20th century. This kind of historical detail elevates a copy from a simple book to a storied artifact, enhancing its desirability among collectors who appreciate the journey an item has taken through time.
-
-Lastly, the aesthetic qualities of a well-preserved 1955 edition contribute to its collectibility. The original binding, often in gilt cloth, with bright, untarnished stamping, presents a handsome appearance on any numismatic library shelf. Finding copies in "Near Fine" to "Fine" condition, showing minimal handling wear and retaining their original luster, is increasingly uncommon. This scarcity, combined with its profound historical and practical significance, ensures that the 1955 Second Edition of *Paper Money of the United States* remains a highly sought-after volume for serious collectors.
+For me, the genius of the Friedberg System isn't just its comprehensive nature, but its staying power. We're talking about a numbering convention established nearly 70 years ago that remains as relevant and indispensable today as it was in 1955. That's a rare feat in any field, let alone one as dynamic as collecting. It’s a testament to Friedberg’s foresight and the meticulousness of his initial research. Picking up this early edition, you're not just getting a list of numbers; you're getting the Rosetta Stone for US currency, in its original, expanded and revised form. It’s the foundational document that made advanced collecting possible, and for that alone, it commands respect.
 
 
-![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/2qIAAeSw93Np5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFg3Mw==/z/FxQAAeSwQMdp5w~J/$_57.JPG?set_id=880000500F)
 
-## Identifying the 1955 Expanded & Revised Edition and Condition
+## A Visual Feast: Inside the Pages of History
 
-For collectors looking to acquire this significant numismatic reference, correctly identifying the 1955 Second Edition of *Paper Money of the United States* is crucial. While later editions continued to update and expand Friedberg's work, the 1955 version holds a unique historical place as an early, crucial refinement of the foundational system.
+Beyond the numbering system, what truly makes this 1955 edition a delight to explore is the sheer depth of its content and the quality of its presentation for its time. Robert Friedberg wasn't just creating a dry list; he was building a comprehensive, illustrated guide. This edition covers a remarkable range of US currency issued between 1861 and 1955, encompassing large and small size notes, the fascinating world of fractional currency, and even those quirky encased postage stamps that served as stop-gap measures during coin shortages.
 
-The most straightforward way to identify this specific edition is by checking the title page. It will clearly state "Second Edition (Expanded and Revised)" and carry the publication year "1955." The publisher is typically "The Coin and Currency Publishing Institute." This explicit designation distinguishes it from the initial 1953 first edition and subsequent later printings that feature different years and edition numbers. Collectors should be wary of misidentified copies and always confirm these details.
+Flipping through its pages, you're not just reading descriptions; you’re seeing the notes themselves, often reproduced with a level of detail that was groundbreaking for the mid-20th century. My favorite part? The detailed illustrations of high-tier rarities. We're talking about notes like the highly sought-after 1863 Gold Certificates – pieces of art and history that few collectors will ever handle in person. There are also images of Compound Interest Treasury Notes, which are incredibly complex and beautiful instruments of early American finance. These aren't just pretty pictures; they're essential visual references for understanding the nuances of design, engraving, and security features of the era.
 
-Beyond the edition, the condition of a vintage numismatic book significantly impacts its value and desirability. Given that the 1955 edition is nearly seven decades old, finding copies in superior condition can be a challenge. Collectors generally seek copies in "Near Fine" to "Fine" condition. What does this mean in practical terms for a book of this age?
-
-*   **Near Fine:** A book described as Near Fine will show only minor signs of wear. The binding should be generally clean and tight, with only slight rubbing or bumping to the edges or corners. The gilt stamping on the cover and spine should remain bright and largely intact, without significant fading or flaking. The pages inside should be largely clean, free from extensive foxing (age spots), heavy creasing, or significant markings. Any previous owner's marks, such as a neat signature or a small dealer stamp (like the Century Stamp Co. provenance mentioned), are often considered acceptable and can even add to the book's historical charm if discrete.
-*   **Fine:** A Fine condition book is an even higher standard, indicating very little wear, almost as if it were new but clearly having been handled. The gilt would be exceptionally bright, the binding firm, and the pages crisp.
-
-In contrast, copies described as "Good" or "Very Good" will show more noticeable signs of age and use, such as heavier rubbing, faded gilt, internal staining, loose bindings, or significant previous owner's marks. While these copies can still serve as functional references, they typically lack the collector appeal of Near Fine or Fine examples. The scarcity of these older, key numismatic references in exceptional condition contributes directly to their market value and makes a well-preserved 1955 *Robert Friedberg Paper Money* a particularly attractive acquisition for a discerning collector.
+But Friedberg took it a step further. He understood that these pieces of paper didn't just appear out of nowhere; they had a story, often passing through the hands of legendary figures in the numismatic world. This 1955 edition includes provenance data and illustrations that tie specific rarities to iconic collectors like Arthur M. Kagin. Kagin was a giant in the field, a dealer and collector whose name is synonymous with some of the most important currency transactions of the 20th century. Seeing his name, or an illustration linked to his collection, adds a tangible connection to the past. It transforms the book from a mere catalog into a living history, a record of the notes and the people who cherished them. For someone like me, who loves the stories behind the objects, this kind of detail makes the book come alive. It's a window into the historical collecting landscape.
 
 
-![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjA4/z/H4UAAeSwh5Vp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTkx/z/BwMAAeSwI29p5w~J/$_57.JPG?set_id=880000500F)
 
-## Comparable Editions and Versions: A Legacy Unfolds
+## The Mid-Century Moment: Why 1955 Was So Important
 
-Robert Friedberg's *Paper Money of the United States* has seen numerous editions and revisions throughout its long and illustrious history, each building upon the last. Understanding where the 1955 Second Edition fits within this lineage is crucial for collectors seeking specific historical significance or comprehensive coverage.
+Think about the context of 1955. The world was recovering from war, economies were booming, and hobbies were flourishing. Paper money collecting, while certainly existing before this time, was truly starting to hit its stride. It was a period when serious collectors needed serious tools, and Friedberg delivered. This 1955 Second Edition arrived at precisely the right moment, offering an expanded and revised version of his groundbreaking work. It wasn't the first attempt at cataloging, but it was *the* one that stuck, the one that offered the standardization the hobby desperately needed.
 
-The journey began with the **1953 First Edition**. This was the pioneering work, the very first time the Friedberg Numbering System was introduced to the world. It laid the essential groundwork, providing a framework for identifying U.S. paper money that was desperately needed. For historical purists, the 1953 edition holds the distinction of being "the original," the birthplace of the system.
+Later editions, of course, expanded the content even further, incorporating new discoveries, price updates, and expanded coverage. However, in my opinion, this 1955 Second Edition holds a unique, almost sacred, historical place. It represents a key moment, a turning point. It’s the foundational text, the one that introduced the system that still governs our hobby today, before it was updated and expanded many times over. It captures the initial vision, refined and improved from the first outing, but still very much in its primary, influential form.
 
-However, the **1955 Second Edition (Expanded and Revised)** quickly followed, representing a significant leap forward. This edition was not just a minor update; it was a comprehensive re-evaluation and expansion of the initial work. It addressed any omissions, incorporated new discoveries, and refined the numbering system, making it more robust and encompassing. For many, the 1955 edition is seen as the point where the Friedberg System truly matured into its foundational, definitive form for the mid-century. It provided substantially more comprehensive coverage than its predecessor, solidifying its status as an indispensable guide for notes issued between 1861 and 1955. Its importance lies in this crucial refinement and expansion, making it a pivotal historical artifact in the evolution of numismatic scholarship.
+For a numismatic bibliophile – someone who collects the books *about* collecting – this specific edition is pure gold. It’s not just about having the most up-to-date pricing or the most complete list of notes; it’s about owning a piece of the genre's history. It’s a snapshot of the collecting world as it was formalizing, solidifying its methods and language. I find that deeply appealing. It’s like owning the first edition of a classic novel, even if later editions have better introductions or corrections. The original, or in this case, the early, refined foundational text, always carries a special weight.
 
-Subsequent editions, published by various entities and often updated by different authors (such as Ira Friedberg, Robert Friedberg's son), continued to expand the catalog. These **later editions** introduced new F-numbers for notes issued after 1955, refined existing entries, added color illustrations, and incorporated market values. They are invaluable for contemporary collectors seeking the most up-to-date and complete reference for all U.S. paper money, including modern issues. For instance, editions in the 1960s, 70s, and beyond, right up to the present day, provide a continuous update to the Friedberg system, proving its enduring adaptability.
 
-While later editions offer greater contemporary coverage, they do not diminish the historical significance of the 1955 Second Edition. Collectors interested in the historical development of numismatic literature and the very genesis of the Friedberg System often prioritize these early editions. The 1955 *Robert Friedberg Paper Money* guide specifically stands out as an early, crucial refinement that established the robust standard still recognized and utilized globally, bridging the gap between the initial concept and its ongoing evolution.
+![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
+
+## Collecting the Collector’s Tools: Rarity and Condition
+
+Let's talk about the collectibility of the book itself. While *Paper Money of the United States* has seen many printings, this early Second Edition from 1955, especially in decent shape, is increasingly sought after. It’s not unique, by any means – copies do surface – but finding one in "Near Fine" to "Fine" condition? That's where the chase gets interesting. Most reference books, particularly those used regularly, tend to get battered, underlined, and generally well-loved (or abused). They become tools, not display pieces.
+
+But a copy like this one, described as having an "exceptionally clean and vibrant" maroon pebble-grain buckram exterior with "stunningly bright" gold gilt stamping, is a different beast entirely. When I’m looking at these older reference books, the condition of the exterior tells me a lot about how it was treated. A bright, unworn gilt means it wasn't tossed around carelessly. A clean interior, free from heavy markings or foxing, suggests it was cherished, perhaps even used sparingly, or by someone who understood its enduring value.
+
+This isn't just about aesthetics; it’s about scarcity. The number of such clean, well-preserved copies from 1955 diminishes every year. Collectors today, myself included, are increasingly interested not just in the currency itself, but in the history of the hobby. Owning a clean, early edition of *Friedberg Paper Money* is a badge of honor for someone who appreciates the complete picture of numismatics – from the notes themselves to the scholarship that underpins their study. It's an investment, yes, but more importantly, it's a piece of heritage.
+
+## A Historical Stamp: The Century Stamp Co. Provenance
+
+One of the details that genuinely caught my eye on this specific copy is the vintage dealer stamp on the half-title page. It reads "Century Stamp Co. of Los Angeles." Now, this might seem like a small thing, a minor mark on a page, but for me, these kinds of details add immense personality and a direct link to the book’s own history.
+
+The Century Stamp Co. wasn't just any old dealer; it was a historic presence in the collecting world, particularly on the West Coast. Seeing their stamp isn't just an arbitrary mark; it tells a story. It suggests this book likely passed through their hands, perhaps sold to a collector in Southern California in the mid-1950s. It’s a tiny piece of provenance that connects this physical object to the real-world trade and community of its era. Imagine the collectors who might have browsed this very copy on a shelf in Los Angeles, maybe a new collector just starting out, or a seasoned expert looking for the latest reference.
+
+These small, personal touches are what make collecting specific copies so rewarding. It’s not just about the title and author; it’s about the unique journey of *this particular book*. It adds another layer of appreciation for the item, turning it into more than just a reference work. It becomes an artifact of the collecting past itself, carrying the ghosts of previous owners and dealers who valued it enough to place their mark within its covers.
 
 ## Frequently Asked Questions
 
-### What is the Friedberg Numbering System and why is it important?
-The Friedberg Numbering System is a standardized cataloging system for U.S. paper money, established by Robert Friedberg in this book. It's crucial because it provides a consistent method for identifying, classifying, and referencing notes, used universally by collectors and professional grading services like PMG and PCGS.
+**Q: What is the significance of the Friedberg Numbering System?**
+A: It's the industry-standard identification system for U.S. paper money. Major grading services like PMG and PCGS still use it today. It provides a universal way for collectors, dealers, and researchers to classify and identify specific notes.
 
-### What makes the 1955 Second Edition particularly collectible?
-The 1955 Second Edition is highly collectible because it's an 'Expanded and Revised' version of the foundational text, offering more comprehensive detail than the first edition. Its historical significance as an early definitive guide, coupled with its excellent condition and provenance (like the dealer stamp), enhances its appeal to numismatic enthusiasts.
+**Q: Who was Robert Friedberg?**
+A: Robert Friedberg was the author of this incredibly important work. He’s recognized for creating the definitive and foundational reference for U.S. currency collectors, establishing the system that fundamentally changed the hobby.
 
-### Does this book cover all U.S. paper money ever issued?
-No, this specific 1955 edition covers U.S. paper money issued from 1861 to 1955, including large and small size notes, fractional currency, and encased postage stamps. Subsequent editions would naturally expand to include notes issued after 1955.
+**Q: What types of currency does this specific 1955 edition cover?**
+A: This 1955 Second Edition is a comprehensive, illustrated guide. It covers U.S. large and small size notes, fractional currency, and encased postage stamps, all issued from 1861 up to its publication year in 1955.
 
 ## About This Copy
 
-This remarkable 1955 Second Edition of Robert Friedberg's *Paper Money of the United States* is presented in impressive Near Fine condition, showcasing bright gilt stamping on its original cloth binding. Internally, the pages are largely clean and free from significant markings, preserving the integrity of its comprehensive illustrations and detailed information. This particular copy boasts a unique provenance, featuring a vintage dealer stamp from the historic Century Stamp Co. of Los Angeles on its half-title page, adding a tangible connection to mid-century numismatic history. A true collector's item, this foundational *Robert Friedberg Paper Money* reference is now available for acquisition. [View listing on eBay](https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
+This 1955 Second Edition is a truly exceptional example. Its original maroon pebble-grain buckram exterior is remarkably clean and vibrant, with the gold gilt stamping on the spine and front board remaining stunningly bright, showing minimal wear. The interior is equally impressive: the pages are clean, free of any significant marks, foxing, or tears, and the binding is tight. A vintage dealer stamp from the historic Century Stamp Co. of Los Angeles is present on the half-title page, adding a lovely touch of provenance. This copy is in "Near Fine" to "Fine" condition, making it a standout example of a foundational numismatic text.
+
+[View listing on eBay](https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)

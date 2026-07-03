@@ -1,23 +1,23 @@
 ---
-title: "Rare 'Juan II de Aragón' by Vicens Vives | 1953 Limited Ed."
-date: 2026-07-02
-description: "Discover the rare limited edition of J. Vicens Vives' 'Juan II de Aragón' (1953), a pivotal work on 15th-century Spanish monarchy, featuring Rovira Brull's woodcuts."
+title: 'Juan II de Aragón (1953) Limited Ed. – Vicens Vives | Collectibles Journal'
+date: 2026-07-03
+description: 'Discover J. Vicens Vives''s scarce 1953 limited edition of "Juan II de Aragón," featuring Rovira Brull illustrations. A collectible work on 15th-century Spanish history for rare book enthusiasts.'
 tags:
-  - "Spanish History"
-  - "Limited Edition"
-  - "Illustrated Books"
-  - "Vicens Vives"
-  - "Rovira Brull"
-  - "1950s Books"
-  - "Monarchy"
-  - "Collectibles"
-  - "J. Vicens Vives"
+  - 'Spanish History'
+  - 'Limited Edition'
+  - 'Illustrated Books'
+  - '1950s Books'
+  - 'Vicens Vives'
+  - 'Rovira Brull'
+  - 'Antiquarian Books'
+  - 'Collectibles Journal'
+  - 'J. Vicens Vives'
 categories:
-  - "Rare Books"
-  - "History"
-slug: "vicens-vives-juan-ii-aragon-1953-limited-rovira-brull"
+  - 'Rare Books'
+  - 'History'
+slug: 'vicens-vives-juan-ii-aragon-1953-limited-rovira-brull'
 draft: false
-ebay_url: "https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
+ebay_url: 'https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 165.0
 
 cover:
@@ -26,81 +26,77 @@ cover:
   relative: false
 ---
 
-In the sprawling tapestry of rare books, some volumes stand out not just for their historical content but for their intrinsic beauty, scholarly gravitas, and remarkable scarcity. Among these treasures, J. Vicens Vives’ seminal work, *Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV*, holds a particularly distinguished place. But not all copies are created equal. For discerning collectors and passionate historians, the true gem is the **Juan II de Aragón Limited Edition**, a magnificent 1953 publication that inaugurated a prestigious series and offered an unparalleled tactile and visual experience to its fortunate original owners. This isn't merely a book; it's a meticulously crafted artifact that bridges centuries of Spanish history with the artistry of mid-20th-century bookmaking. It provides an immersive journey into the turbulent 15th century, guided by one of Spain’s most respected historians, all within the luxurious embrace of a truly scarce edition. Its unique features, from its exquisite illustrations to its robust binding, make it a cornerstone for any serious collection focused on rare Spanish history books or finely printed works.
+Every once in a while, a book crosses my desk that makes me just stop and stare. Not just because of the text inside – though with this one, that's certainly a draw – but because of how it *feels*. The weight of it, the texture of the paper, the way the light catches the gilt lettering on the spine. That’s exactly what happened when I first got my hands on this particular volume: J. Vicens Vives’s *Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV*, published by Editorial Teide in 1953. This isn't just any old history book; it's a scarce **Juan II de Aragón limited edition**, numbered 375 out of only 750 copies ever printed.
+
+Right away, before even cracking it open, the physical presence of this book grabbed me. It’s got that understated elegance of a mid-century European fine press edition. The half-cloth binding, with its deep maroon spine contrasting against the serene light blue-grey boards, immediately signals that this isn't a mass-market production. Then there’s the gilt lettering, sharp and bright, announcing the author and title. And for a book pushing 70 years old, to still have its original dust jacket – even with some honest wear – well, that’s just the cherry on top. It tells a story of care and preservation, which, in my world of rare books, means a whole lot.
 
 > **Currently available:** A copy of this item is in our collection — listed at $165. [View listing on eBay →](https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 2](https://i.ebayimg.com/00/s/MTE3MFgxNjAw/z/UmkAAeSwLG9qJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 2](https://i.ebayimg.com/00/s/MTYwMFgyMzg=/z/micAAeSw-jpqJwvB/$_57.JPG?set_id=880000500F)
 
-## Historical Background: The Turbulent Reign of Juan II and Vicens Vives' Vision
+## Unpacking a King: Juan II of Aragon
 
-To truly appreciate the significance of this particular edition, one must first delve into the historical landscape it illuminates and the intellectual context of its creation. Juan II of Aragón (1398-1479) presided over one of the most tumultuous periods in Aragonese and indeed, Spanish history. His reign, spanning much of the 15th century, was characterized by constant political intrigue, civil wars, and the relentless struggle for power among the burgeoning monarchies and powerful noble factions across the Iberian Peninsula. Far from being a figure of stable rule, Juan II's time on the throne was marked by conflict with his own son, Charles of Viana, and later, a prolonged civil war in Catalonia, leaving a lasting impact on the region’s political trajectory. His strategic marriages, notably to Blanca I of Navarre and later to Juana Enríquez, were deeply intertwined with the dynastic ambitions that would eventually lead to the unification of Spain under his daughter Isabella I of Castile and Ferdinand II of Aragón (the Catholic Monarchs). Understanding Juan II is crucial to understanding the genesis of modern Spain.
+Let's talk about the subject matter first, because even without the limited edition status, this is a serious piece of historical scholarship. Juan II of Aragon. Ever heard of him? If you’re not deep into 15th-century Spanish history, maybe not, but trust me, he was a force. Born in 1398, he reigned until 1479, and those were eighty years of *constant* drama. We're talking political upheaval, wars, internal conflicts, and a monarchy trying to assert its power against a backdrop of what Vicens Vives so astutely calls "revolution."
 
-Enter Jaime Vicens Vives (1910-1960), the brilliant Catalan historian whose work revolutionized the study of medieval and early modern Spanish history. Vicens Vives was not content with merely recounting events; he sought to understand the deep economic, social, and political structures that shaped historical epochs. His approach was groundbreaking for its time, moving beyond traditional narrative history to embrace a more analytical and socio-economic perspective, influenced by the French Annales School. He brought a rigorous, almost scientific, methodology to his historical investigations, earning him a reputation as one of the most profound and influential Spanish historians of the 20th century.
+Vicens Vives, as a historian, has a way of cutting through the noise. He doesn't just chronicle events; he dissects the forces at play. In this book, he really digs into the dynamic between the crown and the various factions, the foundational political struggles that laid the groundwork for what Spain would become. It's not a dry recitation of facts; it's an analysis of power, ambition, and the messy business of governing. When I read a book like this, I'm not just learning about the past; I'm seeing how the threads of history were woven, how choices made centuries ago still echo. It provides deep insight into the foundational political dynamics that shaped modern Spain.
 
-*Juan II de Aragón: Monarquía y Revolución en la España del Siglo XV* is not just a biography; it's a comprehensive political history that masterfully navigates the complexities of 15th-century Spanish monarchy, demonstrating the intricate dance between royal authority, aristocratic ambition, and popular unrest. Published in 1953, this work was a foundational achievement, cementing Vicens Vives's reputation and establishing a new benchmark for scholarly inquiry into the period. It provides an essential framework for understanding the forces that led to the formation of the modern Spanish state, exploring themes of power, revolution, and the evolving nature of sovereignty during a pivotal era.
-
-Beyond its academic merit, this particular volume holds an additional layer of historical significance: it was chosen as the inaugural work for Editorial Teide's prestigious "El Hombre y su Tiempo" series, part of their "Grandes Ediciones Científicas y Literarias." This selection immediately elevated the book's status, signaling its importance as a landmark publication. For a publisher to select this particular **Vicens Vives history book** to launch such a distinguished series speaks volumes about its perceived quality and lasting scholarly impact. It underscored the publisher's commitment to presenting major historical works in editions that matched their intellectual weight with exceptional physical presentation. This decision not only highlighted the book's content but also recognized the cultural and intellectual contributions of Vicens Vives to Spanish historical scholarship, making it a pivotal piece in the academic landscape of the 1950s.
+Think about it: the 15th century in Spain was a cauldron. The Reconquista was ongoing, kingdoms were consolidating, and the stage was being set for the "Catholic Monarchs," Ferdinand and Isabella, who would unite the crowns of Aragon and Castile and fund Columbus. Juan II was Ferdinand's father. So, this isn't some historical sidebar; it's a direct look at the lineage and the environment that produced some of the most influential figures in world history. Vicens Vives's work here is like getting a backstage pass to that era, understanding the personalities and pressures that led to such monumental changes. He shows us the bones of the beast, so to speak, of how 15th-century Spain was shaped.
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDEx/z/Q08AAeSwUKBqJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTIw/z/bRUAAeSwL3xqJwvB/$_57.JPG?set_id=880000500F)
 
-## Why Collectors Value This: A Confluence of Rarity, Artistry, and Scholarship
+## The Scholar Behind the Spine: J. Vicens Vives
 
-For collectors, the allure of the **Juan II de Aragón Limited Edition** extends far beyond its historical narrative. This specific printing embodies a trifecta of desirable characteristics: extreme scarcity, exceptional artistic embellishment, and profound scholarly importance. These elements combine to make it a highly sought-after collectible, particularly for those passionate about **15th century Spain history** or rare illustrated books.
+Now, about the author, J. Vicens Vives. If you know anything about Spanish historiography from the mid-20th century, his name comes up fast. He was a highly respected Spanish historian, renowned for his profound contributions to understanding 15th-century Spain. His scholarship wasn't just broad; it was deep. He had a reputation for rigorous research and for synthesizing complex information into coherent, compelling narratives.
 
-Firstly, its rarity is a primary driver of its value. This is not just a standard hardcover edition; it is a **scarce limited edition**, specifically numbered 375 of only 750 copies printed with Arabic numerals on special, high-quality paper. In an age where digital reproduction is commonplace, the tangibility of such a limited physical run, carefully numbered, resonates deeply with collectors. Each copy is a unique artifact, a testament to a specific moment in publishing history when quality and exclusivity were paramount. The small print run means that finding a copy, especially one in good condition, is increasingly challenging, pushing its desirability upward.
+What I appreciate about Vicens Vives is his ability to make these distant historical periods feel relevant. He doesn't treat history as a dead subject. Instead, he breathes life into it, showing how the struggles of the past inform the present. His work on *Juan II de Aragón* is a perfect example of this. He wasn't just recording facts; he was interpreting them, drawing connections, and building a comprehensive picture of a very turbulent time. This wasn't some lightweight popular history; it was serious, academic work, yet presented in a way that, in this limited edition, feels almost like an art object.
 
-Secondly, the artistic component is a major draw. The book features striking black and white woodcut-style illustrations and numerous vignettes by J. Rovira Brull, including a captivating frontispiece. Rovira Brull's distinctive style perfectly complements the historical subject matter, evoking the medieval aesthetics of the 15th century while maintaining a timeless appeal. These aren't mere decorative additions; they are integral to the book's character, transforming the reading experience into a visual journey. Books featuring significant illustrations by renowned artists like Rovira Brull often command higher prices, especially when they are part of limited editions. For enthusiasts of **Rovira Brull illustrated books**, this edition represents a prime example of his work in a historically rich context.
-
-Thirdly, the enduring scholarly importance of Vicens Vives' work cannot be overstated. As a foundational text on Juan II and 15th-century Spanish political history, it remains relevant for historians today. Collectors often seek out not just beautiful books, but books that hold intellectual weight and have shaped academic discourse. Owning a rare, beautifully produced edition of such a seminal work elevates a collection from mere accumulation to a curated library of significant texts. It’s an investment in both cultural heritage and intellectual legacy.
-
-Finally, the physical presentation of this specific edition adds to its collectibility. The handsome half-cloth binding, with its elegant maroon spine, light blue-grey boards, and vibrant gilt lettering and decorative bands, speaks to a bygone era of meticulous craftsmanship. The presence of the original light green printed dust jacket, despite showing some wear and tear, further enhances its desirability. For a 1950s publication, an intact dust jacket, even with minor imperfections, signifies a higher degree of completeness and preservation. It provides important context about the book's original presentation and adds another layer of rarity, as dust jackets were often discarded. The combination of these factors makes this **Juan II de Aragón Limited Edition** a truly exceptional piece for any collection, embodying the best of historical scholarship, artistic design, and bibliophilic rarity. It stands as a testament to the enduring power of the printed word, both as a vessel of knowledge and an object of beauty.
+In the academic circles of his time, Vicens Vives was a powerhouse. His methods were innovative, and he often challenged existing interpretations, bringing fresh perspectives to well-trodden paths. For a collector like me, acquiring a first edition, especially a limited one, of such a foundational work by a historian of his caliber is always a thrill. It's not just the rarity of the physical object; it's the intellectual weight it carries, the legacy of a scholar who shaped our understanding of an entire era. You're holding a piece of not just Spanish history, but also the history of Spanish historical thought.
 
 
 ![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 4](https://i.ebayimg.com/00/s/MTYwMFgyMzU=/z/7GwAAeSwuYdqJwvB/$_57.JPG?set_id=880000500F)
 
-## Identifying the Edition and Condition: A Collector's Guide
+## Inaugural Grandeur: The "El Hombre y su Tiempo" Series
 
-For collectors, accurately identifying a specific rare edition and assessing its condition are crucial steps. This **Juan II de Aragón Limited Edition** from 1953 has several distinguishing features that set it apart from later or more common printings. Knowing these details is key to recognizing its value.
+One of the really cool things about this particular book is its status as the inaugural volume of a very prestigious series: "El Hombre y su Tiempo" (Man and His Time) by Editorial Teide. Think about that for a second. When a publisher launches a new series, especially one designed to be "Grandes Ediciones Científicas y Literarias" (Great Scientific and Literary Editions), they put their best foot forward. This book, then, was chosen to set the standard, to announce the ambition and quality of what was to come.
 
-The most immediate identifier is the "Limited Edition" designation itself. Look for the specific numbering, which will be printed with Arabic numerals, confirming it is one of only 750 copies. Our particular item is number 375, a detail that should be clearly stated within the book, typically on the limitation page or verso of the title page. This numeric demarcation is a non-negotiable aspect of this specific collectible variant.
+And what a standard it set! The concept of the series itself is appealing: examining key figures within the context of their era, understanding the forces that shaped them and that they, in turn, shaped. It's a way of looking at history not as a collection of isolated events, but as a continuous narrative driven by individuals and the times they lived in.
 
-Beyond the numbering, the physical construction of the book is unique. This is a distinctive half-cloth binding. The spine is a rich maroon cloth, often adorned with vibrant gilt lettering and decorative bands, which adds a touch of sophistication and visual appeal. The boards are covered in a contrasting light blue-grey material. This specific color combination and material choice are characteristic of this limited edition and differentiate it from standard editions that might feature full cloth or different aesthetic choices. The quality of the paper is also noteworthy; it's a special, heavier stock, which contributes to the book's overall luxurious feel and its long-term preservation.
-
-The presence and style of the illustrations by J. Rovira Brull are another critical identifying feature. The black and white woodcut-style images and vignettes, including the striking frontispiece, are unique to this edition and significantly enhance its artistic merit. Later printings might omit these illustrations or feature different ones, making Rovira Brull's work a hallmark of this scarce edition.
-
-Finally, the dust jacket, while often showing signs of wear due to its age and fragility, is an essential component. This edition came with an original light green printed dust jacket. Its presence, even with moderate rubbing, notable edge wear, several small tears (particularly along the spine edges), and light sunning to the spine area, is a significant value enhancer. Many collectors prioritize books with their original dust jackets, as they provide a complete picture of the book's initial presentation and are often lost or discarded over time. While the condition description of the dust jacket clearly indicates wear commensurate with a 1950s publication, its mere existence is a strong positive. The interior of the book, conversely, is typically found in very good to near fine condition, with clean pages and a robust binding that attests to the high-quality materials used in its production.
+For collectors, being the first volume of a series automatically gives a book extra cachet. It's often the hardest to find in pristine condition, and it holds a special place in any complete collection. Editorial Teide clearly invested a lot in this launch. The quality of the paper, the binding, the illustrations – it all speaks to a commitment to producing something truly special. This wasn't just a book; it was a statement. It said, "We are producing works of lasting importance, presented with exceptional craftsmanship." That kind of vision is something I deeply appreciate. It tells me the publisher cared as much about the physical book as the content, which, let's be honest, is music to a collector's ears.
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDEz/z/qBUAAeSwY6BqJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 5](https://i.ebayimg.com/00/s/MTE3MFgxNjAw/z/UmkAAeSwLG9qJwvB/$_57.JPG?set_id=880000500F)
 
-## Comparable Editions and Versions: Why This One Stands Out
+## The Art of the Book: Rovira Brull's Woodcut-Style Illustrations
 
-When evaluating rare books, understanding how a specific edition compares to others is crucial for appreciating its unique value. For J. Vicens Vives' *Juan II de Aragón*, several printings exist, but none can truly be considered "comparable" to this 1953 limited edition. Its distinct features firmly establish it as the most desirable version for collectors.
+Let's talk about the artwork in this book, because it's a huge part of its appeal. The text is richly complemented by striking black and white woodcut-style illustrations and vignettes by J. Rovira Brull. Now, if you're like me, you love illustrations in old books, especially when they're done with this kind of skill and character. Rovira Brull's work here isn't just decorative; it adds another layer to the historical narrative.
 
-Standard printings of *Juan II de Aragón*, while containing the same seminal text, typically lack the special embellishments that define this limited run. These common editions would likely have a full cloth or perhaps a simpler board binding, often in less distinct colors, and would almost certainly forgo the luxurious gilt ornamentation found on the spine of the limited edition. The quality of paper would also be standard, not the "special paper" reserved for the exclusive 750 copies. This might seem like a minor detail, but for bibliophiles, the feel and permanence of high-quality paper contribute significantly to a book's tactile appeal and its ability to withstand the test of time.
+These aren't your typical photographic plates. The woodcut style has a particular strength and graphic quality that suits the gritty, often brutal realities of 15th-century history. There's a certain starkness to them, a drama conveyed through strong lines and bold contrasts, that really draws you into the period. The illustrations aren't just pretty pictures; they're interpretive, artistic renditions of the historical moments Vicens Vives describes.
 
-The most significant differentiator, however, lies in the illustrations. The black and white woodcut-style illustrations and vignettes by J. Rovira Brull are a hallmark of this limited edition. These artistic elements are typically absent from standard or later printings. Rovira Brull’s contributions elevate the book from a purely academic text to a work of art, appealing to collectors who value aesthetic excellence alongside historical content. A standard edition would simply present the text, devoid of this visual richness, which significantly diminishes its appeal to a wide segment of the collecting community.
+For example, the research notes specific captivating plates depicting historical scenes like "Torrelobañon (1443)" and "Villalba, 1421." Imagine flipping through these pages and seeing Rovira Brull’s vision of these critical historical moments. It’s like stepping back in time, seeing the castles, the landscapes, the figures, all rendered with an artist's touch. That’s what I look for in an illustrated book: artwork that doesn’t just sit on the page, but actively engages with and enhances the text. It's a partnership between historian and artist, making the reading experience so much richer. The choice of a woodcut style was really smart here; it evokes an older, more rustic form of printing, fitting the medieval subject matter perfectly, even in a mid-20th-century publication. It's a thoughtful design choice that really elevates the whole package.
 
-Furthermore, the status of this edition as the inaugural volume of Editorial Teide's "El Hombre y su Tiempo" series adds a layer of historical provenance that no other printing can claim. This signifies its original intent as a flagship publication, treated with a level of care and expense rarely afforded to subsequent re-printings.
+## The Allure of Scarcity: A Numbered Limited Edition
 
-Finally, the presence of the original decorative dust jacket, even with wear, is a defining characteristic of this 1953 limited edition. Later editions might have different jacket designs, or, more commonly, were produced without a jacket altogether or acquired aftermarket protectors. The original jacket provides an authentic glimpse into the book's initial presentation, connecting the collector directly to the moment of its publication. Its specific light green color and printed design are unique to this release.
+Now, we come to the part that really speaks to the collector in me: the scarcity. This book is a limited edition, numbered 375 of only 750 copies printed. That’s a small print run, especially for a scholarly work that would have been of interest to libraries and academics far beyond that number. Printed on special paper, too, which always makes a difference in the feel and longevity of a book.
 
-In essence, while the intellectual content of *Juan II de Aragón* remains constant across all editions, the 1953 **Juan II de Aragón Limited Edition** stands as a superior artifact. It offers a premium reading and collecting experience through its exquisite binding, special paper, original Rovira Brull illustrations, and its distinction as the series' debut, all features that are typically absent from its more conventional counterparts. For those seeking the definitive physical representation of Vicens Vives' masterpiece, this limited edition is unequivocally the version to pursue, embodying the zenith of mid-century Spanish book production.
+What does "limited edition" mean for collectors? Well, it means exclusivity. It means fewer copies out there, which naturally drives up demand and value over time. It's not just about bragging rights, though those are nice; it’s about owning a piece of publishing history that was intentionally created to be special. When a publisher goes to the trouble of numbering each copy, it’s a deliberate statement: "This is a prized item."
+
+Finding a specific numbered copy, like this one being #375, adds to its unique appeal. It gives it an individual identity within its small cohort. In my experience picking these up, copies from such small runs often disappear into private collections or institutions and don't resurface frequently. The fact that it retains its original dust jacket, despite some wear, further underscores its collectibility. Dust jackets are notoriously fragile and often discarded, so finding one intact speaks to the care it received over the decades. This isn't just a book about history; it's a piece of history itself, a physical artifact of a specific moment in publishing. It truly stands apart from standard academic printings of Vicens Vives's broader historical output.
 
 ## Frequently Asked Questions
 
-### What makes this specific edition collectible?
-This is a scarce limited edition, numbered 375 of only 750 copies, printed on special paper, and features original woodcut illustrations by J. Rovira Brull, making it highly desirable for collectors.
-
 ### Who was J. Vicens Vives?
-J. Vicens Vives was a renowned Spanish historian, recognized for his profound contributions to the study of medieval and early modern Spanish history and economic thought.
+J. Vicens Vives was a highly respected Spanish historian, recognized for his profound contributions to the study of 15th-century Spain and its complex political and social developments. His work is considered foundational in the field.
 
-### What is the condition of the dust jacket?
-The original light green dust jacket is present but exhibits moderate rubbing, notable edge wear, several small tears, particularly along the spine edges, and light sunning to the spine area.
+### What is the historical significance of 'Juan II de Aragón'?
+This work is a scholarly exploration of the monarchy and revolutionary forces during the reign of Juan II of Aragon (1398-1479), a turbulent period that profoundly shaped 15th-century Spanish history. It offers deep insights into the political dynamics that paved the way for modern Spain.
+
+### What special features does this specific edition offer?
+This is a scarce limited edition, numbered 375 of 750 copies, printed on special paper. It features striking black and white woodcut-style illustrations by J. Rovira Brull, a handsome half-cloth binding with a maroon cloth spine and gilt accents, and includes its original light green printed dust jacket, indicating careful preservation. It is also the inaugural volume of the prestigious "El Hombre y su Tiempo" series.
 
 ## About This Copy
 
-This particular copy of J. Vicens Vives' *Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV* is a distinguished example of the rare 1953 limited edition. Numbered 375 of only 750 copies, it features the handsome half-cloth binding with a maroon spine and blue-grey boards, vibrant gilt lettering, and the evocative woodcut illustrations by J. Rovira Brull. The original light green dust jacket is present, showing wear consistent with its age, but contributing to its completeness as a collectible. This is a foundational **Spanish monarchy history** book and a magnificent piece for any serious collector of rare books and historical scholarship. [View listing on eBay](https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
+This particular copy, number 375 of 750, is a handsome example from 1953. The half-cloth binding is solid, showing only minor shelf wear, and the gilt lettering on the spine remains bright. Internally, the pages are clean and crisp, a testament to the special paper used. The woodcut illustrations are sharp and impactful. The original light green printed dust jacket is present, which is a major plus, though it does show some expected edge wear, including a few small chips and a closed tear, consistent with its age and material. Overall, it’s a very well-preserved copy of a scarce and important work.
+
+[View listing on eBay](https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
