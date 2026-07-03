@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://arvindkgarg.github.io/collectibles-journal/sitemap.xml
