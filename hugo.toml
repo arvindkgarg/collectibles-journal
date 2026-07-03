@@ -1,0 +1,36 @@
+baseURL = "https://arvindkgarg.github.io/collectibles-journal/"
+locale = "en-us"
+title = "The Collectibles Journal"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  description = "Deep dives into rare books, stamps, coins, prints and ephemera — research, history, and collector guides."
+  author = "Collectibles Journal"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowShareButtons = false
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "The Collectibles Journal"
+    Content = "Research, history and collector guides for rare books, stamps, coins, prints and ephemera."
+
+  [[params.socialIcons]]
+    name = "ebay"
+    url  = "https://www.ebay.com/usr/bound-treasures"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  author   = "authors"
+  series   = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
