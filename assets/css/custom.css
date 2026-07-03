@@ -40,7 +40,11 @@
     }
 }
 
-/* Related content tiles without cover images — title at top, no wasted space */
+/* Related content tiles without cover images — auto height, title at top */
+.article-list--tile article:not(.has-image) {
+    height: auto;
+}
+
 .article-list--tile article:not(.has-image) .article-details {
     justify-content: flex-start;
     padding-top: 1rem;
