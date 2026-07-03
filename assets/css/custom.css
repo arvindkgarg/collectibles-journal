@@ -1,0 +1,50 @@
+/* TOC in left sidebar — match title style to nav sections */
+.left-toc .widget-title {
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0;
+    margin-bottom: 0.5rem;
+}
+
+/* TOC in left sidebar: only visible on desktop */
+.left-toc {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    /* Show TOC in sidebar on desktop */
+    .left-toc {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Stop nav menu from eating all 100vh so TOC has room below it */
+    .article-page .left-sidebar #main-menu {
+        flex-grow: 0;
+        overflow-y: visible;
+    }
+
+    /* Allow sidebar to scroll if nav + TOC together exceed the viewport */
+    .article-page .left-sidebar {
+        overflow-y: auto;
+    }
+}
+
+/* Hide the inline collapsed TOC inside the article body on desktop
+   (Stack renders this for mobile; our left sidebar covers desktop) */
+@media (min-width: 1024px) {
+    .article-toc {
+        display: none !important;
+    }
+}
+
+/* Inline post images at 90% width, centered */
+.article-content img,
+.article-content img.gallery-image {
+    max-width: 80% !important;
+    width: 80% !important;
+    display: block !important;
+    margin: 1rem auto !important;
+}

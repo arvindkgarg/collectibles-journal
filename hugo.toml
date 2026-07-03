@@ -1,30 +1,59 @@
-baseURL = "https://arvindkgarg.github.io/collectibles-journal/"
-locale = "en-us"
-title = "The Collectibles Journal"
-theme = "PaperMod"
-paginate = 10
+baseURL = "https://inkandmint.com/"
+locale  = "en-us"
+title   = "The Collectibles Journal"
+theme   = "stack"
+
+paginate       = 10
 enableRobotsTXT = true
-buildDrafts = false
+buildDrafts    = false
 
 [params]
-  description = "Deep dives into rare books, stamps, coins, prints and ephemera — research, history, and collector guides."
-  author = "Collectibles Journal"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
-  ShowShareButtons = false
-  ShowToc = true
-  TocOpen = false
-  defaultTheme = "auto"
+  mainSections  = ["posts"]
+  description   = "Deep dives into rare books, stamps, coins, prints and ephemera — research, history, and collector guides."
+  rssFullContent = true
 
-  [params.homeInfoParams]
-    Title = "The Collectibles Journal"
-    Content = "Research, history and collector guides for rare books, stamps, coins, prints and ephemera."
+  [params.sidebar]
+    compact = false
+    subtitle = "Rare books, stamps, coins & ephemera"
+    avatar   = ""
 
-  [[params.socialIcons]]
-    name = "ebay"
-    url  = "https://www.ebay.com/usr/bound-treasures"
+  [params.footer]
+    since       = 2026
+    customText  = ""
+
+  [params.dateFormat]
+    published   = "Jan 2, 2006"
+    lastUpdated = "Jan 2, 2006"
+
+  [params.article]
+    headingAnchor = true
+    toc           = true
+    readingTime   = true
+
+    [params.article.list]
+      showTags = true
+
+  [params.widgets]
+    homepage = [
+      {type = "search"},
+      {type = "archives"},
+      {type = "tag-cloud"}
+    ]
+    page = [
+      {type = "similar-listings"},
+      {type = "tag-cloud"}
+    ]
+
+  [params.colorScheme]
+    toggle  = true
+    default = "auto"
+
+  [params.opengraph.twitter]
+    card = "summary_large_image"
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel   = 2
 
 [taxonomies]
   tag      = "tags"
@@ -33,4 +62,38 @@ buildDrafts = false
   series   = "series"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
+
+[[menu.main]]
+  name       = "Home"
+  url        = "/"
+  weight     = 1
+
+[[menu.main]]
+  name       = "Categories"
+  url        = "/categories/"
+  weight     = 2
+
+[[menu.main]]
+  name       = "Tags"
+  url        = "/tags/"
+  weight     = 3
+
+[[menu.main]]
+  name       = "Browse eBay Store"
+  url        = "https://www.ebay.com/usr/bound-treasures?campid=5339163861&toolid=10001&mkevt=1&mkcid=1"
+  weight     = 4
+  [menu.main.params]
+    external = true
+    newTab   = true
+
+[related]
+  includeNewer = true
+  threshold    = 30
+  toLower      = true
+  [[related.indices]]
+    name   = "tags"
+    weight = 100
+  [[related.indices]]
+    name   = "categories"
+    weight = 50

@@ -1,0 +1,12 @@
+{{ if (.Context.Scratch.Get "TOCEnabled") }}
+    <section class="widget">
+        <h2 class="widget-title section-title" style="font-size:1rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;">
+            Table of Contents
+        </h2>
+        <div class="widget--toc">
+            <nav class="toc-nav" id="TableOfContents">
+                {{ partial "article/components/toc" .Context | safeHTML }}
+            </nav>
+        </div>
+    </section>
+{{ end }}

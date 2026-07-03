@@ -1,0 +1,30 @@
+{{ define "body-class" }}
+    article-page
+    {{- $hasTOC := and (default .Site.Params.article.toc .Params.toc) (ge (len .TableOfContents) 100) -}}
+    {{- .Scratch.Set "TOCEnabled" $hasTOC -}}
+    {{- $hasRightWidget := gt (len .Site.Params.widgets.page) 0 -}}
+    {{- .Scratch.Set "hasWidget" $hasRightWidget -}}
+{{ end }}
+
+{{ define "main" }}
+    {{ partial "article/article.html" . }}
+
+    {{ if .Params.links }}
+        {{ partial "article/components/links" . }}
+    {{ end }}
+
+    {{ partial "article/components/related-content" . }}
+
+    {{ if not (eq .Params.comments false) }}
+        {{ partial "comments/include" . }}
+    {{ end }}
+
+    {{ partialCached "footer/footer" . }}
+
+    {{ partialCached "article/components/photoswipe" . }}
+    {{ partial "article/components/mermaid" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") }}{{ end }}
+{{ end }}
