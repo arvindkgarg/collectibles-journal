@@ -39,7 +39,7 @@ Let's talk about what makes this specific item sing – it's all about that publ
 In this case, we have the original, dated slip from Stanford University Press, confirming this specific copy of *California Landmarks* was sent out for review. The fact that it's still with the book, nearly 76 years later, is what makes it so appealing to me. It’s like finding the original birth certificate for a prized possession. The slip tells us it was sent on October 26, 1948, the exact publication date. That precise dating, the direct link to the day the book officially came into existence, isn't just cool—it's gold for serious collectors. It provides verifiable historical provenance, a concrete link to the past that standard first editions, no matter how clean, just can't offer. While a nice first printing of McClure's guide is certainly desirable, one with this kind of documented origin story is in a completely different league. It's a genuine artifact of publishing history, not just a book.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTA1/z/IvMAAeSwQqRpbYQK/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTY3/z/5WkAAeSwUxxpbYQK/$_57.JPG?set_id=880000500F)
 
 ## California in '48: Post-War Dreams and Dusty Roads
 
@@ -48,7 +48,7 @@ Imagine California in 1948. World War II had just ended a few years prior, and t
 It was a time when interest in local heritage was really surging. As the state grew, there was a natural curiosity about its roots – the missions, the Gold Rush towns, the early settlements. This book, *California Landmarks*, really tapped into that burgeoning appetite. It served as a practical guide for both residents wanting to understand their new home better and for the growing number of tourists hitting the road. Think about it: a country just getting back to normal, families buying cars again, and the open road calling. McClure’s photographic guide was the perfect companion for anyone wanting to explore California’s history firsthand, to see the physical evidence of its dramatic story. It wasn’t just a dry historical text; it was a call to adventure, an invitation to experience California’s past through its present-day sites.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTI3/z/rywAAeSwJIxpbYQJ/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 4](https://i.ebayimg.com/00/s/MTI1M1gxNjAw/z/rMIAAeSwAkppbYQK/$_57.JPG?set_id=880000500F)
 
 ## Jim McClure: The Man Behind the Lens and the Maps
 
@@ -59,7 +59,7 @@ McClure understood that to truly appreciate history, you needed to see it. That'
 His work reflects a common sentiment of the era: to preserve and celebrate what makes a place unique before it's lost to progress. McClure, through his camera and his words, encouraged people to get out there, to connect with these sites, and to appreciate the stories they held. He documented these places with care, providing a valuable record that still resonates today. For anyone interested in the history of California, especially through a visual lens, McClure’s contribution is hard to overlook. This book is a primary example of his lasting legacy, offering both historical insight and a nostalgic look at how California's landmarks were viewed and presented decades ago.
 
 
-![California Landmarks: A Photographic Guide to the State's Historic Spots — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTAz/z/HggAAeSw3IlpbYQK/$_57.JPG?set_id=880000500F)
+![California Landmarks: A Photographic Guide to the State's Historic Spots — image 5](https://i.ebayimg.com/00/s/MTI1NVgxNjAw/z/wSgAAeSwRDlpbYQK/$_57.JPG?set_id=880000500F)
 
 ## Stanford University Press and the Art of the Photographic Guide
 
