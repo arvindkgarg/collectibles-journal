@@ -33,7 +33,7 @@ Right away, before even cracking it open, the physical presence of this book gra
 > **Currently available:** A copy of this item is in our collection — listed at $165. [View listing on eBay →](https://www.ebay.com/itm/800145186552?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 2](https://i.ebayimg.com/00/s/MTYwMFgyMzg=/z/micAAeSw-jpqJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 2](https://i.ebayimg.com/00/s/MTE3MFgxNjAw/z/UmkAAeSwLG9qJwvB/$_57.JPG?set_id=880000500F)
 
 ## Unpacking a King: Juan II of Aragon
 
@@ -44,7 +44,7 @@ Vicens Vives, as a historian, has a way of cutting through the noise. He doesn't
 Think about it: the 15th century in Spain was a cauldron. The Reconquista was ongoing, kingdoms were consolidating, and the stage was being set for the "Catholic Monarchs," Ferdinand and Isabella, who would unite the crowns of Aragon and Castile and fund Columbus. Juan II was Ferdinand's father. So, this isn't some historical sidebar; it's a direct look at the lineage and the environment that produced some of the most influential figures in world history. Vicens Vives's work here is like getting a backstage pass to that era, understanding the personalities and pressures that led to such monumental changes. He shows us the bones of the beast, so to speak, of how 15th-century Spain was shaped.
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTIw/z/bRUAAeSwL3xqJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDEx/z/Q08AAeSwUKBqJwvB/$_57.JPG?set_id=880000500F)
 
 ## The Scholar Behind the Spine: J. Vicens Vives
 
@@ -55,7 +55,7 @@ What I appreciate about Vicens Vives is his ability to make these distant histor
 In the academic circles of his time, Vicens Vives was a powerhouse. His methods were innovative, and he often challenged existing interpretations, bringing fresh perspectives to well-trodden paths. For a collector like me, acquiring a first edition, especially a limited one, of such a foundational work by a historian of his caliber is always a thrill. It's not just the rarity of the physical object; it's the intellectual weight it carries, the legacy of a scholar who shaped our understanding of an entire era. You're holding a piece of not just Spanish history, but also the history of Spanish historical thought.
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 4](https://i.ebayimg.com/00/s/MTYwMFgyMzU=/z/7GwAAeSwuYdqJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDEz/z/qBUAAeSwY6BqJwvB/$_57.JPG?set_id=880000500F)
 
 ## Inaugural Grandeur: The "El Hombre y su Tiempo" Series
 
@@ -66,7 +66,7 @@ And what a standard it set! The concept of the series itself is appealing: exami
 For collectors, being the first volume of a series automatically gives a book extra cachet. It's often the hardest to find in pristine condition, and it holds a special place in any complete collection. Editorial Teide clearly invested a lot in this launch. The quality of the paper, the binding, the illustrations – it all speaks to a commitment to producing something truly special. This wasn't just a book; it was a statement. It said, "We are producing works of lasting importance, presented with exceptional craftsmanship." That kind of vision is something I deeply appreciate. It tells me the publisher cared as much about the physical book as the content, which, let's be honest, is music to a collector's ears.
 
 
-![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 5](https://i.ebayimg.com/00/s/MTE3MFgxNjAw/z/UmkAAeSwLG9qJwvB/$_57.JPG?set_id=880000500F)
+![Juan II de Aragón (1398-1479): Monarquía y Revolución en la España del Siglo XV — image 5](https://i.ebayimg.com/00/s/MTYwMFgyMzU=/z/7GwAAeSwuYdqJwvB/$_57.JPG?set_id=880000500F)
 
 ## The Art of the Book: Rovira Brull's Woodcut-Style Illustrations
 
