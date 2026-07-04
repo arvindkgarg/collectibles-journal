@@ -29,7 +29,7 @@ There are some books that just *jump* off the shelf at you, even from across a r
 > **Currently available:** A copy of this item is in our collection — listed at $145. [View listing on eBay →](https://www.ebay.com/itm/389904236299?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Motor Journeys — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDcw/z/5CoAAeSwN~xp4vSO/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 2](https://i.ebayimg.com/00/s/MTI3MVgxNjAw/z/v1MAAeSwajBp4vSO/$_57.JPG?set_id=880000500F)
 
 ## Those Goggles! An Instant Icon
 
@@ -40,7 +40,7 @@ This isn't just a quirky design choice; it’s a direct reference to the daring 
 What really makes this copy stand out, and what I always look for, is the condition of that silver-gilt. Over the decades, metallic finishes on book bindings can tarnish, chip, or simply fade away, especially on a book that might have been handled often or stored poorly. To find a copy where those goggles are still bright and distinct, almost as if they were freshly minted, is quite uncommon. It speaks to how well the book has been preserved over its 112 years. The blind-stamped mountains are also still crisp, adding a tactile dimension to the visual appeal. It’s a testament to the quality of production by A. C. McClurg & Co. and the care taken by previous owners. This kind of intact decorative element is a big part of what makes a first edition like this so sought after.
 
 
-![Motor Journeys — image 3](https://i.ebayimg.com/00/s/MTYwMFgyMzM=/z/lHwAAeSwDgxp4vSN/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 3](https://i.ebayimg.com/00/s/MTIzNFgxNjAw/z/gIoAAeSw9wtp4vSP/$_57.JPG?set_id=880000500F)
 
 ## Louise Closser Hale and the Dawn of Motor Touring
 
@@ -51,7 +51,7 @@ Think about it: 1912. The automobile was still a relatively new phenomenon, cert
 Hale’s writing offers a window into this nascent era of personal mobility. She captures the spirit of early motor touring, giving us a glimpse into how people experienced travel and observed landscapes before the widespread development of modern highways and infrastructure. Her observations are fresh, direct, and often humorous. She’s not just reporting facts; she’s sharing an experience, complete with all its quirks and charms. It’s like getting into a time machine and riding along with her, hearing her thoughts on the changing scenery, the people she meets, and the simple joys and frustrations of motoring through the countryside. This isn’t a dry, academic account; it’s personal, reflecting the enthusiasm and curiosity of someone discovering a new way to see the world. For anyone interested in the history of transportation or the evolution of leisure, her perspective is incredibly valuable.
 
 
-![Motor Journeys — image 4](https://i.ebayimg.com/00/s/MTI3MVgxNjAw/z/v1MAAeSwajBp4vSO/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDQ3/z/ZXIAAeSwVRdp4vSP/$_57.JPG?set_id=880000500F)
 
 ## Walter Hale's Artistic Detours
 
@@ -62,7 +62,7 @@ Walter Hale was an accomplished artist, and his contributions elevate this book 
 Imagine Louise describing a winding country road or a charming European village, and then flipping the page to see Walter's detailed depiction of that exact scene. It creates a richer, more immersive reading experience. These illustrations are not merely decorative; they are integral to the historical and artistic value of the book. For collectors, the presence of these numerous, well-executed full-page illustrations by a known artist significantly enhances the book's appeal. They are a primary reason why this particular edition is so cherished, appealing not just to lovers of early travel literature but also to those who collect illustrated books and art from the early 20th century. When you have a copy where these plates are pristine, as they are in the copy I’m discussing, it makes all the difference. The print quality is still strong, the paper bright, and the images leap off the page, inviting you to linger.
 
 
-![Motor Journeys — image 5](https://i.ebayimg.com/00/s/MTIzNFgxNjAw/z/gIoAAeSw9wtp4vSP/$_57.JPG?set_id=880000500F)
+![Motor Journeys — image 5](https://i.ebayimg.com/00/s/MTYwMFg5ODM=/z/DRIAAeSw1rlp4vSO/$_57.JPG?set_id=880000500F)
 
 ## The Mark of a True First: Deckled Edges and Unread Condition
 
