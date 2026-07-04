@@ -34,7 +34,7 @@ You know, sometimes I stumble upon a book that just *sings*. It’s not always t
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389755169443?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Wind and Weather — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTUy/z/wYUAAeSwJ21pt42k/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/W1YAAeSwvxZpt42j/$_57.JPG?set_id=880000500F)
 
 ## Catching the Current: *Wind and Weather* by Alexander McAdie
 
@@ -45,7 +45,7 @@ Now, if you're not familiar with Blue Hill, you should be. It's a pioneering ins
 Flipping through its pages, you can feel that dedication. The book isn't just dry data; it features historical illustrations, like the famous 'The Tower of the Winds' at Athens. I find this absolutely brilliant, because it connects modern meteorological science back to ancient perspectives, showing a long, continuous human effort to understand the forces that shape our world. McAdie wasn't just a scientist; he understood the historical continuum of his field. This blending of scientific inquiry with historical context is something that always catches my eye in older scientific texts. It reminds us that even the most rigorous disciplines are built upon centuries of human curiosity.
 
 
-![Wind and Weather — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDU2/z/O1oAAeSwcKNpt42k/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 3](https://i.ebayimg.com/00/s/MTI2NVgxNjAw/z/6T8AAeSwX6tpt42k/$_57.JPG?set_id=880000500F)
 
 ## The Inscription: A Meeting of Minds at Harvard
 
@@ -58,7 +58,7 @@ And who was Charles Homer Haskins? Oh, only the "Father of American Medieval His
 So, here we have it: McAdie, the eminent meteorologist from the Blue Hill Observatory, gifting his book on "Wind and Weather" to Haskins, the towering figure of medieval history. Both were prominent Harvard colleagues, and this book serves as a tangible link between their worlds. Imagine the discussions they must have had in the hallowed halls of Harvard, McAdie talking about atmospheric pressures, Haskins perhaps musing on medieval agricultural practices influenced by weather patterns. It's a beautiful intersection of science and history, frozen in time on the flyleaf of a book. This kind of provenance, this direct connection between two such influential figures, is what collectors dream about. It’s a story, a conversation, that you can hold in your hands.
 
 
-![Wind and Weather — image 4](https://i.ebayimg.com/00/s/MTYwMFg5Mg==/z/3jwAAeSwle9pt42j/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 4](https://i.ebayimg.com/00/s/MTI1N1gxNjAw/z/8WQAAeSwWK1pt42k/$_57.JPG?set_id=880000500F)
 
 ## The Dust Jacket: A Survivor's Tale
 
@@ -69,7 +69,7 @@ Dust jackets, especially from this era, are notoriously fragile. They were origi
 Now, the jacket on this one, like many survivors from that time, shows its age. It's worn, undoubtedly. But that wear tells a story of a book that was read, handled, and then, remarkably, kept intact with its original covering for over a hundred years. It’s a testament to the care of its previous owners, and frankly, I think a little honest wear adds character to such an historical artifact. It’s not pristine, but it’s *present*, and that makes all the difference in the world for rarity and value. Unsigned copies or those lacking the jacket are, in my experience picking these up, far more common and simply don't hold the same appeal or commanding price. The jacket, even in its worn state, is the cherry on top of an already very special book.
 
 
-![Wind and Weather — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/W1YAAeSwvxZpt42j/$_57.JPG?set_id=880000500F)
+![Wind and Weather — image 5](https://i.ebayimg.com/00/s/MTI0MVgxNjAw/z/0ksAAeSwlYJpt42k/$_57.JPG?set_id=880000500F)
 
 ## Why This Specific Copy Is a True Find
 
