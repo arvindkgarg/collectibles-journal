@@ -30,7 +30,7 @@ You know, sometimes a book just *feels* right the moment you pick it up. This co
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389908108426?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Off for California — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDI=/z/uf0AAeSw9G5p5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 2](https://i.ebayimg.com/00/s/MTE5NFgxNjAw/z/YF8AAeSwU0pp5Dsx/$_57.JPG?set_id=880000500F)
 
 ## The Promise of Gold: More Than Just Shiny Rocks
 
@@ -39,7 +39,7 @@ Picture this: It's 1849. News has exploded across the globe – gold in Californ
 That's why a book like *Off for California* hits so hard. It’s not a dry history; it's a living, breathing account from someone right there in the thick of it. William H. Dougal wasn't a celebrity or a famed explorer; he was a participant, an observer, and thankfully for us, a meticulous record-keeper. His perspective strips away the mythology and gives us the sweat, the fear, the hope, and the sheer grit of the era. It’s a primary source document, plain and simple, and that’s gold for any historian or collector who wants the unvarnished truth. We often forget how young America was then, how much of its identity was still being forged in these wild frontier experiences. Dougal's book puts you right in that furnace.
 
 
-![Off for California — image 3](https://i.ebayimg.com/00/s/MTE5NFgxNjAw/z/YF8AAeSwU0pp5Dsx/$_57.JPG?set_id=880000500F)
+![Off for California — image 3](https://i.ebayimg.com/00/s/MTE4MlgxNjAw/z/LKYAAeSwz9pp5Dsw/$_57.JPG?set_id=880000500F)
 
 ## Dougal's Eye and Hand: Sketches, Letters, and the Birth of Towns
 
@@ -52,7 +52,7 @@ Then there are the visuals. Oh, the visuals! Dougal wasn't just a writer; he was
 For instance, this book includes rare depictions of Angelo's Ranch, which is recognized as the founding site of Belmont, California. And it’s not just Belmont. You get early landscapes of Menlo Park and Atherton, all through Dougal's 1849 sketches. Seeing these places as they were, through the eyes of someone who was there, is a truly chilling experience. It’s like peeking over his shoulder as he puts pencil to paper, documenting a landscape that was on the cusp of immense change. These aren't just illustrations; they're historical documents in their own right, offering concrete evidence of what California looked like a century and a half ago. This kind of visual primary source is incredibly hard to come by and forms a core part of the book’s appeal.
 
 
-![Off for California — image 4](https://i.ebayimg.com/00/s/MTE3NFgxNjAw/z/Lk0AAeSw0Plp5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 4](https://i.ebayimg.com/00/s/MTE5N1gxNjAw/z/pCkAAeSwyXBp5Dsx/$_57.JPG?set_id=880000500F)
 
 ## Biobooks: A Collector's Mark of Distinction
 
@@ -63,7 +63,7 @@ What does that mean for us, the collectors? Well, the Centennial series was Biob
 Biobooks had a reputation for quality, and they intentionally created scarce, desirable editions. Their books often featured custom typography, durable materials, and, as in Dougal’s case, meticulously reproduced illustrations. When you see "Biobooks" on a California history title, especially one in the Centennial series, you know you’re looking at something special. It’s a publisher that understood the importance of preserving history *and* making beautiful objects. For a collector, finding a complete set of the Centennial editions, or even just picking up individual volumes like this one, is a definite win. This particular version stands as a unique and definitive early printing, distinct from any potential later academic reprints or general interest editions that just wouldn't carry the same weight.
 
 
-![Off for California — image 5](https://i.ebayimg.com/00/s/MTE4MlgxNjAw/z/LKYAAeSwz9pp5Dsw/$_57.JPG?set_id=880000500F)
+![Off for California — image 5](https://i.ebayimg.com/00/s/MTE4NlgxNjAw/z/ZgcAAeSwQMdp5Dsw/$_57.JPG?set_id=880000500F)
 
 ## The Scarcity Equation: One of Just 600
 
