@@ -31,7 +31,7 @@ Sometimes, you pick up a book and you just *know* it’s more than ink on paper.
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389917835101?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjI0/z/CB0AAeSwntxp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
 
 ## The Alphabet of Paper Money: Birth of the Friedberg Numbering System
 
@@ -42,7 +42,7 @@ This 1955 Second Edition of *Paper Money of the United States* is where the lege
 For me, the genius of the Friedberg System isn't just its comprehensive nature, but its staying power. We're talking about a numbering convention established nearly 70 years ago that remains as relevant and indispensable today as it was in 1955. That's a rare feat in any field, let alone one as dynamic as collecting. It’s a testament to Friedberg’s foresight and the meticulousness of his initial research. Picking up this early edition, you're not just getting a list of numbers; you're getting the Rosetta Stone for US currency, in its original, expanded and revised form. It’s the foundational document that made advanced collecting possible, and for that alone, it commands respect.
 
 
-![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFg3Mw==/z/FxQAAeSwQMdp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTky/z/JqgAAeSwcnFp5w~J/$_57.JPG?set_id=880000500F)
 
 ## A Visual Feast: Inside the Pages of History
 
@@ -53,7 +53,7 @@ Flipping through its pages, you're not just reading descriptions; you’re seein
 But Friedberg took it a step further. He understood that these pieces of paper didn't just appear out of nowhere; they had a story, often passing through the hands of legendary figures in the numismatic world. This 1955 edition includes provenance data and illustrations that tie specific rarities to iconic collectors like Arthur M. Kagin. Kagin was a giant in the field, a dealer and collector whose name is synonymous with some of the most important currency transactions of the 20th century. Seeing his name, or an illustration linked to his collection, adds a tangible connection to the past. It transforms the book from a mere catalog into a living history, a record of the notes and the people who cherished them. For someone like me, who loves the stories behind the objects, this kind of detail makes the book come alive. It's a window into the historical collecting landscape.
 
 
-![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTkx/z/BwMAAeSwI29p5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/2qIAAeSw93Np5w~J/$_57.JPG?set_id=880000500F)
 
 ## The Mid-Century Moment: Why 1955 Was So Important
 
@@ -64,7 +64,7 @@ Later editions, of course, expanded the content even further, incorporating new 
 For a numismatic bibliophile – someone who collects the books *about* collecting – this specific edition is pure gold. It’s not just about having the most up-to-date pricing or the most complete list of notes; it’s about owning a piece of the genre's history. It’s a snapshot of the collecting world as it was formalizing, solidifying its methods and language. I find that deeply appealing. It’s like owning the first edition of a classic novel, even if later editions have better introductions or corrections. The original, or in this case, the early, refined foundational text, always carries a special weight.
 
 
-![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjQz/z/UY4AAeSw5zhp5w~J/$_57.JPG?set_id=880000500F)
+![Paper Money of the United States — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/vJ4AAeSwjkxp5w~J/$_57.JPG?set_id=880000500F)
 
 ## Collecting the Collector’s Tools: Rarity and Condition
 
