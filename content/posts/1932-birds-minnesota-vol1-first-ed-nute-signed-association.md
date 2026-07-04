@@ -31,7 +31,7 @@ I picked up a copy of *The Birds of Minnesota Vol I* by Thomas S. Roberts, M.D.,
 > **Currently available:** A copy of this item is in our collection — listed at $125. [View listing on eBay →](https://www.ebay.com/itm/389754994183?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Birds of Minnesota Vol I — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/j5QAAeSw-olpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota Vol I — image 2](https://i.ebayimg.com/00/s/MTA0OVgxNjAw/z/tnYAAeSwkt9pt4Ox/$_57.JPG?set_id=880000500F)
 
 ## Dr. Roberts and His Feathered Opus
 
@@ -40,7 +40,7 @@ Let's talk about Dr. Thomas S. Roberts for a minute. The man was a giant. Not ju
 When this two-volume set came out in 1932, it immediately set the standard. I mean, *the* standard. Before Roberts, comprehensive, authoritative works on regional American ornithology were few and far between. He wasn't just listing species; he was meticulously detailing their habits, habitats, migratory patterns, and the subtle nuances that make each bird unique. For anyone studying birds in Minnesota, or really, anywhere in the upper Midwest, this book became the bible. It's a classic that still holds immense value today, both for its historical accuracy and as a testament to one man's relentless dedication. When you open this book, you're not just reading about birds; you're connecting with a legacy of careful observation and rigorous scientific inquiry. It’s a joy to hold something that meant so much to so many, and which still informs our understanding of the natural world almost a century later.
 
 
-![The Birds of Minnesota Vol I — image 3](https://i.ebayimg.com/00/s/MTYwMFgyOTI=/z/HPsAAeSwRbRpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota Vol I — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjE2/z/gpQAAeSwdippt4Ox/$_57.JPG?set_id=880000500F)
 
 ## The Grace Lee Nute Connection: A Signature Story
 
@@ -51,7 +51,7 @@ Grace Lee Nute (1895–1990) was a formidable figure in her own right. She wasn'
 This isn’t just a signed copy; it's what we call an "Association Copy." In collecting, an association copy is a book that once belonged to someone intimately connected with the author, the subject matter, or a significant historical event. In this case, Nute's ownership elevates it beyond a mere first edition. It suggests an intellectual kinship, perhaps even a shared love for the wild landscapes of Minnesota. For me, these are the copies that truly sing. They don't just sit on a shelf; they tell a story that stretches beyond the printed page, a whisper of a life lived and knowledge sought. It gives the book a soul, a personal history that no other copy can claim.
 
 
-![The Birds of Minnesota Vol I — image 4](https://i.ebayimg.com/00/s/MTA0OVgxNjAw/z/tnYAAeSwkt9pt4Ox/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota Vol I — image 4](https://i.ebayimg.com/00/s/MTAzMlgxNjAw/z/rccAAeSwPqFpt4Ox/$_57.JPG?set_id=880000500F)
 
 ## More Than Just Feathers: What Makes This First Edition Special
 
@@ -62,7 +62,7 @@ When you open this particular book, the first thing that really pops visually, a
 Then there’s the production itself. This book was published by the University of Minnesota, which lends it an immediate air of academic authority and institutional backing. But what I find even cooler is the local pride baked into its creation. The printing and lithography were done right there in Minneapolis by the McGill Lithograph Company. In an age where so much production is outsourced globally, there’s something genuinely satisfying about holding a piece of regional history that was conceived, researched, written, published, and physically produced all within a relatively small geographic area. It speaks to a time when local craftsmanship and expertise were paramount, and it gives the book a distinctly Minnesotan identity from cover to cover.
 
 
-![The Birds of Minnesota Vol I — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTIx/z/PooAAeSwnahpt4Ow/$_57.JPG?set_id=880000500F)
+![The Birds of Minnesota Vol I — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMjU4/z/U~AAAeSwvdFpt4Ox/$_57.JPG?set_id=880000500F)
 
 ## Why Collect This One?
 
