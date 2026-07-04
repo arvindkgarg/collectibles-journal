@@ -30,7 +30,7 @@ You know, there are some items that just pull you in with a quiet authority. The
 > **Currently available:** A copy of this item is in our collection — listed at $79. [View listing on eBay →](https://www.ebay.com/itm/389749750085?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDI3/z/3GsAAeSw9KNptjyj/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 2](https://i.ebayimg.com/00/s/MTI3NVgxNjAw/z/HvUAAeSwSEFptjyj/$_57.JPG?set_id=880000500F)
 
 ## The Shropshire Story: A Map You Can Get Lost In
 
@@ -41,7 +41,7 @@ I mean, really *look* at this thing. It's not just a pretty picture; it’s a wo
 For me, the charm of these old geological maps lies in their ambition. Imagine the field work that went into producing something like this. Geologists, probably in tweed and sturdy boots, traversing the Shropshire landscape, hammer in hand, making observations, taking notes, sketching formations. Then, someone had to translate all that raw data into this intricate diagram. It speaks to a different kind of scientific pursuit, one that was deeply rooted in direct observation and careful draughtsmanship. This map isn't merely an illustration; it's the culmination of countless hours of dedicated exploration and study, a truly physical representation of scientific discovery in action. And the fact that this specific fold-out map has survived all these years intact, without tears or major creases, is something I genuinely appreciate. It’s fragile by nature, and its preservation speaks volumes about how it’s been cared for.
 
 
-![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 3](https://i.ebayimg.com/00/s/MTEzWDE2MDA=/z/i9sAAeSwVZdptjyh/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 3](https://i.ebayimg.com/00/s/MTI1OFgxNjAw/z/P5sAAeSwNC1ptjyj/$_57.JPG?set_id=880000500F)
 
 ## Victorian Earth Science: A World Unfolding
 
@@ -52,7 +52,7 @@ The Geological Society itself was, and still is, a hugely respected institution.
 When I hold a volume like this, I don’t just see paper and print. I see the minds that poured over these pages, the debates they sparked, the new questions they raised. This era laid so much of the groundwork for modern geology, paleontology, and glaciology. It's like looking at the blueprints of a grand intellectual edifice. The detailed regional studies, like the Shropshire stratigraphy, were absolutely fundamental. They weren't just isolated pieces of research; they were the building blocks for broader geological theories, allowing scientists to see patterns and connections across vast distances. Without this painstaking, localized field research, the bigger picture of geological time and process couldn’t have emerged.
 
 
-![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 4](https://i.ebayimg.com/00/s/MTI4WDE2MDA=/z/5-AAAeSwt4xptjyh/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 4](https://i.ebayimg.com/00/s/OTY2WDE2MDA=/z/B0QAAeSwI0Fptjyi/$_57.JPG?set_id=880000500F)
 
 ## A Wider Lens: Glaciers, Echinoderms, and Ancient Sea Monsters
 
@@ -67,7 +67,7 @@ And for those of us who appreciate a good ancient sea monster, Harry Govier Seel
 What I find so compelling is that all these different studies – regional geology, arctic glaciology, Australian marine paleontology, and English vertebrate paleontology – are bound together in one volume. It illustrates the wide-ranging interests of the geological community and the exciting sense that the world was still being discovered and explained, piece by piece.
 
 
-![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDI2/z/7z8AAeSw52Vptjyj/$_57.JPG?set_id=880000500F)
+![The Quarterly Journal of the Geological Society No. 129: Shropshire Stratigraphy — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDMx/z/DFcAAeSwzORptjyi/$_57.JPG?set_id=880000500F)
 
 ## The Allure of the Original: Why Digital Just Isn't Enough
 
