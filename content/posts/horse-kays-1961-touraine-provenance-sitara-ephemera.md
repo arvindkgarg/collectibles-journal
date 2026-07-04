@@ -44,7 +44,7 @@ What really elevates the intellectual appeal of the book, even in its standard f
 This book laid the groundwork for a generation of horse professionals and enthusiasts. It’s a testament to the methodical, scientific approach to animal care that gained prominence in the mid-20th century. But for *this specific copy*, its life as a purely academic text was just the beginning.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjgw/z/8hAAAeSwaO1pzIgS/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 3](https://i.ebayimg.com/00/s/MTE2NFgxNjAw/z/rzkAAeSwwetpzIgU/$_57.JPG?set_id=880000500F)
 
 ## An Artist's Reference: The Mark of Emilie Touraine
 
@@ -57,7 +57,7 @@ I picture Touraine, perhaps in her Arizona studio, turning these very pages. Was
 For collectors, a provenance like this is gold. It connects the world of academic animal husbandry to the world of fine art. It provides a tangible link to an artist's creative process and intellectual pursuits. It makes you wonder what other books filled her shelves, what other sources of inspiration and knowledge she drew upon. This stamp isn't just an ownership mark; it's an invitation to ponder the life and work of a talented individual, giving this textbook a completely unexpected dimension. It’s a lovely little piece of history, showing us how different worlds – academia, art, and horses – can intersect in unexpected ways.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 4](https://i.ebayimg.com/00/s/MTE2NFgxNjAw/z/rzkAAeSwwetpzIgU/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 4](https://i.ebayimg.com/00/s/MTI5NlgxNjAw/z/ArgAAeSw1VppzIgV/$_57.JPG?set_id=880000500F)
 
 ## A Gift of Passion: Grandma to Marie
 
@@ -70,7 +70,7 @@ This isn't just any book for a young rider; it's *the* book. It’s the serious 
 I can almost see Marie poring over these pages, maybe with her grandmother nearby, explaining diagrams, sharing stories. It speaks to a specific moment in time – 1970, just a few years after the book was published – when this comprehensive guide was still cutting-edge and highly relevant. It makes this copy feel less like a dry textbook and more like a cherished possession, a symbol of encouragement and a deeper connection between generations, centered around a shared love for horses. This inscription transforms the book from an academic volume into a warm, personal artifact of a young rider's formative years. It's a lovely touch, adding a layer of sentiment that's often missing from historical texts.
 
 
-![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDA4/z/SZUAAeSwwaxpzIgS/$_57.JPG?set_id=880000500F)
+![The Horse: Judging, Breeding, Feeding, Management, and Selling — image 5](https://i.ebayimg.com/00/s/MTIxNlgxNTk5/z/TiYAAeSwghNpzImb/$_57.PNG?set_id=880000500F)
 
 ## Sitara's Story: The Paper Trail of a Half-Arabian Mare
 
