@@ -30,7 +30,7 @@ Sometimes, the best finds aren't the ones that scream for attention from behind 
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389860660432?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Anatole France: Thais & At the Sign of the Reine Pédauque — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDMz/z/p1QAAeSwo3xp1cGl/$_57.JPG?set_id=880000500F)
+![Anatole France: Thais & At the Sign of the Reine Pédauque — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDQ5/z/hwkAAeSwj6lp1cGl/$_57.JPG?set_id=880000500F)
 
 ## The Sheer Visual Pleasure of Art Deco
 
@@ -41,7 +41,7 @@ But the appeal doesn't stop at the cover. Open it up, and that Art Deco sensibil
 And then there’s the original slipcase. Oh, the slipcase! In my experience, finding a book from this era with its original slipcase still intact is a genuine win. This one matches the book's spine, a deep red, providing a consistent aesthetic. Slipcases often show the most wear and tear because they take the brunt of handling, so to find one that has protected the book for over 90 years, largely doing its job, is a testament to the care of its previous owners. It's not just about protection, though. A slipcase signifies a complete package, a thoughtful presentation from the publisher. It tells you this wasn't just another book; it was meant to be cherished, perhaps even given as a gift. Its presence always enhances the desirability and value for collectors, suggesting a higher likelihood that the book itself has been well-preserved.
 
 
-![Anatole France: Thais & At the Sign of the Reine Pédauque — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDMw/z/qP0AAeSwsONp1cGk/$_57.JPG?set_id=880000500F)
+![Anatole France: Thais & At the Sign of the Reine Pédauque — image 3](https://i.ebayimg.com/00/s/MTYwMFg5ODU=/z/pvYAAeSwW9xp1cGk/$_57.JPG?set_id=880000500F)
 
 ## Anatole France: The Witty & Elegant Nobel Laureate
 
@@ -52,7 +52,7 @@ This particular volume brings together two of his most acclaimed novels. First, 
 Then there’s *At the Sign of the Reine Pédauque* (or 'Queen Pedauque'), a philosophical satire that’s often lauded for its humor and intellectual depth. It follows the adventures and misadventures of the young apprentice Jacques Tournebroche and his eccentric mentor, the Abbé Jérôme Coignard, in 18th-century Paris. It's a brilliant romp through philosophical debates, human folly, and social commentary, all delivered with France’s characteristic blend of erudition and playful cynicism. These two novels together offer a fantastic cross-section of France’s literary range, showcasing his ability to craft both historical drama and biting satire with equal finesse. Reading France is like enjoying a fine meal – every sentence is carefully constructed, flavorful, and ultimately satisfying.
 
 
-![Anatole France: Thais & At the Sign of the Reine Pédauque — image 4](https://i.ebayimg.com/00/s/MTYwMFg5NjQ=/z/pS4AAeSwsQ5p1cGl/$_57.JPG?set_id=880000500F)
+![Anatole France: Thais & At the Sign of the Reine Pédauque — image 4](https://i.ebayimg.com/00/s/MTYwMFg4Njc=/z/qTUAAeSwRvVp1cGk/$_57.JPG?set_id=880000500F)
 
 ## Three Sirens Press: Democratizing Beauty in Books
 
@@ -63,7 +63,7 @@ Think about it: the 1930s were a challenging time, the Great Depression was in f
 In my view, Three Sirens Press editions represent a sweet spot for collectors. They possess a distinct period aesthetic, often employing the best illustrators of their time, and they were built to last. They aren't mass-market paperbacks, nor are they prohibitively expensive fine press items. They sit right in the middle, offering genuine artistic merit and a tangible connection to the publishing trends of the Art Deco era. When I spot a Three Sirens Press book, I know I'm usually looking at something that offers both literary and artistic value, a true bang for your buck in the collecting world.
 
 
-![Anatole France: Thais & At the Sign of the Reine Pédauque — image 5](https://i.ebayimg.com/00/s/MTYwMFg5MjM=/z/qpkAAeSw9pNp1cGl/$_57.JPG?set_id=880000500F)
+![Anatole France: Thais & At the Sign of the Reine Pédauque — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDQ4/z/raUAAeSw~LJp1cGl/$_57.JPG?set_id=880000500F)
 
 ## Why *This* Edition Grabs My Attention
 
