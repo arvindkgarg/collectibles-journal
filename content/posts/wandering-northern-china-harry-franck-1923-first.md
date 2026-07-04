@@ -52,7 +52,7 @@ This isn't just a travelogue; it's a living snapshot of a geopolitical landscape
 What I find so compelling is the sheer scope of his travels documented here. He's not just hitting the tourist spots. He's showing you the markets, the temples, the people, the modes of transport, the struggles, and the quiet beauty of these often-remote regions. His personal perspective offers a unique lens, far removed from official government reports or academic studies. It's raw, personal history, presented with the kind of straightforward clarity that only a true observer can provide. This book essentially opens a window onto a world that has, in many ways, ceased to exist.
 
 
-![Wandering in Northern China — image 4](https://i.ebayimg.com/00/s/MTIyNFgxNjAw/z/6LoAAeSwrmRp5wfg/$_57.JPG?set_id=880000500F)
+![Wandering in Northern China — image 4](https://i.ebayimg.com/00/s/MTIzOVgxNjAw/z/5AcAAeSwRZlp5wff/$_57.JPG?set_id=880000500F)
 
 ## The Unfiltered Lens: Franck's Own Photographs and That Folding Map
 
