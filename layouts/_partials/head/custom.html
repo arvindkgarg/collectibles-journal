@@ -9,6 +9,17 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-FBWSGBFKZ3');
+
+  // Track eBay link clicks as a custom event
+  document.addEventListener('click', function(e) {
+    var a = e.target.closest('a[href*="ebay.com"]');
+    if (!a) return;
+    gtag('event', 'ebay_click', {
+      link_type: a.classList.contains('ebay-btn') ? 'view_listing' : 'search',
+      link_url:  a.href,
+      page_title: document.title
+    });
+  });
 </script>
 
 {{- if .IsPage -}}
