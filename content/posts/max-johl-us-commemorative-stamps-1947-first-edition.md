@@ -31,7 +31,7 @@ Sometimes, you stumble upon a book that isn't just a book; it's a key. It unlock
 > **Currently available:** A copy of this item is in our collection — listed at $165. [View listing on eBay →](https://www.ebay.com/itm/389917799554?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![U.S. Commemorative Stamps 20th Century, Volume 1 — image 2](https://i.ebayimg.com/00/s/MTYwMFgxNTE=/z/xKUAAeSw3uFp5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps 20th Century, Volume 1 — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTAx/z/nAIAAeSwJyRp5w3v/$_57.JPG?set_id=880000500F)
 
 ## The Grand Old Man of U.S. Philately: Max Johl's Enduring Vision
 
@@ -40,7 +40,7 @@ Let's talk about Max G. Johl for a moment. If you've spent any real time around 
 Johl’s approach was different. He wasn't content with just listing stamps; he wanted to understand them from the ground up, to document every detail of their birth and evolution. He was driven by a desire to capture the technical specifications, the design nuances, and the production peculiarities that most general catalogs would gloss over. His work reflects a deep passion, an almost obsessive commitment to understanding the *how* and *why* behind each issue. For a long time, the collecting world lacked a truly comprehensive technical study of U.S. commemorative stamps. Johl stepped in and filled that gap with an authority that has rarely been matched since. He brought a level of academic rigor to what was often seen as a hobby, elevating it to an area of serious study. His reputation was, and still is, impeccable among philatelists. When you say "Johl," other collectors know exactly what you're talking about: quality, depth, and precision. It’s the kind of authorship that adds an intrinsic value to the physical book itself, beyond just its content.
 
 
-![U.S. Commemorative Stamps 20th Century, Volume 1 — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTAx/z/nAIAAeSwJyRp5w3v/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps 20th Century, Volume 1 — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDUx/z/uxIAAeSwgAxp5w3u/$_57.JPG?set_id=880000500F)
 
 ## Cracking the Code: What's Inside This Philatelic Powerhouse
 
@@ -51,7 +51,7 @@ Johl’s brilliance lies in his exhaustive technical analysis. We're talking abo
 And then there are the illustrations. This isn't a book with a few casual pictures. It's packed with detailed technical illustrations, including those incredible 280-subject plate layout diagrams. If you’ve ever tried to figure out plate positions or how a sheet was printed, these diagrams are indispensable. They show you exactly how the stamps were arranged, how plate numbers would appear, and even guide you to finding specific varieties. This level of detail simply isn't found in your average Scott Catalogue or general reference. Johl was writing for collectors who wanted to understand the minutiae, the very mechanics of stamp production, and he absolutely delivered. For a collector, these insights aren't just interesting; they're vital for proper identification, classification, and understanding the true rarity of certain finds. It transforms a simple hobby into a scholarly pursuit.
 
 
-![U.S. Commemorative Stamps 20th Century, Volume 1 — image 4](https://i.ebayimg.com/00/s/MTYwMFgxNTE=/z/sW8AAeSwPIZp5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps 20th Century, Volume 1 — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDQ2/z/fAYAAeSw8P5p5w3v/$_57.JPG?set_id=880000500F)
 
 ## The First Edition Fetch: Why Condition (and that Dust Jacket) Matters
 
@@ -62,7 +62,7 @@ Think about it: this book is nearly 80 years old. Most scholarly or reference bo
 Beyond the jacket, the book's binding is a dark blue linen cloth, and the Art Deco stamping on the spine and front cover? It’s exceptionally bright silver and gold gilt. It just glows. That kind of gilt often fades or chips over time, but this copy has held onto its luster. It speaks volumes about how it’s been stored and handled for decades. When I see a book like this, I know it belonged to someone who respected it, who knew its value both as information and as a physical object. Later editions or reprintings might have the same content, but they almost never have the same heft, the same visual appeal, or the same satisfying feeling of holding an original, foundational work in its purest form. This is the difference between a tool and a collectible artifact.
 
 
-![U.S. Commemorative Stamps 20th Century, Volume 1 — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDUy/z/VF8AAeSwQW9p5w3u/$_57.JPG?set_id=880000500F)
+![U.S. Commemorative Stamps 20th Century, Volume 1 — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDMw/z/ye4AAeSwPN5p5w3v/$_57.JPG?set_id=880000500F)
 
 ## The Collector's Edge: Why This Volume Still Commands Attention
 
