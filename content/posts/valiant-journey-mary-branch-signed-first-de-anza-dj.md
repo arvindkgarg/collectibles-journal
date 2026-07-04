@@ -31,7 +31,7 @@ Sometimes, a book lands on my desk, and it just *sings*. It’s not always the o
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389908502847?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Valiant Journey — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDM1/z/6dcAAeSw5vBp5GNG/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDA1/z/Nc4AAeSwU0pp5GNF/$_57.JPG?set_id=880000500F)
 
 ## What's in a Name? Mary Branch and the De Anza Trail
 
@@ -40,7 +40,7 @@ Let's talk about Mary Branch first. She's the storyteller here, and what a story
 For those of us who love California history, the De Anza expedition is one of those bedrock stories. It’s about ambition, grit, and the sheer human will to explore and settle. Mary Branch doesn't just list facts; she brings that spirit to life. She walks you through the dust and heat, the challenges of navigating unknown territories, and the hope that drove these early explorers. This wasn't a casual stroll; it was a desperate gamble to secure Spain's hold on a vast, distant territory, connecting far-flung missions and presidios. Without De Anza's route, the early Spanish colonization efforts would have faced even greater hurdles, perhaps altering the course of the region’s development entirely. Branch gives us a look at the actual people involved, the logistics, and the raw courage it must have taken to forge ahead into the unknown. I appreciate how she paints a picture, rather than just relaying dry historical data. She helps you understand the scale of the undertaking, the isolation, and the constant threat of the natural world. It’s the kind of history that feels immediate, not distant.
 
 
-![Valiant Journey — image 3](https://i.ebayimg.com/00/s/MTYwMFgxNTM=/z/K1sAAeSw-Bhp5GNE/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 3](https://i.ebayimg.com/00/s/MTU5OVg5Nzc=/z/MqEAAeSw0k5p5GNG/$_57.JPG?set_id=880000500F)
 
 ## The Magic of Association: When Two Authors Meet
 
@@ -51,7 +51,7 @@ What makes an association copy so special, you ask? Well, it’s about connectio
 I've always found association copies incredibly compelling. They offer a tangible link to a moment in time, a human touch that mass-produced items just can't replicate. It transforms the book from a mere print run into a unique artifact. For collectors, these personal connections elevate an item's value considerably. It’s not just about what the book says, but about *who touched it*, *who read it*, and *who shared it*. Djerassi’s inscription adds a layer of literary history to this historical account, making it a double delight for anyone who appreciates both narrative and the tangible history of books. It’s a quiet testament to the camaraderie among writers, a little whisper from the past that makes you feel like you're holding a piece of their world.
 
 
-![Valiant Journey — image 4](https://i.ebayimg.com/00/s/MTYwMFg5ODQ=/z/NdcAAeSwuzJp5GNG/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 4](https://i.ebayimg.com/00/s/MTM3N1gxNjAw/z/588AAeSwMCZp5GNF/$_57.JPG?set_id=880000500F)
 
 ## More Than Just Words: The Art and Feel of This Edition
 
@@ -64,7 +64,7 @@ And then there are the illustrations. The text is generously spiced with numerou
 Finally, we have the original pictorial dust jacket. Now, I’ll be honest, the dust jacket is in fair condition. It has some wear, a few chips, and maybe a little rubbing. But let me tell you, for a collector like me, having the original dust jacket – even if it’s not pristine – is a huge win. These jackets are often the first thing to get lost or damaged over the years. They’re fragile, after all. A dust jacket doesn't just protect the book; it's an integral part of its original presentation. It carries the original artwork, the publisher's marketing copy, and often important biographical details about the author. It tells you how the book was introduced to the world. To find this 1966 first edition with its pictorial dust jacket still present, complete with its front and rear flap descriptions, is a pretty good score. It completes the package, offering a full picture of the book as it was originally sold, and that matters a lot for collectibility. It’s like finding an antique vase still in its original box, even if the box is a bit tattered – it just feels more complete.
 
 
-![Valiant Journey — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDA1/z/Nc4AAeSwU0pp5GNF/$_57.JPG?set_id=880000500F)
+![Valiant Journey — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDM1/z/6dcAAeSw5vBp5GNG/$_57.JPG?set_id=880000500F)
 
 ## Finding a Gem: Why This First Edition is a Keeper
 
