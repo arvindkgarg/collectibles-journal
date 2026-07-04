@@ -33,7 +33,7 @@ When you hold a copy of G.D. Robinson’s *Philmont Country 1964 USGS Profession
 > **Currently available:** A copy of this item is in our collection — listed at $195. [View listing on eBay →](https://www.ebay.com/itm/389908134231?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 2](https://i.ebayimg.com/00/s/MTYwMFg5Nzk=/z/a9UAAeSwAFFp5ERD/$_57.JPG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 2](https://i.ebayimg.com/00/s/ODc3WDE1OTk=/z/SlkAAeSw3Hxp5EYv/$_57.PNG?set_id=880000500F)
 
 ## The Geology Report That Went to Space (In Spirit)
 
@@ -44,7 +44,7 @@ The content itself is a deep dive into the stratigraphy, structure, and geomorph
 What’s also really cool is the publisher: the United States Geological Survey. When you see "USGS" on a document, you know you're getting something meticulously researched and officially sanctioned. This isn't some casual field guide; it's authoritative science, produced by the federal agency charged with understanding our planet's physical features. That level of rigor was exactly what NASA needed when they were looking for the perfect place to simulate the moon's surface and train their astronauts. They needed reliable, detailed information, and this paper delivered.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMzE4/z/V~sAAeSwCbZp5EZH/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 3](https://i.ebayimg.com/00/s/ODcyWDE2MDA=/z/euIAAeSwPL5p5EY6/$_57.PNG?set_id=880000500F)
 
 ## Six Folded Plates: Your Terrestrial Ticket to the Moon
 
@@ -55,7 +55,7 @@ These aren't just pretty pictures; they are essential working documents. Each ma
 The condition of these maps is often what separates a good copy from an incredible one, and this particular set is genuinely exceptional. I’ve seen enough of these to know that finding all six plates in crisp condition, with their colors still vibrant and, crucially, no splits or tears at the folds, is becoming genuinely rare. These maps were made to be used, folded, unfolded, and probably shoved into backpacks for field exercises. To find them decades later looking almost as fresh as the day they were printed? That’s a real find. They were tools, yes, but they were also a kind of art, beautifully drafted and meticulously printed. And for any collector, having them complete and pristine is like finding the missing pieces to a very important puzzle. Without these maps, the paper tells only half the story. With them, it's a complete immersion into the landscape, both terrestrial and lunar.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 4](https://i.ebayimg.com/00/s/ODc3WDE1OTk=/z/SlkAAeSw3Hxp5EYv/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 4](https://i.ebayimg.com/00/s/MTA3OFgxNjAw/z/msQAAeSwkxNp5EYk/$_57.PNG?set_id=880000500F)
 
 ## From Philmont Scout Ranch to the Sea of Tranquility
 
@@ -66,7 +66,7 @@ This isn't some loose connection; this report was specifically utilized by the c
 Imagine a group of astronauts, dressed in their training gear, perhaps with a replica of a moon rock hammer in hand, poring over these oversized maps, then heading out into the Philmont wilderness. They were learning to "read" the landscape, to think like lunar geologists, all while navigating the canyons and peaks described in Robinson’s paper. The report provided the detailed geological context that allowed them to translate their terrestrial training into lunar mission objectives. It’s not just a historical curiosity; it’s a direct, tangible link to the incredible ambition and meticulous preparation that defined the Apollo program. Without these kinds of detailed terrestrial analogs and the scientific documentation behind them, the moon landings might have had a very different geological outcome. They didn't just train pilots; they trained scientific explorers, and this book was their textbook.
 
 
-![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 5](https://i.ebayimg.com/00/s/ODcyWDE2MDA=/z/euIAAeSwPL5p5EY6/$_57.PNG?set_id=880000500F)
+![Philmont Country 1964 USGS Professional Paper 505: Complete with 6 Maps for NASA Apollo Training — image 5](https://i.ebayimg.com/00/s/MTYwMFg3Nzk=/z/doUAAeSwHpNp5ERE/$_57.JPG?set_id=880000500F)
 
 ## The Hunt for Provenance: Why This First Edition Matters
 
