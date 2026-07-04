@@ -30,7 +30,7 @@ Alright, let me tell you, there are some books that just hit different when you 
 > **Currently available:** A copy of this item is in our collection — listed at $145. [View listing on eBay →](https://www.ebay.com/itm/389883352155?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![All-of-a-Kind Family Downtown — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTgz/z/kvMAAeSwqBVp3G2Y/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 2](https://i.ebayimg.com/00/s/MTE1NlgxNjAw/z/KUsAAeSwPw9p3G2Z/$_57.JPG?set_id=880000500F)
 
 ## The Enduring Heart of the All-of-a-Kind Family
 
@@ -41,7 +41,7 @@ What makes this series so special, beyond the charm of the stories themselves, i
 Published in 1972, *All-of-a-Kind Family Downtown* continues the saga, taking the family into new parts of the city and new experiences. By this point in the series, readers were already deeply invested in the girls' lives. Taylor had built a world that felt real, a community that felt welcoming. The stories aren't grand epics; they're the everyday fabric of family life – finding a lost library book, going to the public bathhouse, helping out a neighbor, celebrating holidays like Purim and Passover. These small moments are what add up to a truly honest portrayal of childhood, and that's why these books hold so much affection for so many. For me, they represent a kind of gentle, reassuring storytelling that's sometimes hard to find these days.
 
 
-![All-of-a-Kind Family Downtown — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjk=/z/CBsAAeSwjkxp3G2Y/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 3](https://i.ebayimg.com/00/s/MTA2OVgxNjAw/z/5toAAeSwNBlp3G2Z/$_57.JPG?set_id=880000500F)
 
 ## The Krush Touch: Art That Builds a World
 
@@ -52,7 +52,7 @@ Take a look at the dust jacket on this copy. It features that distinctive wrapar
 For collectors, these illustrations are a major part of the book's draw. A first edition in its original dust jacket means you're getting the artwork exactly as it was intended to be seen, without the degradation that comes from later printings or the inevitable loss of the jacket itself. I find that Beth and Joe Krush's work adds a real layer of collectibility to these books. Their art doesn't just show you what's happening; it makes you *feel* like you're right there with the girls, sharing a plate of blintzes or helping clean for Passover. It's a visual language that speaks volumes, and it helps solidify the series' place not just as important literature, but as a genuine piece of illustrated art.
 
 
-![All-of-a-Kind Family Downtown — image 4](https://i.ebayimg.com/00/s/MTE1NlgxNjAw/z/KUsAAeSwPw9p3G2Z/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 4](https://i.ebayimg.com/00/s/MTE1OFgxNjAw/z/72kAAeSwzp1p3G2Z/$_57.JPG?set_id=880000500F)
 
 ## The Special Condition of a 1972 First Printing
 
@@ -65,7 +65,7 @@ The original unclipped dust jacket is also a crucial detail. Many collectors spe
 Compared to the dozens of later printings, paperback versions, or ex-library copies you might encounter, this "gift quality" example stands apart. Those copies serve their purpose for readers, of course, and I love that these stories are still accessible. But for a collector aiming for a museum-quality example of children's literature, a true first edition in this kind of unread condition is what you really chase. It's not just a book; it's a piece of publishing history preserved, a snapshot of its moment, untouched by time. This is the kind of copy that rounds out a serious collection or becomes the centerpiece for an enthusiast of classic illustrated books.
 
 
-![All-of-a-Kind Family Downtown — image 5](https://i.ebayimg.com/00/s/MTA2OVgxNjAw/z/5toAAeSwNBlp3G2Z/$_57.JPG?set_id=880000500F)
+![All-of-a-Kind Family Downtown — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTc0/z/Gc4AAeSw6wJp3G2Z/$_57.JPG?set_id=880000500F)
 
 ## Frequently Asked Questions
 
