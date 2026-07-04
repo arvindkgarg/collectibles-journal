@@ -65,7 +65,7 @@ The work was then published in 1894 as part of the Society's *Proceedings* (Vol.
 This original publication context is critical for collectors. It means this isn't some later commercial printing; it's the very first appearance of Hyatt's thoughts in print. It came out of a direct engagement with the intellectual elite of his time, presented in a forum designed to foster and disseminate important new ideas. It gives the item a pedigree, a direct connection to the moment of its creation. For me, knowing the context – that it was shared at such a prestigious event – adds a layer of weight and importance to what might otherwise appear to be a simple academic paper. It underlines the fact that Hyatt was not just *a* voice in evolutionary science, but a *leading* voice, actively shaping the debates of his era.
 
 
-![Phylogeny of an Acquired Characteristic — image 5](https://i.ebayimg.com/00/s/MTYwMFg5ODM=/z/RtgAAeSwk1ppsgt7/$_57.JPG?set_id=880000500F)
+![Phylogeny of an Acquired Characteristic — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDAy/z/VsgAAeSw7x1psgt7/$_57.JPG?set_id=880000500F)
 
 ## The Hunt for Evolutionary Heresies: Why This is Collector Gold
 
