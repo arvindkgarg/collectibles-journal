@@ -44,7 +44,7 @@ Callender's book comes at a really interesting moment. He's looking back at the 
 What I appreciate is that it’s not just a dry historical recitation. Callender brings it to life across 296 pages. He includes period portraits of key figures, sketches of forgotten street corners, and detailed architectural scenes that might only exist in photographs today. He wasn't just compiling facts; he was sharing stories, painting a picture of a community with a deep past and an uncertain future. It gives you a real feel for the place – the whispers of old families, the new money moving in, the way the neighborhood maintained its distinct character while the rest of New York surged ahead. It’s like he’s walking beside you, pointing out things only a true local would know, a real lover of the Heights.
 
 
-![Yesterdays on Brooklyn Heights — image 3](https://i.ebayimg.com/00/s/MTYwMFgxOTU=/z/y1UAAeSwrzpp0Z4l/$_57.JPG?set_id=880000500F)
+![Yesterdays on Brooklyn Heights — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDQ0/z/fPAAAeSwpuxp0Z4l/$_57.JPG?set_id=880000500F)
 
 ## The Callender Touch: A Signed, Limited First Edition
 
@@ -57,7 +57,7 @@ Then you add "limited edition" into the mix. This means that from the get-go, Th
 And the signature? That's the author, James H. Callender himself, personally authenticating *this specific copy* with his hand. It's the ultimate direct link. You’re holding something he touched, something he deemed worthy of his personal mark. Collectors, myself included, value this tremendously. It’s a level of personal connection that unsigned copies simply don’t offer. While standard editions of *Yesterdays on Brooklyn Heights* might float around, they don’t carry the same weight, the same direct link to the man who penned these vivid accounts. This combination – signed, numbered, limited, and a true first edition – elevates this book from a historical text to a premium collectible. It tells a story not just about Brooklyn Heights, but about the book itself and its journey into the world.
 
 
-![Yesterdays on Brooklyn Heights — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDQ0/z/fPAAAeSwpuxp0Z4l/$_57.JPG?set_id=880000500F)
+![Yesterdays on Brooklyn Heights — image 4](https://i.ebayimg.com/00/s/MTAyN1gxNjAw/z/XCcAAeSwzP9p0Z4l/$_57.JPG?set_id=880000500F)
 
 ## More Than Just Pages: The Craft of This Edition
 
@@ -70,7 +70,7 @@ Then there are what I call the "premium finishes" – the details that separate 
 Next, and something I always love to see, are the **deckled edges**. These are the fore-edges (the side opposite the spine) and the bottom edges of the pages that are intentionally left untrimmed. They have a rough, uneven, almost feathery texture. Think about old handmade paper; the edges were rarely perfectly straight. Deckled edges mimic that look, giving the book a very natural, almost artisanal appearance, a subtle reminder of the paper’s origin and the craft involved in producing it. It’s a conscious aesthetic choice that adds a tactile dimension and a sense of history to the book. In an era where mass production was becoming standard, these features on Callender’s book show that The Dorland Press was committed to putting out a well-made, handsome volume. These aren't just aesthetic flourishes; they are indicators of a quality product, a book intended to be held, admired, and kept for generations.
 
 
-![Yesterdays on Brooklyn Heights — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDM3/z/E0kAAeSwaWlp0Z4l/$_57.JPG?set_id=880000500F)
+![Yesterdays on Brooklyn Heights — image 5](https://i.ebayimg.com/00/s/MTA3MFgxNjAw/z/0GcAAeSwnLRp0Z4m/$_57.JPG?set_id=880000500F)
 
 ## The Dorland Press and a Sense of Place
 
