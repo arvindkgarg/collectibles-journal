@@ -63,7 +63,7 @@ Imagine reading about Jock chasing a baboon, or a tense encounter with a lion, a
 For collectors, Caldwell's art is a major draw. It elevates the book beyond just a good story to a work of art in itself. His contributions make it highly appealing not just to literature enthusiasts, but also to those who collect fine illustrated books. The quality of the printing, even in 1907, meant that these detailed illustrations came through beautifully. The way he captures movement, the expressions on the animals' faces, the intricate details of the bush – it’s all just spot on. I find myself lingering on his sketches, picking out new details each time. They are a critical part of why this book has remained so beloved for over a century. It's a true collaboration where text and image are in perfect harmony.
 
 
-![Jock of the Bushveld — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTQ5/z/GQ0AAeSwojBptL5h/$_57.JPG?set_id=880000500F)
+![Jock of the Bushveld — image 5](https://i.ebayimg.com/00/s/MTA4NlgxNjAw/z/OtEAAeSwAHNptL5i/$_57.JPG?set_id=880000500F)
 
 ## The Call of the Lowveld: Why Africana Endures
 
