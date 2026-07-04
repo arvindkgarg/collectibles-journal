@@ -41,7 +41,7 @@ Published by Harper & Brothers in 1896, "George Washington" captures Wilson’s 
 The late 19th century, when this book came out, was a period when American historical biographies were really coming into their own. There was a growing public appetite for understanding the nation’s origins, its heroes, and its trajectory. Wilson’s contribution wasn't just another book on Washington; it was a serious academic study presented in an accessible style, fitting perfectly into the intellectual currents of his time. For collectors, owning a book written by a future president is always a coup. But what makes this one particularly satisfying is that it shows Wilson in his element, doing what he loved before the weight of global affairs fell on his shoulders. It’s a piece of his intellectual DNA, preserved between these beautiful covers. It connects directly to his mind and how he processed the lessons of the past.
 
 
-![George Washington — image 3](https://i.ebayimg.com/00/s/MTYwMFg5ODc=/z/qf0AAeSwm5BqD7Wv/$_57.JPG?set_id=880000500F)
+![George Washington — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDAy/z/t7wAAeSwNylqD7Ww/$_57.JPG?set_id=880000500F)
 
 ## Howard Pyle's Golden Age Masterpieces
 
@@ -52,7 +52,7 @@ This 1896 edition of "George Washington" is richly adorned with Pyle’s artistr
 His illustrations are detailed, expressive, and brimming with the kind of historical authenticity that makes you feel like you’re looking through a window into the past. I often spend a good deal of time just poring over Pyle’s work, noticing the intricate period costumes, the expressions on the faces of the figures, the way he uses light and shadow to create mood. It’s clear to me that Harper & Brothers wanted this to be a premium edition, and commissioning Pyle was a smart move. In many ways, his art makes this book as much a collector's item for fans of illustration as it is for devotees of presidential history. This isn't just a biography; it's a curated visual experience, a testament to the aesthetic tastes of the Victorian era.
 
 
-![George Washington — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDE2/z/-D4AAeSwg6BqD7Wv/$_57.JPG?set_id=880000500F)
+![George Washington — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDU4/z/eAcAAeSwBspqD7Ww/$_57.JPG?set_id=880000500F)
 
 ## The Whisper of Previous Owners: A Dual Provenance Story
 
@@ -65,7 +65,7 @@ But the story doesn’t stop there, which is what makes this copy so special. At
 So, I have to wonder, what’s the connection? Why would an artist choose a quote from a story about a dark, cunning act of vengeance for a book about George Washington, the epitome of American virtue? It's a delightful mystery, frankly. It suggests a wry sense of humor, a deep appreciation for literature, or perhaps a more complex understanding of history’s undercurrents. It certainly adds a layer of intellectual curiosity to the book's history. Was Michael making some subtle commentary? Or did he simply admire the craft of the quote itself? Regardless, it’s not something you see every day, and it makes this specific copy utterly unique. This dual provenance – an early inscription and a later, highly personalized artistic bookplate – tells a story of the book's travels and the different intellectual and artistic sensibilities of its owners. It’s the kind of ownership history that collectors really chase after, because it adds so much personality and context to the object.
 
 
-![George Washington — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDU4/z/LMIAAeSwWxpqD7Ww/$_57.JPG?set_id=880000500F)
+![George Washington — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMDU4/z/usUAAeSwNIpqD7Wv/$_57.JPG?set_id=880000500F)
 
 ## This Edition: A Cut Above
 
