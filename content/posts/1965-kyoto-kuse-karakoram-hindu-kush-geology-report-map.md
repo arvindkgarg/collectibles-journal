@@ -30,7 +30,7 @@ Some books just scream "adventure" the moment you pick them up, even if that adv
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389755090925?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMTI4/z/yxkAAeSwSxxpt4li/$_57.JPG?set_id=880000500F)
+![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDky/z/y6gAAeSwt4xpt4lh/$_57.JPG?set_id=880000500F)
 
 ## The Kyoto University Scientific Expedition: Pushing Limits in the Mid-20th Century
 
@@ -39,7 +39,7 @@ Imagine the year 1955. The world was still very much analog, and the idea of exp
 This wasn't some tourist jaunt. The KUSE team was comprised of serious scientists, and their mission was clear: to conduct groundbreaking geological and tectonic research in a region that, frankly, was still largely a mystery to the wider scientific community. Think about it: no satellite imagery, no GPS, barely any infrastructure. Every bit of data gathered was the result of incredible effort, climbing, mapping by hand, and observations made under extreme conditions. The published report, which came out a decade later in 1965, isn't just a dry recitation of facts; it’s a direct window into the sheer willpower and scientific rigor of these individuals. It lays out a foundational understanding of an area whose geological secrets were still largely under wraps. For anyone interested in the history of science, especially the hard sciences in extreme environments, this report shows exactly how that foundational understanding was built, brick by geological brick.
 
 
-![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 3](https://i.ebayimg.com/00/s/MTYwMFg2NA==/z/yv8AAeSwQ6Rpt4lh/$_57.JPG?set_id=880000500F)
+![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 3](https://i.ebayimg.com/00/s/MTA2M1gxNjAw/z/Fa0AAeSwGSRpt4li/$_57.JPG?set_id=880000500F)
 
 ## Unpacking the Geology of Giants
 
@@ -48,7 +48,7 @@ What exactly were they looking for, and what did they find? The *Geology of the 
 This volume provides that primary data. It's not a secondary interpretation or a popular science summary; it's the raw, meticulously collected information from the field. When you hold this book, you're holding the very bedrock of our understanding of this part of the world’s geology. The KUSE team's findings in 1955 were some of the earliest systematic investigations into these specific regions. Before sophisticated digital modeling or satellite surveys, scientists relied on direct observation, painstaking mapping, and sample collection. This report details all of that. It covers everything from the composition of the rocks to the orientation of strata, the identification of faults, and the broader tectonic forces at play. It's a testament to the fact that sometimes, the best way to understand the earth is to simply go out there, walk it, climb it, and document it, inch by arduous inch.
 
 
-![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDc0/z/nT8AAeSwZAFpt4li/$_57.JPG?set_id=880000500F)
+![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDIx/z/IeAAAeSw~ZZpt4lh/$_57.JPG?set_id=880000500F)
 
 ## A Visual Feast: Maps, Panoramas, and Plates
 
@@ -57,7 +57,7 @@ Now, let's talk about the visuals because this is where the report truly shines 
 But the absolute centerpiece, the jewel in the crown of this particular set, is the oversized geological map. This isn’t tucked inside the book. Oh no. It's a separate, large 36x25-inch multi-color geological map of the Westernmost Karakoram, Eastern Hindu Kush, and Upper Swat, and it comes perfectly preserved in its own protective jacket. Finding these old expedition maps in excellent condition is incredibly difficult. They were often used in the field, folded countless times, or simply lost over time. To have this one described as being in "Fine to Near-Mint condition," practically untouched, is fantastic. It's a beautifully rendered piece of cartography, showcasing the geological formations with a level of detail that would have been groundbreaking at the time. This map alone makes the set highly desirable, offering both scientific utility and visual appeal. It's a work of art in its own right, a blend of scientific data and meticulous graphic design.
 
 
-![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 5](https://i.ebayimg.com/00/s/MTYwMFg5ODU=/z/NxUAAeSwRbRpt4li/$_57.JPG?set_id=880000500F)
+![Geology of the Karakoram and Hindu Kush: Scientific Report of the 1955 Kyoto University Scientific Expedition (KUSE), with Map — image 5](https://i.ebayimg.com/00/s/OTQ0WDE2MDA=/z/gcoAAeSwtZdpt4lh/$_57.JPG?set_id=880000500F)
 
 ## Rarity and The Collector's Lure
 
