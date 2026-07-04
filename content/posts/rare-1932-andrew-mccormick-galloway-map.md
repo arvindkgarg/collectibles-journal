@@ -30,7 +30,7 @@ You know that feeling when you pick up an old book, and it just *fits*? Not just
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389749927816?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Spell of its Hills and Glens — image 2](https://i.ebayimg.com/00/s/MTYwMFgyODE=/z/WLoAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 2](https://i.ebayimg.com/00/s/MTI2NVgxNjAw/z/WLwAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
 
 ## Catching the Galloway Spell: McCormick's Vision
 
@@ -39,7 +39,7 @@ Andrew McCormick. The name itself just sounds like someone who knows Scotland in
 Published in 1932, it lands squarely in that sweet spot of the interwar period when people across Scotland, and indeed the UK, were really starting to embrace the outdoors. There was a genuine hunger for regional exploration, for throwing on your boots and discovering the beauty right on your doorstep. This book isn't just a travel guide in the modern sense; it's a companion, an invitation to wander, to connect with the land. McCormick's prose, even nearly a century later, has a certain pull, a quiet authority that makes you want to pack a rucksack and head for the hills he describes. He zeroes in on the Galloway region — places like Newton Stewart, Merrick, and those serene lochs — painting a picture that’s both detailed and deeply evocative. It's the kind of writing that makes you appreciate the slower pace of exploration, the deeper understanding that comes from truly immersing yourself in a place, rather than just ticking off sights. And that’s a mood I always appreciate finding in a collectible.
 
 
-![The Spell of its Hills and Glens — image 3](https://i.ebayimg.com/00/s/MTI2NVgxNjAw/z/WLwAAeSwkONptkhp/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMjA1/z/tRIAAeSww-Vptkhq/$_57.JPG?set_id=880000500F)
 
 ## The Map: A Cartographic Gem from E.F. Inkster
 
@@ -50,7 +50,7 @@ Inkster's map here is just superb. It isn't just lines and contours; it's alive 
 And then there are the vignettes. Little illustrations that add so much character. You'll find a charming depiction of a "Black Galloway" bull, strong and stoic, perfectly representing the region's livestock. And there’s another, equally endearing, of a "Shepherd Carrying a Sick Sheep," a poignant and authentic scene from Galloway's agricultural heartland. These aren't just decorative elements; they ground the map in the lived reality of the place, making it a mini-artwork in its own right. As someone who appreciates cartography, finding a map like this, with so much detail and personality, is a genuine thrill. It's a visual companion that deepens your understanding of McCormick's text and of the Galloway region itself.
 
 
-![The Spell of its Hills and Glens — image 4](https://i.ebayimg.com/00/s/MTI5MlgxNjAw/z/ZFwAAeSwJHpptkhp/$_57.JPG?set_id=880000500F)
+![The Spell of its Hills and Glens — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDM2/z/by0AAeSw8Etptkhp/$_57.JPG?set_id=880000500F)
 
 ## Why This Edition Stands Out: Early Printing & First Edition Typeface
 
