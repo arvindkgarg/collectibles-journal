@@ -30,7 +30,7 @@ There are some books you pick up, and you immediately feel the weight of history
 > **Currently available:** A copy of this item is in our collection — listed at $275. [View listing on eBay →](https://www.ebay.com/itm/389795727088?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 2](https://i.ebayimg.com/00/s/MTI1M1gxNjAw/z/63wAAeSwt~9pw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 2](https://i.ebayimg.com/00/s/MTEwM1gxNjAw/z/5vAAAeSw39Bpw2vn/$_57.JPG?set_id=880000500F)
 
 ## Echoes of the Red Scare: HUAC and the Mid-Fifties Mindset
 
@@ -39,7 +39,7 @@ Let's be clear: HUAC was a controversial body. By 1956, the Red Scare was still 
 What's so striking about this set is how completely it encapsulates the American strategic thinking of the era. You’re not just getting statistics or policy proposals; you’re getting a window into the *mindset* of the time. The language, the framing of the Soviet threat, the assumptions about their "historic mission of violence and deceit" – it all paints a vivid picture of a nation deeply concerned, even terrified, by the ideological battle it found itself in. For collectors of Cold War memorabilia or anyone interested in the psychological underpinnings of mid-20th-century geopolitics, this set offers direct access to the source. It’s not someone's later interpretation; it’s the original government-sanctioned perspective, unvarnished and direct.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 3](https://i.ebayimg.com/00/s/MTYwMFg5Njg=/z/5dkAAeSw5Dhpw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMzE3/z/gswAAeSw6HJpw2vn/$_57.JPG?set_id=880000500F)
 
 ## A Gathering of Cold War Titans: The Contributors
 
@@ -54,7 +54,7 @@ Now, let's talk about the real intellectual firepower behind these pages. This i
 Having these names associated with a single publication makes it incredibly compelling. It transforms what might otherwise be a dry government document into a veritable intellectual summit, where some of the sharpest and most influential minds of the era laid out their understanding of the global conflict. For me, seeing Kissinger’s name on a piece from 1956, alongside intelligence chiefs and military strategists, is a powerful draw. It’s like finding a blueprint sketched by the architects of modern geopolitics.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MzI=/z/gb0AAeSwXBNpw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MjU=/z/~IIAAeSwlK5pw2vn/$_57.JPG?set_id=880000500F)
 
 ## More Than Words: The Visual Language of Volume II
 
@@ -65,7 +65,7 @@ Volume II is dedicated to presenting the strategic realities of the Cold War thr
 What I particularly appreciate about this specific copy is the condition of these maps. In many older government publications, especially those with fold-out elements, the maps are often creased, torn, or show heavy foxing. Not here. The maps in this set are superb. The paper is bright white, the ink is sharp and crisp, and crucially, the original fold lines are intact and generally unmarred. You can tell they haven't been unfolded repeatedly or handled roughly. This kind of preservation in a working document from 1956 is hard to come by. They provide a tangible, visual history, showing exactly how strategists in Washington viewed the global chessboard—where the lines were drawn, where the pressures mounted. It's like looking over the shoulder of a general contemplating battle.
 
 
-![Soviet Total War: "Historic Mission" of Violence and Deceit — image 5](https://i.ebayimg.com/00/s/MTYwMFg5Mjc=/z/2v0AAeSw3~5pw2vn/$_57.JPG?set_id=880000500F)
+![Soviet Total War: "Historic Mission" of Violence and Deceit — image 5](https://i.ebayimg.com/00/s/MTYwMFgxNDA3/z/gcsAAeSwnLRpw2vn/$_57.JPG?set_id=880000500F)
 
 ## The Cold War Playbook: Psychological Warfare and Guerrilla Tactics
 
