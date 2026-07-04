@@ -31,7 +31,7 @@ There are some books that don't just sit on a shelf; they hum with the energy of
 > **Currently available:** A copy of this item is in our collection — listed at $490. [View listing on eBay →](https://www.ebay.com/itm/389768249259?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 2](https://i.ebayimg.com/00/s/MTIxNlgxNjAw/z/iywAAeSwCGppu1UV/$_57.JPG?set_id=880000500F)
+![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 2](https://i.ibb.co/Y4DtdMMK/3c11d4c1ef01.jpg)
 
 ## The Grand Spark: Vienna, 1883
 
@@ -42,7 +42,7 @@ For me, what makes this 1883 Vienna Electrical Exhibition Report so compelling i
 I often pick up these volumes and just flip through them, thinking about the crowds of Victorians, dressed in their finest, marveling at Edison's incandescent lamps or the thrum of a newly designed dynamo. It wasn't just about the science; it was about the spectacle, the promise of a brighter, faster, more efficient world. This exhibition wasn't just important for Austria; it was a global showcase, influencing industrial development and public policy across Europe and beyond. It played a massive part in moving electricity from a laboratory curiosity to a practical, everyday utility. Think of it: just a few decades earlier, candlelight was the norm. Then, suddenly, cities could glow. This report is the instruction manual for that transition.
 
 
-![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMDMy/z/x2IAAeSwUztpu1UU/$_57.JPG?set_id=880000500F)
+![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 3](https://i.ebayimg.com/00/s/MTYwMFg5OTY=/z/juEAAeSwhMppu1UU/$_57.JPG?set_id=880000500F)
 
 ## Engines of Wonder: Technical Art and Industrial Grit
 
@@ -53,7 +53,7 @@ You get everything from the complex internal workings of early dynamos – those
 What I love about these illustrations is their dual nature. Yes, they are incredibly technical, designed to convey precise information to engineers and industrialists. You can trace every pipe, every lever, every coil. But they also possess a powerful aesthetic. There's a certain beauty in the functional form, the intricate lines, the sheer ambition captured by these 19th-century engravers. For me, they transcend mere technical drawings and become something more akin to industrial art. They tell a story of human ingenuity, of problem-solving on a grand scale, of shaping the very fabric of the modern world. Collectors often seek out these plates as standalone pieces because they are just so striking. They are a window into the mind of a Victorian engineer, showing not just *what* was built, but *how* it was imagined and constructed.
 
 
-![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDEx/z/e-EAAeSw4JZpu1UU/$_57.JPG?set_id=880000500F)
+![Bericht Internationale Elektrische Ausstellung Wien 1883 — image 4](https://i.ebayimg.com/00/s/MTYwMFg5ODg=/z/xL8AAeSwEIhpu1UU/$_57.JPG?set_id=880000500F)
 
 ## The Unseen Sales Pitch: Advertising Through Time
 
