@@ -20,7 +20,7 @@ ebay_url: 'https://www.ebay.com/itm/389865071023?campid=5339163861&toolid=10001&
 ebay_price: 75.0
 
 cover:
-  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMzU5/z/zxsAAeSw3Wlp1yp-/$_57.JPG?set_id=880000500F'
+  image: 'https://i.ebayimg.com/00/s/MTYwMFgxMDQ1/z/h98AAeSwKnpp1yla/$_57.JPG?set_id=880000500F'
   alt: 'Early Poems'
   relative: false
 ---
@@ -30,7 +30,7 @@ It’s always a thrill to stumble upon a book that isn’t just an artifact of i
 > **Currently available:** A copy of this item is in our collection — listed at $75. [View listing on eBay →](https://www.ebay.com/itm/389865071023?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Early Poems — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMDQ1/z/h98AAeSwKnpp1yla/$_57.JPG?set_id=880000500F)
+![Early Poems — image 2](https://i.ebayimg.com/00/s/MTYwMFgxMzU5/z/zxsAAeSw3Wlp1yp-/$_57.JPG?set_id=880000500F)
 
 ## The Charms of the "Petit Trianon" Binding
 
@@ -41,7 +41,7 @@ What truly makes this binding sing is the combination of design elements. You've
 In my experience picking these up, these decorative publisher's bindings from the late 19th century are exactly what collectors are looking for. Publishers like Crowell understood that books weren't just about text; they were part of the home's decor, expressions of taste and sophistication. A beautifully bound book was a status symbol, a piece of art for the parlor. And this "Petit Trianon" edition, with its specific design, stands out from the countless other printings of Lowell’s work. You see a lot of his poetry floating around, but few look this good, few are part of such a distinct and visually appealing series. The condition here, with brilliant gilt and virtually no staining, really pushes it into a league of its own. It's tough to find a 130-year-old book looking this fresh.
 
 
-![Early Poems — image 3](https://i.ebayimg.com/00/s/MTYwMFgyMTU=/z/fxUAAeSwmlFp1ylZ/$_57.JPG?set_id=880000500F)
+![Early Poems — image 3](https://i.ebayimg.com/00/s/MTYwMFg5MTY=/z/tQ0AAeSwfqVp1ylZ/$_57.JPG?set_id=880000500F)
 
 ## James Russell Lowell: A Victorian Literary Giant
 
@@ -52,7 +52,7 @@ His poetry, particularly his early works like those collected here, speaks to th
 From a collector’s perspective, editions published shortly after an author's death hold a particular appeal. They represent that immediate historical moment when the world was reflecting on a recently concluded life, solidifying their place in the canon. It gives you a sense of his immediate impact, the way his contemporaries and immediate successors continued to engage with his art. Lowell's influence on American letters was vast, and holding a copy of his *Early Poems* like this one connects you directly to that era, to a time when poetry truly held a central place in the cultural conversation.
 
 
-![Early Poems — image 4](https://i.ebayimg.com/00/s/MTYwMFg5MTY=/z/tQ0AAeSwfqVp1ylZ/$_57.JPG?set_id=880000500F)
+![Early Poems — image 4](https://i.ebayimg.com/00/s/MTIyNFgxNjAw/z/bi8AAeSwwUlp1yla/$_57.JPG?set_id=880000500F)
 
 ## Thomas Y. Crowell & Co.: Publishers of Elegance
 
@@ -63,7 +63,7 @@ Crowell, much like other prominent publishers of the time, recognized the burgeo
 This company's commitment to decorative bindings meant that their editions often employed innovative printing and binding techniques. The use of multiple colors in a lithograph, combined with the precision of silver and gilt stamping on cream buckram, points to a publisher who invested in the very best craftsmanship. They weren't cutting corners. They were building a reputation for high-quality, beautiful books that would be treasured for generations. For collectors today, a Crowell book, especially one from a named series, often signals a level of design and execution that makes it stand out in a sea of more utilitarian editions.
 
 
-![Early Poems — image 5](https://i.ebayimg.com/00/s/MTYwMFg5NzQ=/z/0c4AAeSwUg1p1yla/$_57.JPG?set_id=880000500F)
+![Early Poems — image 5](https://i.ebayimg.com/00/s/MTYwMFgyMTU=/z/fxUAAeSwmlFp1ylZ/$_57.JPG?set_id=880000500F)
 
 ## The Pursuit of Pristine Poetry
 
