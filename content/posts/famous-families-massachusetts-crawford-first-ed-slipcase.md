@@ -41,7 +41,7 @@ When you slide out the two volumes, the colors just pop. The rich blue cloth bin
 Then you open a page. And honestly, it’s like it’s never been opened before. The pages are clean, the edges sharp. No dog-ears, no scribbles, no coffee stains. The paper itself has that lovely, slightly heavy feel of early 20th-century publishing. It doesn't crumble or feel brittle; it just feels *right*. The books feel sturdy in your hands, the binding strong. This isn't just "good condition" for its age; this is what I call "collector grade," almost like a time capsule. It genuinely looks virtually unread. And for a genealogical resource, a book meant to be consulted, read, and cross-referenced, that’s just astounding.
 
 
-![Famous Families of Massachusetts — image 3](https://i.ebayimg.com/00/s/MTE4N1gxNjAw/z/MkYAAeSwc9xpn0aA/$_57.PNG?set_id=880000500F)
+![Famous Families of Massachusetts — image 3](https://i.ebayimg.com/00/s/OTU2WDE2MDA=/z/6iEAAeSwuhJpnzjP/$_57.JPG?set_id=880000500F)
 
 ## Mary Caroline Crawford and the American Story
 
@@ -63,7 +63,7 @@ We’re talking about numerous portraits of the families themselves. Imagine see
 Beyond the portraits, there are historical illustrations: old maps, engravings of early Massachusetts landscapes, pictures of historic homes and landmarks. These visuals don't just break up the text; they transport you. They give context to the stories, making the history feel more immediate and real. They add a layer of depth that truly enhances the reading experience. For someone interested in genealogy or regional history, these illustrations are an absolute bonus, making the research process much more engaging. They turn a reference work into something you actually want to sit down and browse, even if you’re not actively researching your family tree.
 
 
-![Famous Families of Massachusetts — image 5](https://i.ebayimg.com/00/s/MTI1MFgxNjAw/z/PYgAAeSwDRBpn0aR/$_57.PNG?set_id=880000500F)
+![Famous Families of Massachusetts — image 5](https://i.ebayimg.com/00/s/MTI2MlgxNTk5/z/licAAeSwFLlpnzjP/$_57.JPG?set_id=880000500F)
 
 ## The Publisher’s Pedigree: Little, Brown, and Company
 
