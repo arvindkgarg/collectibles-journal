@@ -30,7 +30,7 @@ Sometimes a book lands on my desk that just *sings*. It’s not just a collectio
 > **Currently available:** A copy of this item is in our collection — listed at $85. [View listing on eBay →](https://www.ebay.com/itm/389908462427?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![Hajji Baba of Ispahan — image 2](https://i.ebayimg.com/00/s/MTYwMFgyMzk=/z/5oMAAeSwU9Bp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 2](https://i.ebayimg.com/00/s/MTMwMFgxNjAw/z/VX4AAeSwETJp5F5C/$_57.JPG?set_id=880000500F)
 
 ## Chasing a Persian Rogue: The Enduring Appeal of Hajji Baba
 
@@ -41,7 +41,7 @@ The novel follows the titular Hajji Baba, a barber from Ispahan, as he tumbles f
 What I love about Morier's writing is how direct and immediate it feels. He doesn't shy away from depicting the harsh realities of the era, but he always seasons it with a generous helping of wit. You find yourself rooting for Hajji Baba even when he's being less than noble, because his motivations are so human: survival, ambition, love (sometimes), and a relentless desire to improve his station in life. For anyone interested in Orientalist literature, or simply a rip-roaring adventure set in a richly depicted, historical Persian landscape, this book is essential. It's the kind of story that transports you, making you feel the heat of the bazaar, the dust of the caravan, and the intrigue of the royal court. And honestly, it’s a book that has aged surprisingly well; the human foibles and aspirations it explores are timeless.
 
 
-![Hajji Baba of Ispahan — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTAz/z/KJEAAeSwv2hp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 3](https://i.ebayimg.com/00/s/MTI5MVgxNTk5/z/6eEAAeSwlIVp5F5C/$_57.JPG?set_id=880000500F)
 
 ## Cyrus Leroy Baldridge: An Artist Who Walked the Walk
 
@@ -54,7 +54,7 @@ And it shows. Oh, does it show! The book features a staggering 28 full-page, mul
 What makes Baldridge's work so compelling is this blend of artistic talent and lived experience. His illustrations aren't idealized or generic; they feel real, gritty, and alive. He captures the expressions on faces, the drape of fabric, the specific styles of turbans and slippers – all details that Morier himself would have appreciated. This collaboration between Morier’s vivid narrative and Baldridge’s authentic, immersive artwork creates a reading experience that earlier editions simply can’t touch. It’s a masterclass in how illustrations can not only accompany a text but also enrich, interpret, and visually define it for a new generation. When I look at these images, I don’t just see what Hajji Baba looks like; I feel like I understand his world, thanks to Baldridge’s incredibly keen eye and tireless commitment. This isn’t just art; it’s historical documentation made beautiful.
 
 
-![Hajji Baba of Ispahan — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMDky/z/dzcAAeSwBb1p5F5D/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 4](https://i.ebayimg.com/00/s/MTE2MFgxNjAw/z/oJMAAeSwKOdp5F5C/$_57.JPG?set_id=880000500F)
 
 ## The 'First Edition Thus' and the Glory of the Double-Pictorial
 
@@ -69,7 +69,7 @@ To find both the pictorial cloth and the original pictorial dust jacket not just
 Random House really pulled out all the stops for this production. It’s a large-format quarto, which means it’s a substantial book, beautifully proportioned to showcase Baldridge’s expansive illustrations. And they didn’t skimp on the materials either; it was produced on heavy, archival-quality paper, specifically chosen to ensure high-fidelity color reproduction of Baldridge’s art. This wasn't just a reprint; it was a deliberate, high-quality production designed to be a visual and literary treat, and this particular "Double-Pictorial" copy preserves that original intent perfectly. It's a testament to good care, good luck, and excellent preservation that we get to see it like this today.
 
 
-![Hajji Baba of Ispahan — image 5](https://i.ebayimg.com/00/s/MTYwMFgyNDM=/z/5AEAAeSw6oxp5F5B/$_57.JPG?set_id=880000500F)
+![Hajji Baba of Ispahan — image 5](https://i.ebayimg.com/00/s/MTI5N1gxNjAw/z/DAwAAeSwFO1p5F5D/$_57.JPG?set_id=880000500F)
 
 ## What Makes This Edition an Investment-Grade Collectible
 
