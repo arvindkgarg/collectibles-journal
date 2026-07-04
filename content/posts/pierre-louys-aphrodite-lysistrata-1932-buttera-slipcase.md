@@ -50,7 +50,7 @@ Now, let's talk about the author himself, Pierre Louÿs. He was a French poet an
 The novel follows Chrysis, a beautiful courtesan, and Demetrius, a sculptor, as they navigate love, lust, and the rigid social codes of their time. Louÿs had a real talent for creating a vivid sense of place and atmosphere, making Alexandria come alive with its smells, sounds, and moral ambiguities. For its time, it was definitely pushing boundaries, and you can see why publishers like Three Sirens Press would want to pair such a text with equally provocative or appealing artwork. *Aphrodite* isn't just a story; it's an experience, a plunge into a world where beauty and pleasure are paramount. It’s exactly the kind of book that benefits from being presented as a work of art in its own right, something you want to display and revisit, not just read once and forget. That combination of bold literature and striking design is, in my opinion, what makes this 1932 edition so compelling.
 
 
-![Aphrodite & Lysistrata — image 4](https://i.ebayimg.com/00/s/MTYwMFg5OTc=/z/wbIAAeSwxwFp1cLq/$_57.JPG?set_id=880000500F)
+![Aphrodite & Lysistrata — image 4](https://i.ebayimg.com/00/s/MTI3NVgxNjAw/z/xWIAAeSw7-pp1cLq/$_57.JPG?set_id=880000500F)
 
 ## The Companion: Aristophanes' *Lysistrata*
 
@@ -59,7 +59,7 @@ It might seem like a bit of a jump from late 19th-century French eroticism to an
 The play is renowned for its themes of war, peace, and sexual politics, all delivered with Aristophanes' trademark bawdy humor. It explores power dynamics, gender roles, and the sheer absurdity of conflict through the lens of a sex strike. While the context is ancient Greece and the tone is comedic, the underlying exploration of sensuality, human nature, and societal conventions aligns surprisingly well with the themes found in *Aphrodite*. Both works, in their own very different ways, use the power of the body and desire to drive their narratives and comment on larger social issues. Pairing them together in a beautifully illustrated edition like this 1932 Three Sirens Press volume just makes good sense. It gives collectors a double dose of classical erotica and social commentary, presented through a thoroughly modern (for the 1930s) artistic lens. It’s a smart move by the publisher, offering two distinct but complementary explorations of human desire and its consequences.
 
 
-![Aphrodite & Lysistrata — image 5](https://i.ebayimg.com/00/s/MTYwMFg5MDA=/z/vDcAAeSwiWxp1cMa/$_57.PNG?set_id=880000500F)
+![Aphrodite & Lysistrata — image 5](https://i.ebayimg.com/00/s/MTI4NFgxNjAw/z/pNYAAeSw5Shp1cLq/$_57.JPG?set_id=880000500F)
 
 ## Three Sirens Press: Crafting Collectible Editions
 
