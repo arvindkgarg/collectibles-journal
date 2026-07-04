@@ -39,7 +39,7 @@ Imagine the scene: it’s the mid-1940s. News comes via radio, crackling with up
 Personal atlases and wall maps weren’t a luxury then; they were essential household tools. People wanted to understand the vast distances, the strategic importance of a particular island, or how far Allied forces had pushed into Europe. This wasn't about armchair generals; it was about connection, about understanding the immense stakes. Alexander Gross, the cartographer behind this set, understood that need. He wasn't just drawing lines on paper; he was providing a visual anchor for a nation grappling with unprecedented events. This atlas allowed civilians to literally follow the war on a daily basis, to visualize the progress in both the European and Pacific theaters. It brings home how deeply embedded the war was in daily life.
 
 
-![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 3](https://i.ebayimg.com/00/s/MTYwMFgxMTk0/z/qMMAAeSwrDZpvKfo/$_57.JPG?set_id=880000500F)
+![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 3](https://i.ebayimg.com/00/s/MTE4OVgxNjAw/z/qKgAAeSwdLdpvKfo/$_57.JPG?set_id=880000500F)
 
 ## That Giant War Map: A Closer Look
 
@@ -50,7 +50,7 @@ Now, here's where my collector's heart really skips a beat. I’ve picked up my 
 And before I forget, look down at the bottom margin of that big map. It’s got a visual guide to 300 national flags. Not just Allied and Axis, but Neutral nations too. It’s a small detail, but it speaks volumes about the level of detail Gross and Geographia put into these products. They weren’t just showing lines; they were trying to give a full picture of the world at war, complete with its various players. It’s a snapshot of geopolitics on a single sheet of paper.
 
 
-![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMjA3/z/9kEAAeSwXERpvKfo/$_57.JPG?set_id=880000500F)
+![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTg5/z/1EYAAeSwWu5pvKfo/$_57.JPG?set_id=880000500F)
 
 ## Alexander Gross: The Cartographer Behind the Lines
 
@@ -59,7 +59,7 @@ You hear the name "Geographia Map Co." a lot when you're looking at maps from th
 Gross's role wasn't just to oversee production; he was responsible for the accuracy and utility of these maps for a public hungry for reliable information. In a time of propaganda and misinformation, having an atlas directed by a recognized authority like Gross gave people confidence. He knew how to present complex geographical and political information in a way that was both accessible and dependable. He gave people the tools to interpret the news they were hearing, turning abstract locations into tangible places on a map. That kind of trust was absolutely essential during wartime.
 
 
-![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 5](https://i.ebayimg.com/00/s/MTYwMFgxMTgw/z/6NwAAeSwH~dpvKfo/$_57.JPG?set_id=880000500F)
+![Rare WWII Giant War Map of the World & Ideal World Atlas by Geographia Map Co. — image 5](https://i.ebayimg.com/00/s/MTIwMFgxNjAw/z/9oIAAeSwzntpvKfo/$_57.JPG?set_id=880000500F)
 
 ## The "Up-to-Date" Coupon: A Glimpse into the Future
 
