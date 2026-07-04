@@ -16,7 +16,7 @@ categories:
   - 'WWII Collectibles'
   - 'Vintage Maps & Ephemera'
 slug: '1939-wwii-pictorial-map-historic-theater-war-sf-examiner'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389764061661?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

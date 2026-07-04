@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Science & Technology'
 slug: 'the-world-of-mathematics-1956-first-edition-newman'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389917728195?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 65.0
 

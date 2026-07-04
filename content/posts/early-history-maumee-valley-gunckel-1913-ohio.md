@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Americana'
 slug: 'early-history-maumee-valley-gunckel-1913-ohio'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389749742834?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

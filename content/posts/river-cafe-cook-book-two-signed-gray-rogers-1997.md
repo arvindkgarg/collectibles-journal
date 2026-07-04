@@ -16,7 +16,7 @@ categories:
   - 'Books & Manuscripts'
   - 'Culinary Arts'
 slug: 'river-cafe-cook-book-two-signed-gray-rogers-1997'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389510385383?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

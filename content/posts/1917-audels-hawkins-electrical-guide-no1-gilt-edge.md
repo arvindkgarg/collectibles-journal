@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Science & Technology'
 slug: '1917-audels-hawkins-electrical-guide-no1-gilt-edge'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389852729764?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

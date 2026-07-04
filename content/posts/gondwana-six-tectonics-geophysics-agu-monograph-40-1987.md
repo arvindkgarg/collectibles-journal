@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Science & Academia'
 slug: 'gondwana-six-tectonics-geophysics-agu-monograph-40-1987'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389755041729?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

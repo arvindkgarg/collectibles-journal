@@ -15,7 +15,7 @@ categories:
   - 'History'
   - 'Government & Politics'
 slug: 'precis-official-papers-parliamentary-session-1880'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389613651218?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

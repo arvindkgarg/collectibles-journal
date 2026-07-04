@@ -15,7 +15,7 @@ categories:
   - 'Books'
   - 'Social History'
 slug: '1913-chicago-womens-clubs-directory-hoig-rare'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389613644500?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

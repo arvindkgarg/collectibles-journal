@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Science & Technology'
 slug: 'tectonic-geologic-evolution-southeast-asian-seas-1980-agu'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389755058652?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

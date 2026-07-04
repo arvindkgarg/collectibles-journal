@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Academic Collectibles'
 slug: 'climate-trewartha-1954-michigan-tech-cover'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389883396927?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Science'
 slug: 'volcanic-geology-hot-springs-geysers-iceland-barth-1950'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389917778167?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 65.0
 

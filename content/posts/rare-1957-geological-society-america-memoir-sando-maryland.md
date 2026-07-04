@@ -16,7 +16,7 @@ categories:
   - 'Science'
   - 'Rare Books'
 slug: 'rare-1957-geological-society-america-memoir-sando-maryland'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389395971672?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

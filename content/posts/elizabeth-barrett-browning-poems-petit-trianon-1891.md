@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Poetry'
 slug: 'elizabeth-barrett-browning-poems-petit-trianon-1891'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389865098870?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 65.0
 

@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'History'
 slug: 'new-france-new-england-john-fiske-1902-first-edition'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/800052200684?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

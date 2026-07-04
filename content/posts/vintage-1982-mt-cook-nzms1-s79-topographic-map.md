@@ -15,7 +15,7 @@ categories:
   - 'Maps & Atlases'
   - 'New Zealand Collectibles'
 slug: 'vintage-1982-mt-cook-nzms1-s79-topographic-map'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389921393228?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

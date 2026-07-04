@@ -16,7 +16,7 @@ categories:
   - 'Numismatics'
   - 'Indian History'
 slug: 'coins-currency-system-karnataka-1997-first-edition-rare'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389128323227?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

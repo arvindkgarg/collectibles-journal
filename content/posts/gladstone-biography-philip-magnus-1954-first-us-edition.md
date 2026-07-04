@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Biographies'
 slug: 'gladstone-biography-philip-magnus-1954-first-us-edition'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389904224761?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 

@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Exploration'
 slug: 'paul-bauer-siege-of-nanga-parbat-first-uk-1956'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389908465461?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 65.0
 

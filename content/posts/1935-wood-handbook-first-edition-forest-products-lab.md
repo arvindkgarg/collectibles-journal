@@ -15,7 +15,7 @@ categories:
   - 'Science & Technology'
   - 'Rare Books'
 slug: '1935-wood-handbook-first-edition-forest-products-lab'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389781278240?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 53.0
 

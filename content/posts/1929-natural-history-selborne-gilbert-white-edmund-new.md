@@ -15,7 +15,7 @@ categories:
   - 'Rare Books'
   - 'Natural Sciences'
 slug: '1929-natural-history-selborne-gilbert-white-edmund-new'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389401754933?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 65.0
 

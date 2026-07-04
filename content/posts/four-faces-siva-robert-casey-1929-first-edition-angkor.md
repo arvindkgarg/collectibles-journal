@@ -16,7 +16,7 @@ categories:
   - 'Rare Books'
   - 'Travel & Exploration'
 slug: 'four-faces-siva-robert-casey-1929-first-edition-angkor'
-draft: true
+draft: false
 ebay_url: 'https://www.ebay.com/itm/389904110840?campid=5339163861&toolid=10001&mkevt=1&mkcid=1'
 ebay_price: 55.0
 
