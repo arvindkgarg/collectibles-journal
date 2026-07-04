@@ -20,7 +20,7 @@ ebay_url: 'https://www.ebay.com/itm/389865062007?campid=5339163861&toolid=10001&
 ebay_price: 85.0
 
 cover:
-  image: 'https://i.ebayimg.com/00/s/MTU1MlgxMzYw/z/yJ4AAeSwlIVp1ykz/$_57.JPG?set_id=880000500F'
+  image: 'https://i.ebayimg.com/00/s/MTU1MlgxMDI0/z/e9kAAeSwGTJp1yaw/$_57.JPG?set_id=880000500F'
   alt: 'The Vicar of Wakefield'
   relative: false
 ---
@@ -32,7 +32,7 @@ This isn't just another copy of a beloved story; it's a piece of history from Th
 > **Currently available:** A copy of this item is in our collection — listed at $85. [View listing on eBay →](https://www.ebay.com/itm/389865062007?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![The Vicar of Wakefield — image 2](https://i.ebayimg.com/00/s/MTU1MlgxMDI0/z/e9kAAeSwGTJp1yaw/$_57.JPG?set_id=880000500F)
+![The Vicar of Wakefield — image 2](https://i.ebayimg.com/00/s/MTYwMFg5Njc=/z/gEYAAeSwzLlp1yaw/$_57.JPG?set_id=880000500F)
 
 ## Goldsmith's Enduring Tale: From 1766 to Victorian Display
 
@@ -54,7 +54,7 @@ Look at his work closely, and you’ll see the detail in the costumes, the expre
 For collectors, Thomson's presence on a title page significantly enhances a book's appeal and value. It’s not just about the author anymore; it’s about the synergy between the author and the artist. When you find a Thomson-illustrated edition, you know you’re holding something that was truly a labor of love, a collaboration between words and art that stands the test of time. He didn't just churn out drawings; he thoughtfully interpreted the text, and that comes through in every single line and shadow. I've picked up countless illustrated editions over the years, and a Hugh Thomson always makes me pause. There's an elegance and an honesty to his work that's just irresistible.
 
 
-![The Vicar of Wakefield — image 4](https://i.ebayimg.com/00/s/MTYwMFg5Njc=/z/gEYAAeSwzLlp1yaw/$_57.JPG?set_id=880000500F)
+![The Vicar of Wakefield — image 4](https://i.ebayimg.com/00/s/MTYwMFg5Njc=/z/qRsAAeSwILhp1yaw/$_57.JPG?set_id=880000500F)
 
 ## Thomas Y. Crowell & Co. and the Petit Trianon Series: A Feast for the Eyes
 
@@ -65,7 +65,7 @@ The 'Petit Trianon Series' is a perfect example of Crowell's commitment to aesth
 In an era where mass production was becoming common, Crowell made sure their Petit Trianon books felt special. The intricate designs, sometimes almost jewel-like in their detail, make these volumes a joy to hold and display. For collectors of period book design, these bindings are pure gold. They tell a story not just about the book's content, but about the era in which it was produced, about the tastes and values of late Victorian readers. I always get a kick out of seeing these Crowell bindings; they're like little pieces of architectural art for your bookshelf. They are distinct, and you can spot them across a room once you know what to look for.
 
 
-![The Vicar of Wakefield — image 5](https://i.ebayimg.com/00/s/MTYwMFg5OTc=/z/m98AAeSw0Ylp1yav/$_57.JPG?set_id=880000500F)
+![The Vicar of Wakefield — image 5](https://i.ebayimg.com/00/s/MTI4OVgxNjAw/z/YAIAAeSwAaFp1yav/$_57.JPG?set_id=880000500F)
 
 ## A True Survivor: Why This Copy's Condition is a Big Deal
 
