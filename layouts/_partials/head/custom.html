@@ -17,7 +17,8 @@
     var type = 'other';
     if (a.closest('#main-menu'))           type = 'store_browse';
     else if (a.classList.contains('ebay-btn')) type = 'view_listing';
-    else if (a.closest('.article-content'))    type = 'article_link';
+    else if (a.closest('.article-content') && a.closest('blockquote')) type = 'article_callout';
+    else if (a.closest('.article-content'))    type = 'article_footer';
     else if (a.closest('.ebay-search-link'))   type = 'search';
     gtag('event', 'ebay_click', {
       link_type:  type,
