@@ -51,7 +51,7 @@ When you flip through its pages, you're not just looking at pretty pictures of m
 But Spencer and his contributors didn't stop at surface geology. Oh no, that would have been too simple. This book reaches deep, integrating geophysical data that was cutting-edge for its time. They’re talking about gravity anomalies, seismic profiles, and observations of upper mantle structures. This wasn’t just about mapping what you could see; it was about understanding the invisible forces and deep-seated processes that were driving mountain building from below. For anyone studying plate tectonics or structural geology, this book wasn't just a reference; it was a primary research tool, a quarry of information that allowed them to test and refine those new, exhilarating theories about how our planet works. The inclusion of detailed structural tables and sedimentary histories isn't just academic filler; it’s the bedrock of serious scientific inquiry.
 
 
-![Mesozoic-Cenozoic Orogenic Belts — image 4](https://i.ebayimg.com/00/s/Njc1WDE1OTk=/z/TwAAAeSwdUVpuKtw/$_57.JPG?set_id=880000500F)
+![Mesozoic-Cenozoic Orogenic Belts — image 4](https://i.ebayimg.com/00/s/Njg0WDE2MDA=/z/YWoAAeSw5nxpuKt-/$_57.PNG?set_id=880000500F)
 
 ## The Definitive Edition, Protected by Time
 
@@ -62,7 +62,7 @@ What makes this particular 1974 edition stand out? Well, from what I can tell, i
 And then there's the slipcase. Many people overlook slipcases, seeing them as mere packaging, but for a book like this, especially one intended for heavy academic use, the slipcase is a hero. This wasn't just a decorative sleeve; it was a fortress against the ravages of time and library life. It protected the covers from scuffs and bumps, and more importantly, it shielded the pages within from dust, light, and humidity. That’s why, when you open this copy, the internal pages are described as pristine. We’re talking bright white, crisp pages, sharp diagrams that look like they were printed yesterday, and not a hint of foxing (those annoying little brown spots caused by age and damp) or thumbing. No dog-ears, no scribbles, just a beautifully preserved interior. It's an almost startling level of preservation for a volume that was likely consulted, studied, and perhaps even lugged around a geology department. This book feels like it's been waiting, patiently, for the right hands to discover it again.
 
 
-![Mesozoic-Cenozoic Orogenic Belts — image 5](https://i.ebayimg.com/00/s/Njg5WDE2MDA=/z/QyUAAeSwKnlpuKtw/$_57.JPG?set_id=880000500F)
+![Mesozoic-Cenozoic Orogenic Belts — image 5](https://i.ebayimg.com/00/s/Njg4WDE2MDA=/z/SywAAeSwFAlpuKtw/$_57.JPG?set_id=880000500F)
 
 ## Why This Belongs in Your Collection
 
