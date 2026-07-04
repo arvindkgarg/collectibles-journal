@@ -31,7 +31,7 @@ You know, sometimes a book just *hits you*. Not because it's a first edition Sha
 > **Currently available:** A copy of this item is in our collection — listed at $105. [View listing on eBay →](https://www.ebay.com/itm/389838578464?campid=5339163861&toolid=10001&mkevt=1&mkcid=1)
 
 
-![A Popular History of the United States of America — image 2](https://i.ebayimg.com/00/s/MTYwMFg0MDU=/z/8n8AAeSwjStpzyW2/$_57.JPG?set_id=880000500F)
+![A Popular History of the United States of America — image 2](https://i.ebayimg.com/00/s/MTI4NlgxNjAw/z/MRIAAeSwaWlpzyXf/$_57.PNG?set_id=880000500F)
 
 ## A Gilded Age Time Capsule: America Through a Late Victorian Lens
 
@@ -40,7 +40,7 @@ Imagine America in 1891. The Civil War was a generation in the past, industriali
 This specific edition, published by Hunt & Eaton in New York, comes from a house known for its educational and religious titles. They understood the market for robust, informative, and visually appealing books. What you're holding, or at least looking at, is a window into the historical education of the era. It's not just about facts and dates; it's about the *perspective* of the time. How did they view westward expansion? What battles and heroes did they emphasize? Reading it now offers a fascinating contrast to modern historical interpretations. It's a chance to see history through the eyes of those who were living closer to the events, with all their biases and assumptions. For collectors of Americana, this perspective alone makes it a compelling acquisition. I always get a kick out of comparing these older histories to contemporary accounts – it tells you as much about the present as it does the past.
 
 
-![A Popular History of the United States of America — image 3](https://i.ebayimg.com/00/s/MTIwNVgxNjAw/z/8f0AAeSw8tFpzyW2/$_57.JPG?set_id=880000500F)
+![A Popular History of the United States of America — image 3](https://i.ebayimg.com/00/s/MTMwNVgxNjAw/z/9fAAAeSw~rFpzyXl/$_57.PNG?set_id=880000500F)
 
 ## Beyond the Text: Visual Spectacle of Victorian Publishing
 
@@ -49,7 +49,7 @@ Now, let's talk about the visuals, because for me, that's where this edition tru
 But it doesn't stop there. This edition boasts numerous vibrant full-page color maps. These aren't just decorative; they're functional, allowing readers to trace the geographical evolution of the United States as they read. And then there are the chronological charts – oh, the charts! These unique, color-coded visual timelines were truly innovative for their time. They lay out U.S. and world events side-by-side, making connections and showing the flow of history in an easy-to-digest format. I've always been a sucker for good infographics, and these late 19th-century attempts at visual data presentation are just fantastic. They're not only incredibly useful for research but also make for really appealing display elements. Imagine one of these opened up on a lectern, showing off its cleverly designed timeline. It's a feature that really sets this edition apart and adds another layer of collectibility.
 
 
-![A Popular History of the United States of America — image 4](https://i.ebayimg.com/00/s/MTI4NlgxNjAw/z/MRIAAeSwaWlpzyXf/$_57.PNG?set_id=880000500F)
+![A Popular History of the United States of America — image 4](https://i.ebayimg.com/00/s/MTYwMFgxMTE4/z/OlkAAeSwarppzyW3/$_57.JPG?set_id=880000500F)
 
 ## That Ornate Gilt: An Industrial Age Statement
 
