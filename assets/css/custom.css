@@ -1,3 +1,12 @@
+/* Brand wordmark — remove link underline/color, centre in sidebar */
+.sidebar .site-name a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    text-align: center;
+    padding: 8px 0 4px;
+}
+
 /* TOC in left sidebar — match title style to nav sections */
 .left-toc .widget-title {
     font-size: 1rem !important;
@@ -141,14 +150,14 @@
     background: var(--card-background);
 }
 
-/* Mobile blog post layout: right sidebar first, then article, left sidebar last */
+/* Mobile blog post layout: logo+nav → widget → article.
+   Left sidebar keeps its default order (-3, first).
+   Right sidebar gets order -2 which ties with main, but right-sidebar
+   is earlier in the DOM so it wins the tie and slots before main. */
 @media (max-width: 767px) {
     .article-page .right-sidebar {
         display: flex;
-        order: -3;
-    }
-    .article-page .left-sidebar {
-        order: -1;
+        order: -2;
     }
 }
 

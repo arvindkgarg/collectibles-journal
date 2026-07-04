@@ -6,26 +6,29 @@
     </button>
 
     <header>
-        {{ with .Site.Params.sidebar.avatar }}
-            {{- $avatar := partial "helper/image" (dict "Image" . "Resources" resources "Context" $) -}}
-            <figure class="site-avatar">
-                <a href="{{ $.Site.Home.RelPermalink }}">
-                    <img src="{{ $avatar.Permalink }}"
-                        width="{{ $avatar.Width }}"
-                        height="{{ $avatar.Height }}"
-                        class="site-logo"
-                        loading="lazy"
-                        alt="Avatar">
-                </a>
-                {{ with $.Site.Params.sidebar.emoji }}
-                    <span class="emoji">{{ . }}</span>
-                {{ end }}
-            </figure>
-        {{ end }}
-
         <div class="site-meta">
-            <h1 class="site-name"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></h1>
-            <h2 class="site-description">{{ .Site.Params.sidebar.subtitle }}</h2>
+            <h1 class="site-name">
+                <a href="{{ .Site.Home.RelPermalink }}" aria-label="{{ .Site.Title }}">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 84"
+                         role="img" aria-label="Ink &amp; Mint"
+                         style="width:100%;max-width:200px;display:block;margin:0 auto 2px;">
+                        <!-- Diamond ornament -->
+                        <polygon points="110,3 114.5,11 110,19 105.5,11" fill="#4ade80" opacity="0.85"/>
+                        <!-- Wordmark -->
+                        <text x="110" y="47" text-anchor="middle"
+                              font-family="Georgia,'Times New Roman',serif"
+                              font-size="26" fill="currentColor">
+                            <tspan opacity="0.92" letter-spacing="3">INK </tspan><tspan fill="#4ade80" letter-spacing="1">&amp;</tspan><tspan opacity="0.92" letter-spacing="3"> MINT</tspan>
+                        </text>
+                        <!-- Rule -->
+                        <line x1="30" y1="57" x2="190" y2="57" stroke="#4ade80" stroke-width="0.8" opacity="0.35"/>
+                        <!-- Tagline -->
+                        <text x="110" y="72" text-anchor="middle"
+                              font-family="'Helvetica Neue',Arial,sans-serif"
+                              font-size="8.5" letter-spacing="3.5" fill="currentColor" opacity="0.4">COLLECTORS&#39; JOURNAL</text>
+                    </svg>
+                </a>
+            </h1>
         </div>
     </header>
 
